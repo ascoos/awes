@@ -7,8 +7,9 @@
 
 ---
 
-<img alt="Ascoos Web Extended Studio Reviews" src="https://sourceforge.net/cdn/syndication/badge_img/600983/oss-users-love-us-white?&amp;r=https://sourceforge.net/p/awserver/admin/files/badges"  width="128px"> <img alt="Ascoos Web Extended Studio Reviews" src="https://sourceforge.net/cdn/syndication/badge_img/600983/oss-community-choice-white?achievement=oss-community-choice&amp;r=https://sourceforge.net/p/awserver/admin/files/badges" width="128px"> <img alt="Ascoos Web Extended Studio Reviews" src="https://sourceforge.net/cdn/syndication/badge_img/600983/oss-sf-favorite-white?achievement=oss-sf-favorite&amp;r=https://sourceforge.net/p/awserver/admin/files/badges" width="128px">
+<img alt="Ascoos Web Extended Studio Reviews" src="https://sourceforge.net/cdn/syndication/badge_img/600983/oss-users-love-us-white?&amp;r=https://sourceforge.net/p/awserver/admin/files/badges" width="128px"> <img alt="Ascoos Web Extended Studio Reviews" src="https://sourceforge.net/cdn/syndication/badge_img/600983/oss-community-choice-white?achievement=oss-community-choice&amp;r=https://sourceforge.net/p/awserver/admin/files/badges" width="128px"> <img alt="Ascoos Web Extended Studio Reviews" src="https://sourceforge.net/cdn/syndication/badge_img/600983/oss-sf-favorite-white?achievement=oss-sf-favorite&amp;r=https://sourceforge.net/p/awserver/admin/files/badges" width="128px">
 
+[![Download Ascoos Web Extended Studio](https://a.fsdn.com/con/app/sf-download-button)](https://sourceforge.net/projects/awserver/files/latest/download)
 ---
 
 A powerful and reliable web server that includes a combination of web technologies such as PHP,  MariaDB, and Filezilla, capable of helping with development.
