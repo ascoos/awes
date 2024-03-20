@@ -7,9 +7,7 @@
 
 ---
 
-<img alt="Ascoos Web Extended Studio Reviews" src="https://sourceforge.net/cdn/syndication/badge_img/600983/oss-users-love-us-white?&amp;r=https://sourceforge.net/p/awserver/admin/files/badges" style="min-width: 60px; max-width:80px; width:100%;">
-<img alt="Ascoos Web Extended Studio Reviews" src="https://sourceforge.net/cdn/syndication/badge_img/600983/oss-community-choice-white?achievement=oss-community-choice&amp;r=https://sourceforge.net/p/awserver/admin/files/badges" style="min-width: 60px; max-width:80px; width:100%;">
-<img alt="Ascoos Web Extended Studio Reviews" src="https://sourceforge.net/cdn/syndication/badge_img/600983/oss-sf-favorite-white?achievement=oss-sf-favorite&amp;r=https://sourceforge.net/p/awserver/admin/files/badges" style="min-width: 60px; max-width:80px; width:100%;">
+<img alt="Ascoos Web Extended Studio Reviews" src="https://sourceforge.net/cdn/syndication/badge_img/600983/oss-users-love-us-white?&amp;r=https://sourceforge.net/p/awserver/admin/files/badges"  width="128px"> <img alt="Ascoos Web Extended Studio Reviews" src="https://sourceforge.net/cdn/syndication/badge_img/600983/oss-community-choice-white?achievement=oss-community-choice&amp;r=https://sourceforge.net/p/awserver/admin/files/badges" width="128px"> <img alt="Ascoos Web Extended Studio Reviews" src="https://sourceforge.net/cdn/syndication/badge_img/600983/oss-sf-favorite-white?achievement=oss-sf-favorite&amp;r=https://sourceforge.net/p/awserver/admin/files/badges" width="128px">
 
 ---
 
