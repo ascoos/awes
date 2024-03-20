@@ -1,8 +1,7 @@
 # Ascoos Web Extended Studio (AWES)
 
 [![Download Ascoos Web Extended Studio](https://img.shields.io/sourceforge/dt/awserver.svg)](https://sourceforge.net/projects/awserver/files/latest/download)
-
-[![Download Ascoos Web Extended Studio](https://a.fsdn.com/con/app/sf-download-button)](https://sourceforge.net/projects/awserver/files/latest/download)
+[![Download Ascoos Web Extended Studio](https://img.shields.io/sourceforge/dm/awserver.svg)](https://sourceforge.net/projects/awserver/files/latest/download)
 
 ---
 
