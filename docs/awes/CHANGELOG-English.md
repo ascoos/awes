@@ -51,7 +51,7 @@ There is currently no email server.
 ## APPLICATIONS
 1. Browser Firefox Developer Edition 126 (Portable)
 2. Visual Studio Code (Portable) 1.89.1
-3. Notepad++ 8.6.6
+3. Notepad++ 8.6.7
 3. FileZilla FTP Client
 
 ---
