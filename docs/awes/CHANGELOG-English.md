@@ -40,7 +40,7 @@
 There is currently no email server.
 
 ## EXTRA
-1. php browscap.ini to 6001003 (2023-01-19)
+1. php browscap.ini to 6001006 (2023-12-04)
 2. phpMyAdmin
 3. phpFileManager (File Manager)
 4. WebSVN (Web SVN Client)
