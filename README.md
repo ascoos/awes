@@ -9,7 +9,7 @@
 
 ---
 
-![Ascoos Web Extended Studio](help/AWES-readme-00000001-800.png)
+![Ascoos Web Extended Studio](help/AWES-readme-00000010-800.png)
 
 
 A powerful and reliable web server that includes a combination of web technologies such as PHP,  MariaDB, and Filezilla, capable of helping with development.
@@ -20,7 +20,7 @@ Ascoos Web Extended Studio allows you to work with multiple versions of PHP and 
 
 Ascoos Web Extended Studio wraps its feature set into a well-designed interface where elements are laid out in an inspired way. Web servers, databases and FTP servers can be controlled from separate sections.
 
-![Ascoos Web Extended Studio](help/AWES-readme-00000002-800.png)
+![Ascoos Web Extended Studio](help/AWES-readme-00000011-800.png)
 
 By default, all services are disabled and the choice of enabling them is up to the user, depending on the current needs.
 
@@ -28,5 +28,5 @@ More advanced configurations are available in the Options window, where you can 
 
 Ascoos Web Extended Studio harnesses the power of the most popular web and database architectures, bringing them together in a package that requires no installation.
 
-![Ascoos Web Extended Studio](help/AWES-readme-00000003-800.png)
+![Ascoos Web Extended Studio](help/AWES-readme-00000012-800.png)
 
