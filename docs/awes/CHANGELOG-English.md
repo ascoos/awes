@@ -1,13 +1,38 @@
-﻿# ASCOOS WEB EXTENDED STUDIO 24.0.0
-
-### MARKINGS
+﻿### MARKINGS
 - [ NUMBER ] Initial public release of AWES
 - [ + ] Add
 - [ - ] Subtraction
 - [ ^ ] Upgrade
 - [ ~ ] Correction
 
--------------------------------------------------- --------------------
+----------------------------------------------------------------------
+
+
+# ASCOOS WEB EXTENDED STUDIO 24.1.0 [1263]
+
+!!DATE 2024-10-13
+
+## WEB SERVERS
+- [ + ] SVN Subversion 1.14.4
+- [ ^ ] PHP -> 8.1.30, 8.2.24, 8.3.12
+
+## DATABASES
+- [ + ] MariaDB -> 11.6.x
+
+## APPLICATIONS
+- [ ^ ] Firefox Developer Edition -> 132
+- [ ^ ] Visual Studio Code -> 1.94.2
+- [ ^ ] Notepad++ ->8.7.0
+- [ ^ ] FileZilla FTP Client -> 3.67.1
+
+## ADDONS
+- [ ^ ] php browscap.ini -> 6001007 (2024-06-16)
+- [ ~ ] WebSVN (Web SVN Client)
+
+----------------------------------------------------------------------
+
+
+# ASCOOS WEB EXTENDED STUDIO 24.0.0 [1225]
 
 ### ALPHA VERSION 1
 
