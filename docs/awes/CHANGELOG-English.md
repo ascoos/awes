@@ -7,6 +7,26 @@
 
 ----------------------------------------------------------------------
 
+# ASCOOS WEB EXTENDED STUDIO 24.1.0 [1332]
+
+!!DATE 2024-10-17
+
+### AWES
+- [ ~ ] Fixed critical bugs in the management tab of users and their domains.
+- [ ~ ] Fixed critical bugs in automatically adding or deleting domains' DNS in the Windows Hosts file.
+
+## WEB SERVERS
+- [ ^ ] IonCube PHP loaders -> Upgraded to version 14.0.0 (2024-10-14)
+
+## DATABASES
+- [ ^ ] MariaDB -> The 6 versions (11.0.x - 11.5.x) that were removed for compressed installation file size reasons were restored. So there are now 8 versions of the database available.
+
+## APPLICATIONS
+- [ ~ ] Firefox Developer Edition -> Fixed bug in automatically changing user profile path when changing AWES installation folder from within the configuration window.
+- [ ^ ] Firefox Developer Edition -> Upgraded to version 132.0b8
+
+
+----------------------------------------------------------------------
 
 # ASCOOS WEB EXTENDED STUDIO 24.1.0 [1263]
 
