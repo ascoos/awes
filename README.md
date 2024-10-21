@@ -8,7 +8,6 @@
 <br>
 
 [![Ascoos Web Extended Studio  - state of Official Website](https://img.shields.io/website?url=https://awes.ascoos.com)](https://awes.ascoos.com) 
-![Ascoos General License (AGL-F)](https://img.shields.io/github/license/ascoos/awes) 
 ![Ascoos Web Extended Studio - Forks](https://img.shields.io/github/forks/ascoos/awes)
 ![Ascoos Web Extended Studio - Stars](https://img.shields.io/github/stars/ascoos/awes)
 ![Ascoos Web Extended Studio - Watchers](https://img.shields.io/github/watchers/ascoos/awes)
