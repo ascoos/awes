@@ -235,9 +235,6 @@ The final working path would look something like this: c:\AWES
 
 Also, before running AWES, close and uninstall the service of other programs like AWS, Xampp, Wamp, etc.
 
-```    
-
-```
 
 ## Supported Windows Versions 
 ```
