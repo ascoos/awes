@@ -1,5 +1,14 @@
 # Ascoos Web Extended Studio (AWES)
 
+
+![GitHub Release](https://img.shields.io/github/v/release/ascoos/awes) 
+![GitHub Release Date](https://img.shields.io/github/release-date/ascoos/awes?color=%230E80C0)
+![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/ascoos/awes/total?color=%230E80C0) 
+![GitHub repo size](https://img.shields.io/github/repo-size/ascoos/awes)
+
+***
+
+### SOURCEFORGE
 [![Download Ascoos Web Extended Studio](https://img.shields.io/sourceforge/dt/ascoos-web-extended-studio.svg)](https://sourceforge.net/projects/ascoos-web-extended-studio/files/latest/download)
 [![Download Ascoos Web Extended Studio](https://img.shields.io/sourceforge/dm/ascoos-web-extended-studio.svg)](https://sourceforge.net/projects/ascoos-web-extended-studio/files/latest/download)
 [![Download Ascoos Web Extended Studio](https://img.shields.io/sourceforge/dw/ascoos-web-extended-studio.svg)](https://sourceforge.net/projects/ascoos-web-extended-studio/files/latest/download)
