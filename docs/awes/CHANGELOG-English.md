@@ -3,7 +3,23 @@
 - [ + ] Add
 - [ - ] Subtraction
 - [ ^ ] Upgrade
-- [ ~ ] Correction
+- [ ! ] Correction
+
+----------------------------------------------------------------------
+
+# ASCOOS WEB EXTENDED STUDIO 24.1.0 [1359]
+
+!!DATE 2024-10-21
+
+### AWES
+- [ + ] Added option to create an Indexes view of domain contents. This is necessary when in a sector, we want to see in the browser the files contained in the folder and choose which one we want to execute. This requires caution, because if the installation is for public use and not for local use, the contents of the domain will be visible globally on the Internet or internal network.
+
+- [ ! ] Fixed bugs in the management tab of users domains. Specifically, the error in deleting the apache configuration file when deleting a domain or subdomain has been fixed.
+
+- [ ! ] Fixed bugs in the automatic refresh of the DNS list of the Windows Hosts file in the corresponding AWES tab, after adding or deleting domains.
+
+## ADDONS
+- [ + ] mySQLiteAdmin -> Added the SQLite web database management application
 
 ----------------------------------------------------------------------
 
@@ -12,8 +28,8 @@
 !!DATE 2024-10-17
 
 ### AWES
-- [ ~ ] Fixed critical bugs in the management tab of users and their domains.
-- [ ~ ] Fixed critical bugs in automatically adding or deleting domains' DNS in the Windows Hosts file.
+- [ ! ] Fixed critical bugs in the management tab of users and their domains.
+- [ ! ] Fixed critical bugs in automatically adding or deleting domains' DNS in the Windows Hosts file.
 
 ## WEB SERVERS
 - [ ^ ] IonCube PHP loaders -> Upgraded to version 14.0.0 (2024-10-14)
@@ -22,7 +38,7 @@
 - [ ^ ] MariaDB -> The 6 versions (11.0.x - 11.5.x) that were removed for compressed installation file size reasons were restored. So there are now 8 versions of the database available.
 
 ## APPLICATIONS
-- [ ~ ] Firefox Developer Edition -> Fixed bug in automatically changing user profile path when changing AWES installation folder from within the configuration window.
+- [ ! ] Firefox Developer Edition -> Fixed bug in automatically changing user profile path when changing AWES installation folder from within the configuration window.
 - [ ^ ] Firefox Developer Edition -> Upgraded to version 132.0b8
 
 
@@ -47,7 +63,7 @@
 
 ## ADDONS
 - [ ^ ] php browscap.ini -> 6001007 (2024-06-16)
-- [ ~ ] WebSVN (Web SVN Client)
+- [ ! ] WebSVN (Web SVN Client)
 
 ----------------------------------------------------------------------
 
