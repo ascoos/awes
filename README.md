@@ -1,14 +1,54 @@
 # Ascoos Web Extended Studio (AWES)
 
-[![Website](https://img.shields.io/website?url=https://awes.ascoos.com)](https://awes.ascoos.com) 
-![GitHub Release](https://img.shields.io/github/v/release/ascoos/awes) 
-![GitHub Release Date](https://img.shields.io/github/release-date/ascoos/awes?color=%230E80C0)
-![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/ascoos/awes/total?color=%230E80C0) 
-![GitHub repo size](https://img.shields.io/github/repo-size/ascoos/awes)
 
-***
+<details>
+<summary>
+  🟠 General informations
+</summary>
+<br>
 
-### SOURCEFORGE
+[![Ascoos Web Extended Studio  - state of Official Website](https://img.shields.io/website?url=https://awes.ascoos.com)](https://awes.ascoos.com) 
+![Ascoos General License (AGL-F)](https://img.shields.io/github/license/ascoos/awes) 
+![Ascoos Web Extended Studio - Forks](https://img.shields.io/github/forks/ascoos/awes)
+![Ascoos Web Extended Studio - Stars](https://img.shields.io/github/stars/ascoos/awes)
+![Ascoos Web Extended Studio - Watchers](https://img.shields.io/github/watchers/ascoos/awes)
+</details>
+
+<details>
+<summary>
+  🟠 Repository and Releases
+</summary>
+<br>
+
+[![Ascoos Web Extended Studio - Release](https://img.shields.io/github/v/release/ascoos/awes)](https://github.com/ascoos/awes/releases)
+![Ascoos Web Extended Studio - Release Date](https://img.shields.io/github/release-date/ascoos/awes?color=%230E80C0)
+![Ascoos Web Extended Studio - Downloads (all assets, all releases)](https://img.shields.io/github/downloads/ascoos/awes/total?color=%230E80C0) 
+[![Ascoos Web Extended Studio - latest release tag](https://img.shields.io/github/tag/ascoos/awes.svg)](https://github.com/ascoos/awes/tags)
+
+![Ascoos Web Extended Studio - repo size](https://img.shields.io/github/repo-size/ascoos/awes)
+[![Ascoos Web Extended Studio - total lines](https://tokei.rs/b1/github/ascoos/awes?category=lines)](https://github.com/ascoos/awes)
+[![Ascoos Web Extended Studio - source code lines](https://tokei.rs/b1/github/ascoos/awes?category=code)](https://github.com/ascoos/awes) 
+[![Ascoos Web Extended Studio - files in repository](https://tokei.rs/b1/github/ascoos/awes?category=files)](https://github.com/ascoos/awes)
+</details>
+
+<details>
+<summary>
+  🟠 Issues - Requests
+</summary>
+<br>
+
+[![Ascoos Web Extended Studio - Open Issues](https://img.shields.io/github/issues/ascoos/awes)](https://github.com/ascoos/awes/issues)
+[![Ascoos Web Extended Studio - Closed Issues](https://img.shields.io/github/issues-closed/ascoos/awes)](https://github.com/ascoos/awes/issues)
+[![Ascoos Web Extended Studio - Open Pull Requests](https://img.shields.io/github/issues-pr/ascoos/awes)](https://github.com/ascoos/awes/pulls)
+[![Ascoos Web Extended Studio - Closed Pull Requests](https://img.shields.io/github/issues-pr-closed/ascoos/awes)](https://github.com/ascoos/awes/pulls)
+![Ascoos Web Extended Studio - Last Commit](https://img.shields.io/github/last-commit/ascoos/awes)
+</details>
+
+<details>
+<summary>
+  🟠 SOURCEFORGE
+</summary>
+<br>
 
 ### Ascoos Web Extended Studio (For PHP 5.6.40 - 8.x)
   
@@ -17,8 +57,10 @@
 [![Download Ascoos Web Extended Studio](https://img.shields.io/sourceforge/dw/ascoos-web-extended-studio.svg)](https://sourceforge.net/projects/ascoos-web-extended-studio/files/latest/download)
 [![Download Ascoos Web Extended Studio](https://img.shields.io/sourceforge/dd/ascoos-web-extended-studio.svg)](https://sourceforge.net/projects/ascoos-web-extended-studio/files/latest/download)
 
+<img alt="Ascoos Web Extended Studio Reviews" src="https://sourceforge.net/cdn/syndication/badge_img/3805424/oss-users-love-us-white?achievement=oss-users-love-us-white&amp;r=https://sourceforge.net/projects/ascoos-web-extended-studio/" width="128px">
 
-### Ascoos Web Server (For PHP 5.2.x - 5.4.x)
+
+### Ascoos Web Server (For PHP 5.2.x - 5.4.x) [ENDED 2015]
   
 [![Download Ascoos Web Server](https://img.shields.io/sourceforge/dt/awserver.svg)](https://sourceforge.net/projects/awserver/files/latest/download)
 [![Download Ascoos Web Server](https://img.shields.io/sourceforge/dm/awserver.svg)](https://sourceforge.net/projects/awserver/files/latest/download)
@@ -26,14 +68,144 @@
 [![Download Ascoos Web Server](https://img.shields.io/sourceforge/dd/awserver.svg)](https://sourceforge.net/projects/awserver/files/latest/download)
 
 
-<img alt="Ascoos Web Extended Studio Reviews" src="https://sourceforge.net/cdn/syndication/badge_img/3805424/oss-users-love-us-white?achievement=oss-users-love-us-white&amp;r=https://sourceforge.net/projects/ascoos-web-extended-studio/" width="128px"> <img alt="Ascoos Web Extended Studio Reviews" src="https://sourceforge.net/cdn/syndication/badge_img/3805424/oss-community-choice-white?achievement=oss-community-choice&amp;r=https://sourceforge.net/p/awserver/admin/files/badges" width="128px"> <img alt="Ascoos Web Extended Studio Reviews" src="https://sourceforge.net/cdn/syndication/badge_img/3805424/oss-sf-favorite-white?achievement=oss-sf-favorite&amp;r=https://sourceforge.net/p/awserver/admin/files/badges" width="128px">
+<img alt="Ascoos Web Extended Studio Reviews" src="https://sourceforge.net/cdn/syndication/badge_img/3805424/oss-users-love-us-white?achievement=oss-users-love-us-white&amp;r=https://sourceforge.net/projects/awserver/" width="128px"> <img alt="Ascoos Web Extended Studio Reviews" src="https://sourceforge.net/cdn/syndication/badge_img/3805424/oss-community-choice-white?achievement=oss-community-choice&amp;r=https://sourceforge.net/p/awserver/admin/files/badges" width="128px"> <img alt="Ascoos Web Extended Studio Reviews" src="https://sourceforge.net/cdn/syndication/badge_img/3805424/oss-sf-favorite-white?achievement=oss-sf-favorite&amp;r=https://sourceforge.net/p/awserver/admin/files/badges" width="128px">
+</details>
 
 ---
+
+
+## Features for version 24.x
+
+Click on each option to open the content.
+
+<details>
+<summary>
+  🟢 GUI 
+</summary>
+<br>
+
+|Name | Alpha | Beta | RC | Stable |
+|---|---|---|---|---|
+| **AWES Desktop Control**<br>(`Portable`) | ✅ | ✅ | ✅ | ✅ |
+| **WCI**<br>(`Web-based Control Information`) |  |  | **?** | ✅ |
+| **WCP**<br>(`Web-based Control Panel`) |  |  |  | **?** |
+| **Multilingual**<br>(`English, Greek`) | ✅ | ✅ | ✅ | ✅ |
+| **Themes**<br>(`Multiple skins`) | ✅ | ✅ | ✅ | ✅ |
+| **Windows DNS Hosts**<br>(`Native AWES Editor`) | ✅ | ✅ | ✅ | ✅ |
+</details>
+
+<details>
+<summary>
+  🟠 SERVERS
+</summary>
+ <br>
+
+|Name | Alpha | Beta | RC | Stable |
+|---|---|---|---|---|
+| **Apache**<br>(`Web Server`) | ✅ | ✅ | ✅ | ✅ |
+| **NGNIX**<br>(`Web Server`) |  |  | **?** | ✅ |
+| **Filezilla**<br>(`FTP Server`) | ✅ | ✅ | ✅ | ✅ |
+| **SVN** <br> (`Code Repositories`) | ✅ | ✅ | ✅ | ✅ |
+| **hMailServer**<br>(`Email Server`) |  |  |  | ✅ |
+</details>
+
+<details>
+<summary>
+  🟣 PROGRAMMING LANGUAGES (Server side)
+</summary>
+ <br>
+
+|Name | Alpha | Beta | RC | Stable|
+|---|---|---|---|---|
+| **PHP** <br> (`Multiple PHP Versions`) | ✅ | ✅ | ✅ | ✅ |
+| **Python** <br> (`Run as Apache CGI`) | ✅ | ✅ | ✅ | ✅ |
+| **NodeJS** <br> (`Run as Apache CGI`) | ✅ | ✅ | ✅ | ✅ |
+| **Perl** <br> (`Run as Apache CGI`) |  |  |  | **?** |
+</details>
+
+<details>
+<summary>
+  🔵 DATABASES
+</summary>
+ <br> 
+
+|Name | Alpha | Beta | RC | Stable|
+|---|---|---|---|---|
+| **MariaDB** <br> (`Multiple DB Versions`) | ✅ | ✅ | ✅ | ✅ |
+| **PostgreSQL** |  |  | **?** | ✅ |
+| **MongoDB** |  |  | **?** | ✅ |
+| **SQLite** | ✅ | ✅ | ✅ | ✅ |
+</details>
+
+<details>
+<summary>
+  🔴 ADDONS
+</summary>
+ <br> 
+
+|Name | Alpha | Beta | RC | Stable|
+|---|---|---|---|---|
+| **phpMyAdmin**<br>(`Web Interface for MariaDB`) | ✅ | ✅ | ✅ | ✅ |
+| **phpPgAdmin**<br>(`Web Interface for PostfreSQL`) |  |  | **?** | ✅ |
+| **phpLiteAdmin**<br>(`Web Interface for SQLite`) |  | **?** | ✅ | ✅ |
+| **Tiny File Manager**<br>(`Web File Manager`) | ✅ | ✅ | ✅ | ✅ |
+| **WebSVN**<br>(`Web SVN Repository Client`) | ✅ | ✅ | ✅ | ✅ |
+</details>
+
+<details>
+<summary>
+  🟠 SEXTRA INCLUDES
+</summary>
+ <br>
+
+|Name | Alpha | Beta | RC | Stable|
+|---|---|---|---|---|
+| **OpenSSL** <br> (`SSL Supports`) | ✅ | ✅ | ✅ | ✅ |
+| **IonCube** <br> (`encoder loaders for PHP`) | ✅ | ✅ | ✅ | ✅ |
+| **Browscap** <br> (`Browser informations`) | ✅ | ✅ | ✅ | ✅ |
+</details>
+
+<details>
+<summary>
+  🟠 DESKTOP APPLICATIONS
+</summary>
+ <br>
+
+|Name | Alpha | Beta | RC | Stable|
+|---|---|---|---|---|
+| **Firefox** <br> (`Portable Developer Edition`) | ✅ | ✅ | ✅ | ✅ |
+| **Maxthon** <br> (`Optional Portable Webkit Browser`) |  |  |  | **?** |
+| **Visual Studio Code** <br> (`Portable Code Editor`) | ✅ | ✅ | ✅ | ✅ |
+| **Notepad++** <br> (`Portable Code Editor`) | ✅ | ✅ | ✅ | ✅ |
+| **Filezilla** <br> (`FTP Client`) | ✅ | ✅ | ✅ | ✅ |
+</details>
+
+<details>
+<summary>
+  🟠 WEB APPLICATIONS
+</summary>
+ <br>
+
+|Name | Alpha | Beta | RC | Stable|
+|---|---|---|---|---|
+| **Ascoos Framework** <br> (`Ascoos PHP Framework`) |  |  |  | **?** |
+| **Ascoos CMS 24'** <br> (`Free Edition`) |  |  |  | **?** |
+| **Drupal** <br> (`Freeware cms`) |  |  | ✅ | ✅ |
+| **Joomla!** <br> (`4.x and 5.x`) | ✅ | ✅ | ✅ | ✅ |
+| **Wordpress!** <br> (`5.x and 6.x`) | ✅ | ✅ | ✅ | ✅ |
+| **phpBB** <br> (`Forum`) |  |  | ✅ | ✅ |
+| **SMF Forum** |  |  | ✅ | ✅ |
+</details>
+
+
+
+# What is the `Ascoos Web Extended Studio` application?
+
 
 ![Ascoos Web Extended Studio](help/AWES-readme-00000010-800.png)
 
 
-A powerful and reliable web server that includes a combination of web technologies such as PHP,  MariaDB, and Filezilla, capable of helping with development.
+A powerful and reliable web server that includes a combination of web technologies such as `PHP`,  `MariaDB`, and `Filezilla`, capable of helping with development.
 
 Ascoos Web Extended Studio is a rich package designed as a flexible web server for development purposes. It integrates third-party components such as PHP, MariaDB, pgSQL, MongoDB, Python, NodeJS and FileZilla and stands out through a compact installation and a well-designed admin panel.
 
@@ -55,8 +227,6 @@ Ascoos Web Extended Studio harnesses the power of the most popular web and datab
 
 
 
-
-
 # Installation
 
 Unzip the awes.7z file to ROOT of the disk drive (C:, D:, E: F: ...) where you want to install AWES.
@@ -66,7 +236,18 @@ The final working path would look something like this: c:\AWES
 Also, before running AWES, close and uninstall the service of other programs like AWS, Xampp, Wamp, etc.
 
 ```    
+
+```
+
+## Supported Windows Versions 
+```
 This program runs on 64Bit Windows as administrator.
+
+Supported Windows Versions 
+    - Windows 7 64Bit
+    - Windows 8 64Bit
+    - Windows 10 64Bit
+    - Windows 11 64Bit
 ```
 
 
@@ -83,33 +264,12 @@ This program runs on 64Bit Windows as administrator.
 
 
 
-## Features 
-    - AWES GUI : Desktop GUI Control
-    - AWES GUI : Web Control Information (WCI)
-    - AWES GUI : Multilanguage, Skins
-    
-    - Apache    : Web Server
-    - OpenSSL   : SSL Supports
-    - PHP       : Multiple PHP Versions
-    - IonCube   : encoder loaders for PHP
-    - browscap  : Browser informations    
-    - NodeJS    : As Apache CGI
-    - Python    : Aas Apache CGI
-    - SVN       : Code Repositories
-    - MariaDB   : Multiple Database versions
-    - Filezilla : FTP Server
-    - SQLite    : Database
-
-    - phpMyAdmin        : Web Interface for MariaDB
-    - Tiny File Manager : Web File Manager
-    - WebSVN            : Web SVN Repository Client
-
-
 # Links
 
 ### Ascoos Web Extended Studio - Official Websites
-    - http://apps.ascoos.com/awes
-    - https://sourceforge.net/projects/ascoos-web-extended-studio (For download)
+![Official Website](https://awes.ascoos.com)
+
+![For download](https://sourceforge.net/projects/ascoos-web-extended-studio)
 
 
 ### ASCOOS CMS - Official Websites
@@ -119,5 +279,3 @@ This program runs on 64Bit Windows as administrator.
 
 ###  Official Video Tutorials
     https://www.youtube.com/user/AscoosCms
-
-	
