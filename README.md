@@ -154,7 +154,7 @@ Click on each option to open the content.
 
 <details>
 <summary>
-  🟠 SEXTRA INCLUDES
+  🟢 EXTRA INCLUDES
 </summary>
  <br>
 
@@ -182,7 +182,7 @@ Click on each option to open the content.
 
 <details>
 <summary>
-  🟠 WEB APPLICATIONS
+  🟣 WEB APPLICATIONS
 </summary>
  <br>
 
@@ -250,7 +250,7 @@ Supported Windows Versions
 
 ## Copyright
 
-2011-2024 by ![Alexsoft Software](https://www.alexsoft.gr)
+2011-2024 by [Alexsoft Software](https://www.alexsoft.gr)
 
 
 
@@ -264,15 +264,15 @@ Supported Windows Versions
 # Links
 
 ### Ascoos Web Extended Studio - Official Websites
-![Official Website](https://awes.ascoos.com)
-
-![For download](https://sourceforge.net/projects/ascoos-web-extended-studio)
+  - [Official Website](https://awes.ascoos.com)  
+  - [For download](https://sourceforge.net/projects/ascoos-web-extended-studio)
 
 
 ### ASCOOS CMS - Official Websites
-    - http://www.ascoos.com
-    - http://www.ascoos.gr
+  - [Ascoos Cms](http://www.ascoos.com)
+  - [Ascoos Cms (Greek Site)](http://www.ascoos.gr)
 
 
 ###  Official Video Tutorials
-    https://www.youtube.com/user/AscoosCms
+  - [Youtube Vidoes from Ascoos](https://www.youtube.com/user/AscoosCms)
+    
