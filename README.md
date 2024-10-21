@@ -67,7 +67,7 @@
 [![Download Ascoos Web Server](https://img.shields.io/sourceforge/dd/awserver.svg)](https://sourceforge.net/projects/awserver/files/latest/download)
 
 
-<img alt="Ascoos Web Extended Studio Reviews" src="https://sourceforge.net/cdn/syndication/badge_img/3805424/oss-users-love-us-white?achievement=oss-users-love-us-white&amp;r=https://sourceforge.net/projects/awserver/" width="128px"> <img alt="Ascoos Web Extended Studio Reviews" src="https://sourceforge.net/cdn/syndication/badge_img/3805424/oss-community-choice-white?achievement=oss-community-choice&amp;r=https://sourceforge.net/p/awserver/admin/files/badges" width="128px"> <img alt="Ascoos Web Extended Studio Reviews" src="https://sourceforge.net/cdn/syndication/badge_img/3805424/oss-sf-favorite-white?achievement=oss-sf-favorite&amp;r=https://sourceforge.net/p/awserver/admin/files/badges" width="128px">
+<img alt="Ascoos Web Extended Studio Reviews" src="https://sourceforge.net/cdn/syndication/badge_img/600983/oss-community-choice-white?achievement=oss-community-choice&amp;r=https://sourceforge.net/p/awserver/admin/files/badges" width="128px"> <img alt="Ascoos Web Extended Studio Reviews" src="https://sourceforge.net/cdn/syndication/badge_img/600983/oss-sf-favorite-white?achievement=oss-sf-favorite&amp;r=https://sourceforge.net/p/awserver/admin/files/badges" width="128px">
 </details>
 
 ---
