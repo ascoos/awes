@@ -1,6 +1,6 @@
 # Ascoos Web Extended Studio (AWES)
 
-![Website](https://img.shields.io/website?url=https://awes.ascoos.com) 
+[![Website](https://img.shields.io/website?url=https://awes.ascoos.com)](https://awes.ascoos.com) 
 ![GitHub Release](https://img.shields.io/github/v/release/ascoos/awes) 
 ![GitHub Release Date](https://img.shields.io/github/release-date/ascoos/awes?color=%230E80C0)
 ![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/ascoos/awes/total?color=%230E80C0) 
