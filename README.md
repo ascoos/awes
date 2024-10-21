@@ -9,12 +9,22 @@
 ***
 
 ### SOURCEFORGE
+
+### Ascoos Web Extended Studio (For PHP 5.6.40 - 8.x)
+  
 [![Download Ascoos Web Extended Studio](https://img.shields.io/sourceforge/dt/ascoos-web-extended-studio.svg)](https://sourceforge.net/projects/ascoos-web-extended-studio/files/latest/download)
 [![Download Ascoos Web Extended Studio](https://img.shields.io/sourceforge/dm/ascoos-web-extended-studio.svg)](https://sourceforge.net/projects/ascoos-web-extended-studio/files/latest/download)
 [![Download Ascoos Web Extended Studio](https://img.shields.io/sourceforge/dw/ascoos-web-extended-studio.svg)](https://sourceforge.net/projects/ascoos-web-extended-studio/files/latest/download)
 [![Download Ascoos Web Extended Studio](https://img.shields.io/sourceforge/dd/ascoos-web-extended-studio.svg)](https://sourceforge.net/projects/ascoos-web-extended-studio/files/latest/download)
 
----
+
+### Ascoos Web Server (For PHP 5.2.x - 5.4.x)
+  
+[![Download Ascoos Web Server](https://img.shields.io/sourceforge/dt/awserver.svg)](https://sourceforge.net/projects/awserver/files/latest/download)
+[![Download Ascoos Web Server](https://img.shields.io/sourceforge/dm/awserver.svg)](https://sourceforge.net/projects/awserver/files/latest/download)
+[![Download Ascoos Web Server](https://img.shields.io/sourceforge/dw/awserver.svg)](https://sourceforge.net/projects/awserver/files/latest/download)
+[![Download Ascoos Web Server](https://img.shields.io/sourceforge/dd/awserver.svg)](https://sourceforge.net/projects/awserver/files/latest/download)
+
 
 <img alt="Ascoos Web Extended Studio Reviews" src="https://sourceforge.net/cdn/syndication/badge_img/3805424/oss-users-love-us-white?achievement=oss-users-love-us-white&amp;r=https://sourceforge.net/projects/ascoos-web-extended-studio/" width="128px"> <img alt="Ascoos Web Extended Studio Reviews" src="https://sourceforge.net/cdn/syndication/badge_img/3805424/oss-community-choice-white?achievement=oss-community-choice&amp;r=https://sourceforge.net/p/awserver/admin/files/badges" width="128px"> <img alt="Ascoos Web Extended Studio Reviews" src="https://sourceforge.net/cdn/syndication/badge_img/3805424/oss-sf-favorite-white?achievement=oss-sf-favorite&amp;r=https://sourceforge.net/p/awserver/admin/files/badges" width="128px">
 
@@ -80,13 +90,13 @@ This program runs on 64Bit Windows as administrator.
     
     - Apache    : Web Server
     - OpenSSL   : SSL Supports
-    - PHP       : Six (6) Versions
+    - PHP       : Multiple PHP Versions
     - IonCube   : encoder loaders for PHP
-	- browscap  : Browser informations    
+    - browscap  : Browser informations    
     - NodeJS    : As Apache CGI
     - Python    : Aas Apache CGI
     - SVN       : Code Repositories
-    - MariaDB   : Three (3) Database versions
+    - MariaDB   : Multiple Database versions
     - Filezilla : FTP Server
     - SQLite    : Database
 
