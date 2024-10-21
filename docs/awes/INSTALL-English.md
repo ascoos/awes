@@ -7,9 +7,9 @@
 ## 1. DOWNLOAD
 You can download the original `AWES` program from the addresses below.
 
-- `Ascoos` [ https://apps.ascoos.com/awes ]
+- `Ascoos` [ https://awes.ascoos.com ]
 - `SourceForge` [ https://sourceforge.net/projects/ascoos-web-extended-studio ]
-- `Softpedia`  [ https://www.softpedia.com/get/Internet/Servers/WEB-Servers/AWES.shtml ]
+- `Softpedia` [ https://www.softpedia.com/get/Internet/Servers/WEB-Servers/AWES.shtml ]
 - `Github` [ https://github.com/ascoos/awes ]
 
 
@@ -42,3 +42,4 @@ These options apply only to the AWES environment and not to your servers or cont
     - `Run in background on exit` : This option is disabled. It will be implemented in the future.
     - `Create system statistics`: This option is disabled. It will be implemented in the future.
     - `Clean temporary files on exit`: If you select this option, AWES will clean up all temporary files created by it and the servers upon shutdown.
+    

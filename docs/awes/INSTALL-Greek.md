@@ -7,9 +7,9 @@
 ## 1. DOWNLOAD
 Μπορείτε να κατεβάστε το αρχικό πρόγραμμα του `AWES` από τις παρακάτω διευθύνσεις.
 
-- `Ascoos` [ https://apps.ascoos.com/awes ]
+- `Ascoos` [ https://awes.ascoos.com ]
 - `SourceForge` [ https://sourceforge.net/projects/ascoos-web-extended-studio ]
-- `Softpedia`  [ https://www.softpedia.com/get/Internet/Servers/WEB-Servers/AWES.shtml ]
+- `Softpedia` [ https://www.softpedia.com/get/Internet/Servers/WEB-Servers/AWES.shtml ]
 - `Github` [ https://github.com/ascoos/awes ]
 
 
