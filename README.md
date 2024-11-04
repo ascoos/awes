@@ -212,7 +212,7 @@ Ascoos Web Extended Studio allows you to work with multiple versions of PHP and 
 
 Ascoos Web Extended Studio wraps its feature set into a well-designed interface where elements are laid out in an inspired way. Web servers, databases and FTP servers can be controlled from separate sections.
 
-![Ascoos Web Extended Studio](help/AWES-readme-00000011-800.png)
+![Ascoos Web Extended Studio Web Servers](https://a.fsdn.com/con/app/proj/ascoos-web-extended-studio/screenshots/AWES-24.1.1-00000102b-1024-37eaaf82.png)
 
 By default, all services are disabled and the choice of enabling them is up to the user, depending on the current needs.
 
