@@ -1,4 +1,4 @@
-# `Συντελεστές`
+# Συντελεστές
 Το αρχείο αυτό αποτελεί ένα συνοδευτικό αρχείο που περιέχει πληροφορίες για τους συντελεστές δημιουργίας και μετάφρασης, τους πόρους και τις βιβλιοθήκες που χρειάστηκαν για την ολοκλήρωση του AWES.
 
 Κάθε νέο πρόσωπο ή στοιχείο που συμμετέχει στην διαδικασία δημιουργίας ή αναβάθμισης του προγράμματος αναφέρεται, ως οφείλουμε, στο αρχείο αυτό. 
@@ -29,6 +29,7 @@
 - `hMailServer`  [ https://www.hmailserver.com ]
 - `SubVersion`  [ https://subversion.apache.org ]
 - `phpMyAdmin`  [ https://www.phpmyadmin.net ]
+- `Memcached`  [ https://www.memcached.org ]
 - `Browscap` [ https://browscap.org ]
 - `Tiny File Manager`  [ https://tinyfilemanager.github.io/ ]
 - `WebSVN`  [ https://websvnphp.github.io ]

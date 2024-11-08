@@ -17,23 +17,17 @@ The final working path would look something like this: c:\AWES
 
 Also, before running AWES, close and uninstall the service of other programs like AWS, Xampp, Wamp, etc.
 
-```    
+   
 This program runs on 64Bit Windows as administrator.
-```
-
 
 ## Copyright
 
 2011-2024 by Alexsoft Software. (https://www.alexsoft.gr)
 
-
-
 ## Licenses
     a) ASCOOS CMS General License (AGL)
     b) ASCOOS Free License        (AGL-F)
     c) GNU General Public License (GPL)
-
-
 
 ## Features 
     - AWES GUI : Desktop GUI Control
@@ -49,6 +43,7 @@ This program runs on 64Bit Windows as administrator.
     - Python    : Aas Apache CGI
     - SVN       : Code Repositories
     - MariaDB   : Three (3) Database versions
+    - MongoDB   : Database
     - Filezilla : FTP Server
     - SQLite    : Database
 
@@ -60,7 +55,7 @@ This program runs on 64Bit Windows as administrator.
 # Links
 
 ### Ascoos Web Extended Studio - Official Websites
-    - http://apps.ascoos.com/awes
+    - http://awes.ascoos.com
     - https://sourceforge.net/projects/ascoos-web-extended-studio (For download)
 
 

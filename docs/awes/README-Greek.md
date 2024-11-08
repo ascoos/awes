@@ -8,8 +8,6 @@
 
 Κάθε νέα έκδοση του AWES, περιλαμβάνει τις πιο πρόσφατες εκδόσεις μεμονωμένων προγραμμάτων χωρίς να καταργεί τις προηγούμενες εκδόσεις. Έτσι, έχετε την ευκαιρία για πειράματα, για να βεβαιωθείτε ότι οι ιστοσελίδες σας λειτουργούν σε όλες τις εκδόσεις.
 
-
-
 ## Εγκατάσταση
 
 Αποσυμπιέστε το αρχείο awes.zip στο ROOT του οδηγού δίσκου (C:, D:, E: F: ...) που επιθυμείτε να γίνει η εκγατάσταση του AWES.
@@ -18,22 +16,16 @@
 
 Επίσης, πριν εκτελέσετε το AWES, κλείστε και απεγκαταστήστε την υπηρεσία άλλων προγραμμάτων όπως τα AWS, Xampp, Wamp κλπ.
 
-```   
 Αυτό το πρόγραμμα εκτελείται σε Windows 64Bit ως διαχειριστής.
-```
 
 ## Πνευματικά Δικαιώματα
 
 2011-2024 by Alexsoft Software. (https://www.alexsoft.gr)
 
-
-
 ## Άδειες Χρήσης
     a) ASCOOS CMS General License (AGL)
     b) ASCOOS Free License        (AGL-F)
     c) GNU General Public License (GPL)
-
-
 
 ## Χαρακτηριστικά 
     - AWES GUI : Desktop GUI Control
@@ -49,6 +41,7 @@
     - Python    : Ως Apache CGI
     - SVN       : Αποθετήρια κώδικα
     - MariaDB   : Τρεις (3) εκδόσεις
+    - MongoDB   : Βάση δεδομένων
     - Filezilla : Διακομιστής FTP
     - SQLite    : Βάση δεδομένων
 
@@ -60,7 +53,7 @@
 # Σύνδεσμοι
 
 ### Ascoos Web Extended Studio - Επίσημες ιστοσελίδες
-    - http://apps.ascoos.com/awes
+    - http://awes.ascoos.com
     - https://sourceforge.net/projects/ascoos-web-extended-studio (For download)
 
 
