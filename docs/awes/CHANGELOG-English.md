@@ -7,6 +7,50 @@
 - [ ~ ] Not fixed or partially fixed and continues to have a problem
 ----------------------------------------------------------------------
 
+
+# 24.1.2 [1421]
+
+!!DATE 2024-11-13
+
+#### WARNING!!!
+      Once this version is downloaded, close AWES and replace the awes.exe file 
+      with the awes-upd.exe by renaming it in awes.exe.
+
+## AWES
+- [ ^ ] Web application option enabled when creating a domain.
+      Now, if you wish, you will be able to automatically download and install the necessary files 
+      of popular web applications, such as Joomla, Drupal and Wordpress.
+
+- [ ^ ] The upgrade window was fully activated.
+      With this upgrade, you now have the option to download all upgrades through the dialog box. 
+      AWES will prompt you to restart the application for the new features to take effect. 
+      If it doesn't restart, the new features will only be available 
+      after manually replacing the awes.exe file by renaming the awes-upd.exe to awes.exe.
+
+- [ ! ] Fixed several minor bugs and conflicts in AWES and its application components.
+
+
+## WEB SERVERS
+- [ ^ ] `PHP 8.4` --> Upgraded to 8.4 RC4.
+
+- [ ^ ] `Python 3.x` --> Upgraded to 3.13.150
+
+
+## APPLICATIONS
+- [ ^ ] `Firefox Developer Edition` -> Upgraded to version 133.0b7
+
+- [ ^ ] `Visual Studio Code` -> Upgraded to 1.95.2
+
+
+## UNCORRECTED
+- [ ~ ] `PHP 5.6.40 and 8.4` --> Due to the upgrade of apache and openssl, it cannot load openssl and MongoDB drivers. 
+      (#0000001 - https://issues.ascoos.com/view.php?id=1).
+
+- [ ~ ] The SSL certificate generator sub-application was not enabled for the created domains because it still has some problems.
+
+
+----------------------------------------------------------------------
+
 # ASCOOS WEB EXTENDED STUDIO 24.1.1 [1409]
 
 !!DATE 2024-10-31
