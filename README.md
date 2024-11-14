@@ -83,14 +83,14 @@ Click on each option to open the content.
 </summary>
 <br>
 
-|Name | Alpha | Beta | RC | Stable |
-|---|---|---|---|---|
-| **AWES Desktop Control**<br>(`Portable`) | ✅ | ✅ | ✅ | ✅ |
-| **WCI**<br>(`Web-based Control Information`) |  |  | **?** | ✅ |
-| **WCP**<br>(`Web-based Control Panel`) |  |  |  | **?** |
-| **Multilingual**<br>(`English, Greek`) | ✅ | ✅ | ✅ | ✅ |
-| **Themes**<br>(`Multiple skins`) | ✅ | ✅ | ✅ | ✅ |
-| **Windows DNS Hosts**<br>(`Native AWES Editor`) | ✅ | ✅ | ✅ | ✅ |
+|Name | ✅ 24.1.2 | 24.1.3 | 24.1.4 | 24.1.5 | 24.2.0 | 25.x |
+|---|---|---|---|---|---|---|
+| **AWES Desktop Control**<br>(`Portable`) | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
+| **WCI**<br>(`Web-based Control Information`) |  |  |  |  |  | ✅ |
+| **WCP**<br>(`Web-based Control Panel`) |  |  |  |  |  | **?** |
+| **Multilingual**<br>(`English, Greek`) | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
+| **Themes**<br>(`Multiple skins`) | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
+| **Windows DNS Hosts**<br>(`Native AWES Editor`) | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
 </details>
 
 <details>
@@ -99,13 +99,14 @@ Click on each option to open the content.
 </summary>
  <br>
 
-|Name | Alpha | Beta | RC | Stable |
-|---|---|---|---|---|
-| **Apache**<br>(`Web Server`) | ✅ | ✅ | ✅ | ✅ |
-| **NGNIX**<br>(`Web Server`) |  |  | **?** | ✅ |
-| **Filezilla**<br>(`FTP Server`) | ✅ | ✅ | ✅ | ✅ |
-| **SVN** <br> (`Code Repositories`) | ✅ | ✅ | ✅ | ✅ |
-| **hMailServer**<br>(`Email Server`) |  |  |  | ✅ |
+|Name | ✅ 24.1.2 | 24.1.3 | 24.1.4 | 24.1.5 | 24.2.0 | 25.x |
+|---|---|---|---|---|---|---|
+| **Apache**<br>(`Web Server`) | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
+| **NGNIX**<br>(`Web Server`) |  |  |  |  |  | **?** |
+| **Filezilla**<br>(`FTP Server`) | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
+| **Subversion SVN** <br> (`Code Repositories`) | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
+| **hMailServer**<br>(`Email Server`) |  |  |  |  |  | **?** |
+| **sendmail**<br>(`Send Emails`) |  |  |  |  |  | **?** |
 </details>
 
 <details>
@@ -114,12 +115,12 @@ Click on each option to open the content.
 </summary>
  <br>
 
-|Name | Alpha | Beta | RC | Stable|
-|---|---|---|---|---|
-| **PHP** <br> (`Multiple PHP Versions`) | ✅ | ✅ | ✅ | ✅ |
-| **Python** <br> (`Run as Apache CGI`) | ✅ | ✅ | ✅ | ✅ |
-| **NodeJS** <br> (`Run as Apache CGI`) | ✅ | ✅ | ✅ | ✅ |
-| **Perl** <br> (`Run as Apache CGI`) |  |  |  | **?** |
+|Name | ✅ 24.1.2 | 24.1.3 | 24.1.4 | 24.1.5 | 24.2.0 | 25.x |
+|---|---|---|---|---|---|---|
+| **PHP** <br> (`Multiple PHP Versions`) | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
+| **Python** <br> (`Run as Apache CGI`) | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
+| **NodeJS** <br> (`Run as Apache CGI`) | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
+| **Perl** <br> (`Run as Apache CGI`) |  |  |  |  |  | **?** |
 </details>
 
 <details>
@@ -128,12 +129,12 @@ Click on each option to open the content.
 </summary>
  <br> 
 
-|Name | Alpha | Beta | RC | Stable|
-|---|---|---|---|---|
-| **MariaDB** <br> (`Multiple DB Versions`) | ✅ | ✅ | ✅ | ✅ |
-| **PostgreSQL** |  |  | **?** | ✅ |
-| **MongoDB** |  |  | **?** | ✅ |
-| **SQLite** | ✅ | ✅ | ✅ | ✅ |
+|Name | ✅ 24.1.2 | 24.1.3 | 24.1.4 | 24.1.5 | 24.2.0 | 25.x |
+|---|---|---|---|---|---|---|
+| **MariaDB** <br> (`Multiple DB Versions`) | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
+| **PostgreSQL** |  |  |  |  |  | **?** |
+| **MongoDB** | ✅ | ✅ |✅ | ✅ | ✅ | ✅ |
+| **SQLite** | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
 </details>
 
 <details>
@@ -142,13 +143,12 @@ Click on each option to open the content.
 </summary>
  <br> 
 
-|Name | Alpha | Beta | RC | Stable|
-|---|---|---|---|---|
-| **phpMyAdmin**<br>(`Web Interface for MariaDB`) | ✅ | ✅ | ✅ | ✅ |
-| **phpPgAdmin**<br>(`Web Interface for PostfreSQL`) |  |  | **?** | ✅ |
-| **phpLiteAdmin**<br>(`Web Interface for SQLite`) |  | **?** | ✅ | ✅ |
-| **Tiny File Manager**<br>(`Web File Manager`) | ✅ | ✅ | ✅ | ✅ |
-| **WebSVN**<br>(`Web SVN Repository Client`) | ✅ | ✅ | ✅ | ✅ |
+|Name | ✅ 24.1.2 | 24.1.3 | 24.1.4 | 24.1.5 | 24.2.0 | 25.x |
+|---|---|---|---|---|---|---|
+| **phpMyAdmin**<br>(`Web Interface for MariaDB`) | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
+| **phpPgAdmin**<br>(`Web Interface for PostfreSQL`) |  |  |  |  |  | **?** |
+| **Tiny File Manager**<br>(`Web File Manager`) | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
+| **WebSVN**<br>(`Web SVN Repository Client`) | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
 </details>
 
 <details>
@@ -157,11 +157,11 @@ Click on each option to open the content.
 </summary>
  <br>
 
-|Name | Alpha | Beta | RC | Stable|
-|---|---|---|---|---|
-| **OpenSSL** <br> (`SSL Supports`) | ✅ | ✅ | ✅ | ✅ |
-| **IonCube** <br> (`encoder loaders for PHP`) | ✅ | ✅ | ✅ | ✅ |
-| **Browscap** <br> (`Browser informations`) | ✅ | ✅ | ✅ | ✅ |
+|Name | ✅ 24.1.2 | 24.1.3 | 24.1.4 | 24.1.5 | 24.2.0 | 25.x |
+|---|---|---|---|---|---|---|
+| **OpenSSL** <br> (`SSL Supports`) | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
+| **IonCube** <br> (`encoder loaders for PHP`) | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
+| **Browscap** <br> (`Browser informations`) | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
 </details>
 
 <details>
@@ -170,13 +170,13 @@ Click on each option to open the content.
 </summary>
  <br>
 
-|Name | Alpha | Beta | RC | Stable|
-|---|---|---|---|---|
-| **Firefox** <br> (`Portable Developer Edition`) | ✅ | ✅ | ✅ | ✅ |
-| **Maxthon** <br> (`Optional Portable Webkit Browser`) |  |  |  | **?** |
-| **Visual Studio Code** <br> (`Portable Code Editor`) | ✅ | ✅ | ✅ | ✅ |
-| **Notepad++** <br> (`Portable Code Editor`) | ✅ | ✅ | ✅ | ✅ |
-| **Filezilla** <br> (`FTP Client`) | ✅ | ✅ | ✅ | ✅ |
+|Name | ✅ 24.1.2 | 24.1.3 | 24.1.4 | 24.1.5 | 24.2.0 | 25.x |
+|---|---|---|---|---|---|---|
+| **Firefox** <br> (`Portable Developer Edition`) | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
+| **Maxthon** <br> (`Portable Webkit Browser`) |  |  |  |  |  | **?** |
+| **Visual Studio Code** <br> (`Portable Code Editor`) | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
+| **Notepad++** <br> (`Portable Code Editor`) | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
+| **Filezilla** <br> (`FTP Client`) | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
 </details>
 
 <details>
@@ -185,18 +185,30 @@ Click on each option to open the content.
 </summary>
  <br>
 
-|Name | Alpha | Beta | RC | Stable|
-|---|---|---|---|---|
-| **Ascoos Framework** <br> (`Ascoos PHP Framework`) |  |  |  | **?** |
-| **Ascoos CMS 24'** <br> (`Free Edition`) |  |  |  | **?** |
-| **Drupal** <br> (`Freeware cms`) |  |  | ✅ | ✅ |
-| **Joomla!** <br> (`4.x and 5.x`) | ✅ | ✅ | ✅ | ✅ |
-| **Wordpress!** <br> (`5.x and 6.x`) | ✅ | ✅ | ✅ | ✅ |
-| **phpBB** <br> (`Forum`) |  |  | ✅ | ✅ |
-| **SMF Forum** |  |  | ✅ | ✅ |
+|Name | ✅ 24.1.2 | 24.1.3 | 24.1.4 | 24.1.5 | 24.2.0 | 25.x |
+|---|---|---|---|---|---|---|
+| **Ascoos Framework** <br> (`Ascoos PHP Framework`) |  |  |  |  |  | **?** |
+| **Ascoos CMS 24'** <br> (`Free Edition`) |  |  |  |  |  | **?** |
+| **Drupal** <br> (`PHP - CMS`) |  |  |  | ✅ | ✅ | ✅ | ✅ |
+| **Joomla!** <br> (`PHP - CMS. 4.x and 5.x`) | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
+| **Wordpress!** <br> (`PHP - CMS. 5.x and 6.x`) | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
+| **phpBB** <br> (`PHP - Forum`) |  | ✅ | ✅ | ✅ | ✅ | ✅ |
+| **SMF Forum** <br> (`PHP - Forum`)  |  | ✅ | ✅ | ✅ | ✅ | ✅ |
 </details>
 
+<details>
+<summary>
+  🔵 WEB LIBRARIES
+</summary>
+ <br>
 
+|Name | ✅ 24.1.2 | 24.1.3 | 24.1.4 | 24.1.5 | 24.2.0 | 25.x |
+|---|---|---|---|---|---|---|
+| **phpBCL** <br> (`PHP Backwards Compatibility Library`) |  |  |  |  | ✅ | ✅ |
+| **phpDocumentor** <br> (`Documentation application for PHP projects`) |  |  |  |  |  | **?** |
+| **Laravel** <br> (`PHP Framework`) |  |  |  |  |  | **?** |
+
+</details>
 
 # What is the `Ascoos Web Extended Studio` application?
 
@@ -212,7 +224,7 @@ Ascoos Web Extended Studio allows you to work with multiple versions of PHP and 
 
 Ascoos Web Extended Studio wraps its feature set into a well-designed interface where elements are laid out in an inspired way. Web servers, databases and FTP servers can be controlled from separate sections.
 
-![Ascoos Web Extended Studio Web Servers](https://a.fsdn.com/con/app/proj/ascoos-web-extended-studio/screenshots/AWES-24.1.1-00000102b-1024-37eaaf82.png)
+![Ascoos Web Extended Studio Web Servers](https://a.fsdn.com/con/app/proj/ascoos-web-extended-studio/screenshots/AWES-24.1.1-00000102b-800-3ff088ea.png)
 
 By default, all services are disabled and the choice of enabling them is up to the user, depending on the current needs.
 
@@ -222,7 +234,7 @@ More advanced configurations are available in the Options window, where you can 
 
 Ascoos Web Extended Studio harnesses the power of the most popular web and database architectures, bringing them together in a package that requires no installation.
 
-![Ascoos Web Extended Studio](help/AWES-readme-00000012-800.png)
+![Ascoos Web Extended Studio](https://a.fsdn.com/con/app/proj/ascoos-web-extended-studio/screenshots/AWES-databases-24.1.1-00000001-6e4be888.png)
 
 
 
@@ -249,7 +261,7 @@ Supported Windows Versions
 
 ## Copyright
 
-2011-2024 by [Alexsoft Software](https://www.alexsoft.gr)
+&#169; 2024 by [Alexsoft Software](https://www.alexsoft.gr)&#174;
 
 
 
