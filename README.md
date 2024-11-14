@@ -105,8 +105,7 @@ Click on each option to open the content.
 | **NGNIX**<br>(`Web Server`) |  |  |  |  |  | **?** |
 | **Filezilla**<br>(`FTP Server`) | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
 | **Subversion SVN** <br> (`Code Repositories`) | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
-| **hMailServer**<br>(`Email Server`) |  |  |  |  |  | **?** |
-| **sendmail**<br>(`Send Emails`) |  |  |  |  |  | **?** |
+| **Memcached**<br>(`Accelerator`) | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
 </details>
 
 <details>
@@ -120,7 +119,7 @@ Click on each option to open the content.
 | **PHP** <br> (`Multiple PHP Versions`) | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
 | **Python** <br> (`Run as Apache CGI`) | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
 | **NodeJS** <br> (`Run as Apache CGI`) | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
-| **Perl** <br> (`Run as Apache CGI`) |  |  |  |  |  | **?** |
+| **Perl** <br> (`Run as Apache CGI`) |  | **?**  | **?**  | **?**  | **?**  | **?** |
 </details>
 
 <details>
@@ -149,6 +148,8 @@ Click on each option to open the content.
 | **phpPgAdmin**<br>(`Web Interface for PostfreSQL`) |  |  |  |  |  | **?** |
 | **Tiny File Manager**<br>(`Web File Manager`) | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
 | **WebSVN**<br>(`Web SVN Repository Client`) | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
+| **phpMemcachedAdmin**<br>(`MemCached Admin`) | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
+| **Memcache**<br>(`MemCached Informations`) | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
 </details>
 
 <details>
@@ -173,7 +174,6 @@ Click on each option to open the content.
 |Name | ✅ 24.1.2 | 24.1.3 | 24.1.4 | 24.1.5 | 24.2.0 | 25.x |
 |---|---|---|---|---|---|---|
 | **Firefox** <br> (`Portable Developer Edition`) | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
-| **Maxthon** <br> (`Portable Webkit Browser`) |  |  |  |  |  | **?** |
 | **Visual Studio Code** <br> (`Portable Code Editor`) | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
 | **Notepad++** <br> (`Portable Code Editor`) | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
 | **Filezilla** <br> (`FTP Client`) | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
@@ -203,11 +203,10 @@ Click on each option to open the content.
 
 |Name | ✅ 24.1.2 | 24.1.3 | 24.1.4 | 24.1.5 | 24.2.0 | 25.x |
 |---|---|---|---|---|---|---|
-| **Ascoos Framework** <br> (`Ascoos PHP Framework`) |  |  |  |  |  | **?** |
+| **Ascoos Framework** <br> (`PHP Framework`) |  |  |  |  |  | **?** |
 | **phpBCL** <br> (`PHP Backwards Compatibility Library`) |  |  |  |  | ✅ | ✅ |
-| **phpDocumentor** <br> (`Documentation application for PHP projects`) |  |  |  |  |  | **?** |
+| **phpDocumentor** <br> (`PHP projects Documentator`) |  |  |  |  |  | **?** |
 | **Laravel** <br> (`PHP Framework`) |  |  |  |  |  | **?** |
-
 </details>
 
 # What is the `Ascoos Web Extended Studio` application?
