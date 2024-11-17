@@ -1,5 +1,6 @@
 # Ascoos Web Extended Studio (AWES)
 
+[![Download Ascoos Web Extended Studio](https://a.fsdn.com/con/app/sf-download-button)](https://sourceforge.net/projects/ascoos-web-extended-studio/files/24.1.2/awes-24.1.2.7z/download)
 
 <details>
 <summary>
