@@ -1,6 +1,6 @@
 # Ascoos Web Extended Studio (AWES)
 
-[![Download Ascoos Web Extended Studio](https://a.fsdn.com/con/app/sf-download-button)](https://sourceforge.net/projects/ascoos-web-extended-studio/files/24.1.2/awes-24.1.2.7z/download)
+[![Download Ascoos Web Extended Studio](https://a.fsdn.com/con/app/sf-download-button)](https://sourceforge.net/projects/ascoos-web-extended-studio/files/24.1.3/awes-24.1.3.7z/download)
 
 <details>
 <summary>
@@ -84,7 +84,7 @@ Click on each option to open the content.
 </summary>
 <br>
 
-|Name | ✅ 24.1.2 | 24.1.3 | 24.1.4 | 24.1.5 | 24.2.0 | 25.x |
+|Name | ✅ 24.1.2 | ✅ 24.1.3 | 24.1.4 | 24.1.5 | 24.2.0 | 25.x |
 |---|---|---|---|---|---|---|
 | **AWES Desktop Control**<br>(`Portable`) | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
 | **WCI**<br>(`Web-based Control Information`) |  |  |  |  |  | ✅ |
@@ -100,7 +100,7 @@ Click on each option to open the content.
 </summary>
  <br>
 
-|Name | ✅ 24.1.2 | 24.1.3 | 24.1.4 | 24.1.5 | 24.2.0 | 25.x |
+|Name | ✅ 24.1.2 | ✅ 24.1.3 | 24.1.4 | 24.1.5 | 24.2.0 | 25.x |
 |---|---|---|---|---|---|---|
 | **Apache**<br>(`Web Server`) | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
 | **NGNIX**<br>(`Web Server`) |  |  |  |  |  | **?** |
@@ -115,7 +115,7 @@ Click on each option to open the content.
 </summary>
  <br>
 
-|Name | ✅ 24.1.2 | 24.1.3 | 24.1.4 | 24.1.5 | 24.2.0 | 25.x |
+|Name | ✅ 24.1.2 | ✅ 24.1.3 | 24.1.4 | 24.1.5 | 24.2.0 | 25.x |
 |---|---|---|---|---|---|---|
 | **PHP** <br> (`Multiple PHP Versions`) | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
 | **Python** <br> (`Run as Apache CGI`) | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
@@ -129,7 +129,7 @@ Click on each option to open the content.
 </summary>
  <br> 
 
-|Name | ✅ 24.1.2 | 24.1.3 | 24.1.4 | 24.1.5 | 24.2.0 | 25.x |
+|Name | ✅ 24.1.2 | ✅ 24.1.3 | 24.1.4 | 24.1.5 | 24.2.0 | 25.x |
 |---|---|---|---|---|---|---|
 | **MariaDB** <br> (`Multiple DB Versions`) | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
 | **PostgreSQL** |  |  |  |  |  | **?** |
@@ -143,7 +143,7 @@ Click on each option to open the content.
 </summary>
  <br> 
 
-|Name | ✅ 24.1.2 | 24.1.3 | 24.1.4 | 24.1.5 | 24.2.0 | 25.x |
+|Name | ✅ 24.1.2 | ✅ 24.1.3 | 24.1.4 | 24.1.5 | 24.2.0 | 25.x |
 |---|---|---|---|---|---|---|
 | **phpMyAdmin**<br>(`Web Interface for MariaDB`) | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
 | **phpPgAdmin**<br>(`Web Interface for PostfreSQL`) |  |  |  |  |  | **?** |
@@ -159,7 +159,7 @@ Click on each option to open the content.
 </summary>
  <br>
 
-|Name | ✅ 24.1.2 | 24.1.3 | 24.1.4 | 24.1.5 | 24.2.0 | 25.x |
+|Name | ✅ 24.1.2 | ✅ 24.1.3 | 24.1.4 | 24.1.5 | 24.2.0 | 25.x |
 |---|---|---|---|---|---|---|
 | **OpenSSL** <br> (`SSL Supports`) | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
 | **IonCube** <br> (`encoder loaders for PHP`) | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
@@ -172,7 +172,7 @@ Click on each option to open the content.
 </summary>
  <br>
 
-|Name | ✅ 24.1.2 | 24.1.3 | 24.1.4 | 24.1.5 | 24.2.0 | 25.x |
+|Name | ✅ 24.1.2 | ✅ 24.1.3 | 24.1.4 | 24.1.5 | 24.2.0 | 25.x |
 |---|---|---|---|---|---|---|
 | **Firefox** <br> (`Portable Developer Edition`) | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
 | **Visual Studio Code** <br> (`Portable Code Editor`) | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
@@ -186,14 +186,14 @@ Click on each option to open the content.
 </summary>
  <br>
 
-|Name | ✅ 24.1.2 | 24.1.3 | 24.1.4 | 24.1.5 | 24.2.0 | 25.x |
+|Name | ✅ 24.1.2 | ✅ 24.1.3 | 24.1.4 | 24.1.5 | 24.2.0 | 25.x |
 |---|---|---|---|---|---|---|
 | **Ascoos CMS 24'** <br> (`Free Edition`) |  |  |  |  |  | **?** |
 | **Drupal** <br> (`PHP - CMS`) |  |  |  | ✅ | ✅ | ✅ | ✅ |
 | **Joomla!** <br> (`PHP - CMS. 4.x and 5.x`) | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
 | **Wordpress!** <br> (`PHP - CMS. 5.x and 6.x`) | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
-| **phpBB** <br> (`PHP - Forum`) |  | ✅ | ✅ | ✅ | ✅ | ✅ |
-| **SMF Forum** <br> (`PHP - Forum`)  |  | ✅ | ✅ | ✅ | ✅ | ✅ |
+| **phpBB** <br> (`PHP - Forum`) |  |  |  | ✅ | ✅ | ✅ |
+| **SMF Forum** <br> (`PHP - Forum`)  |  |  |  | ✅ | ✅ | ✅ |
 </details>
 
 <details>
@@ -202,10 +202,10 @@ Click on each option to open the content.
 </summary>
  <br>
 
-|Name | ✅ 24.1.2 | 24.1.3 | 24.1.4 | 24.1.5 | 24.2.0 | 25.x |
+|Name | ✅ 24.1.2 | ✅ 24.1.3 | 24.1.4 | 24.1.5 | 24.2.0 | 25.x |
 |---|---|---|---|---|---|---|
-| **Ascoos Framework** <br> (`PHP Framework`) |  |  |  |  |  | **?** |
-| **phpBCL** <br> (`PHP Backwards Compatibility Library`) |  |  |  |  | ✅ | ✅ |
+| **Ascoos Framework** (Free Edition)<br> (`PHP Framework`) |  |  |  | ✅ | ✅ | ✅ |
+| **phpBCL** <br> (`PHP Backwards Compatibility Library`) |  |  |  | ✅ | ✅ | ✅ |
 | **phpDocumentor** <br> (`PHP projects Documentator`) |  |  |  |  |  | **?** |
 | **Laravel** <br> (`PHP Framework`) |  |  |  |  |  | **?** |
 </details>
