@@ -1,6 +1,9 @@
 # Ascoos Web Extended Studio (AWES)
 
+[![Ascoos Web Extended Studio  - state of Official Website](https://img.shields.io/website?url=https://awes.ascoos.com)](https://awes.ascoos.com) 
 ![SourceForge Platform](https://img.shields.io/sourceforge/platform/ascoos-web-extended-studio?labelColor=white&color=blue)
+
+***
 
 [![Download Ascoos Web Extended Studio](https://a.fsdn.com/con/app/sf-download-button)](https://sourceforge.net/projects/ascoos-web-extended-studio/files/24.1.3/awes-24.1.3.7z/download)
 
@@ -10,7 +13,7 @@
 </summary>
 <br>
 
-[![Ascoos Web Extended Studio  - state of Official Website](https://img.shields.io/website?url=https://awes.ascoos.com)](https://awes.ascoos.com) 
+
 ![Ascoos Web Extended Studio - Forks](https://img.shields.io/github/forks/ascoos/awes)
 ![Ascoos Web Extended Studio - Stars](https://img.shields.io/github/stars/ascoos/awes)
 ![Ascoos Web Extended Studio - Watchers](https://img.shields.io/github/watchers/ascoos/awes)
