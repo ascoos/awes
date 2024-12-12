@@ -1,5 +1,7 @@
 # Ascoos Web Extended Studio (AWES)
 
+![SourceForge Platform](https://img.shields.io/sourceforge/platform/ascoos-web-extended-studio?labelColor=white&color=blue)
+
 [![Download Ascoos Web Extended Studio](https://a.fsdn.com/con/app/sf-download-button)](https://sourceforge.net/projects/ascoos-web-extended-studio/files/24.1.3/awes-24.1.3.7z/download)
 
 <details>
