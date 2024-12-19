@@ -40,6 +40,7 @@ Any new person or element involved in the process of creating or upgrading the p
 - `Visual Studio Code`  [ https://code.visualstudio.com ]   VSCode supports almost every major programming language.
 - `Firefox Developer Edition`  [ https://www.mozilla.org/en-US/firefox/developer ]   The browser made for developers
 - `SnipTool`  [ https://www.reasyze.com/sniptool ]   Capture Areas Of Your Desktop And Annotate
+- `XDebug`  [ https://xdebug.org ]   Xdebug is an extension for PHP, and provides a range of features to improve the PHP development experience.
 
 
 ## AWES Hosting Platforms

@@ -39,6 +39,7 @@
 - `Visual Studio Code`  [ https://code.visualstudio.com ]   Το VSCode υποστηρίζει σχεδόν κάθε μεγάλη γλώσσα προγραμματισμού.
 - `Firefox Developer Edition`  [ https://www.mozilla.org/en-US/firefox/developer ]   Το πρόγραμμα περιήγησης που έχει φτιαχτεί για προγραμματιστές
 - `SnipTool`  [ https://www.reasyze.com/sniptool ]   Καταγράψτε περιοχές της επιφάνειας εργασίας σας και σχολιάστε
+- `XDebug`  [ https://xdebug.org ]   Το Xdebug είναι μια επέκταση για την PHP και παρέχει μια σειρά χαρακτηριστικών για τη βελτίωση της εμπειρίας ανάπτυξης της PHP.
 
 
 ## Πλατφόρμες Φιλοξενίας του AWES
