@@ -89,12 +89,12 @@ Click on each option to open the content.
 </summary>
 <br>
 
-|Name | ✅ 24.1.2 | ✅ 24.1.3 | ✅ 24.1.4 | 24.1.5 | 24.2.0 | 25.x |
+|Name | ✅ 24.1.2 | ✅ 24.1.3 | ✅ 24.1.4 | ✅ 24.1.5 | 24.2.0 | 25.x |
 |---|---|---|---|---|---|---|
 | **AWES Desktop Control**<br>(`Portable`) | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
 | **WCI**<br>(`Web-based Control Information`) |  |  |  |  |  | ✅ |
 | **WCP**<br>(`Web-based Control Panel`) |  |  |  |  |  | **?** |
-| **Multilingual**<br>(`English, Greek`) | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
+| **Multilingual**<br>(`Arabic, Bengali, Brazilian, Chinese, Croatian, Dutch, English, French, German, Greek, Hindi, Hungarian, Italian, Japanese, Korean, Polish, Portuguese, Russian, Spanish, Swedish, Thai, Turkish, Vietnamese`) |  |  |  | ✅ | ✅ | ✅ |
 | **Themes**<br>(`Multiple skins`) | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
 | **Windows DNS Hosts**<br>(`Native AWES Editor`) | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
 </details>
@@ -105,7 +105,7 @@ Click on each option to open the content.
 </summary>
  <br>
 
-|Name | ✅ 24.1.2 | ✅ 24.1.3 | ✅ 24.1.4 | 24.1.5 | 24.2.0 | 25.x |
+|Name | ✅ 24.1.2 | ✅ 24.1.3 | ✅ 24.1.4 | ✅ 24.1.5 | 24.2.0 | 25.x |
 |---|---|---|---|---|---|---|
 | **Apache**<br>(`Web Server`) | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
 | **NGNIX**<br>(`Web Server`) |  |  |  |  |  | **?** |
@@ -120,12 +120,12 @@ Click on each option to open the content.
 </summary>
  <br>
 
-|Name | ✅ 24.1.2 | ✅ 24.1.3 | ✅ 24.1.4 | 24.1.5 | 24.2.0 | 25.x |
+|Name | ✅ 24.1.2 | ✅ 24.1.3 | ✅ 24.1.4 | ✅ 24.1.5 | 24.2.0 | 25.x |
 |---|---|---|---|---|---|---|
 | **PHP** <br> (`Multiple PHP Versions`) | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
 | **Python** <br> (`Run as Apache CGI`) | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
 | **NodeJS** <br> (`Run as Apache CGI`) | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
-| **Perl** <br> (`Run as Apache CGI`) |  | **?**  | **?**  | **?**  | **?**  | **?** |
+| **Perl** <br> (`Run as Apache CGI`) |  |   |   |   |   | **?** |
 </details>
 
 <details>
@@ -134,12 +134,12 @@ Click on each option to open the content.
 </summary>
  <br> 
 
-|Name | ✅ 24.1.2 | ✅ 24.1.3 | ✅ 24.1.4 | 24.1.5 | 24.2.0 | 25.x |
+|Name | ✅ 24.1.2 | ✅ 24.1.3 | ✅ 24.1.4 | ✅ 24.1.5 | 24.2.0 | 25.x |
 |---|---|---|---|---|---|---|
 | **MariaDB** <br> (`Multiple DB Versions`) | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
-| **PostgreSQL** |  |  |  |  |  | **?** |
+| **PostgreSQL** |  |  |  |  |  |  |
 | **MongoDB** | ✅ | ✅ |✅ | ✅ | ✅ | ✅ |
-| **SQLite** | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
+| **SQLite** | ✅ | ✅ | ✅ |  |  |  |
 </details>
 
 <details>
@@ -148,7 +148,7 @@ Click on each option to open the content.
 </summary>
  <br> 
 
-|Name | ✅ 24.1.2 | ✅ 24.1.3 | ✅ 24.1.4 | 24.1.5 | 24.2.0 | 25.x |
+|Name | ✅ 24.1.2 | ✅ 24.1.3 | ✅ 24.1.4 | ✅ 24.1.5 | 24.2.0 | 25.x |
 |---|---|---|---|---|---|---|
 | **phpMyAdmin**<br>(`Web Interface for MariaDB`) | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
 | **phpPgAdmin**<br>(`Web Interface for PostfreSQL`) |  |  |  |  |  | **?** |
@@ -164,7 +164,7 @@ Click on each option to open the content.
 </summary>
  <br>
 
-|Name | ✅ 24.1.2 | ✅ 24.1.3 | ✅ 24.1.4 | 24.1.5 | 24.2.0 | 25.x |
+|Name | ✅ 24.1.2 | ✅ 24.1.3 | ✅ 24.1.4 | ✅ 24.1.5 | 24.2.0 | 25.x |
 |---|---|---|---|---|---|---|
 | **OpenSSL** <br> (`SSL Supports`) | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
 | **IonCube** <br> (`encoder loaders for PHP`) | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
@@ -177,7 +177,7 @@ Click on each option to open the content.
 </summary>
  <br>
 
-|Name | ✅ 24.1.2 | ✅ 24.1.3 | ✅ 24.1.4 | 24.1.5 | 24.2.0 | 25.x |
+|Name | ✅ 24.1.2 | ✅ 24.1.3 | ✅ 24.1.4 | ✅ 24.1.5 | 24.2.0 | 25.x |
 |---|---|---|---|---|---|---|
 | **Firefox** <br> (`Portable Developer Edition`) | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
 | **Visual Studio Code** <br> (`Portable Code Editor`) | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
@@ -192,7 +192,7 @@ Click on each option to open the content.
 </summary>
  <br>
 
-|Name | ✅ 24.1.2 | ✅ 24.1.3 | ✅ 24.1.4 | 24.1.5 | 24.2.0 | 25.x |
+|Name | ✅ 24.1.2 | ✅ 24.1.3 | ✅ 24.1.4 | ✅ 24.1.5 | 24.2.0 | 25.x |
 |---|---|---|---|---|---|---|
 | **Ascoos CMS 24'** <br> (`Free Edition`) |  |  |  |  |  | **?** |
 | **Drupal** <br> (`PHP - CMS`) |  |  |  |  |  | ✅ |
@@ -208,7 +208,7 @@ Click on each option to open the content.
 </summary>
  <br>
 
-|Name | ✅ 24.1.2 | ✅ 24.1.3 | ✅ 24.1.4 | 24.1.5 | 24.2.0 | 25.x |
+|Name | ✅ 24.1.2 | ✅ 24.1.3 | ✅ 24.1.4 | ✅ 24.1.5 | 24.2.0 | 25.x |
 |---|---|---|---|---|---|---|
 | **Ascoos Framework** (Free Edition)<br> (`PHP Framework`) |  |  |  | ✅ | ✅ | ✅ |
 | **phpBCL8** <br> (`PHP8 Backwards Compatibility Library`) |  |  |  | ✅ | ✅ | ✅ |
