@@ -1,6 +1,6 @@
-# 24.1.5 [1500]
+# 24.1.5 [1502]
 
-⏰ 2024-12-20
+⏰ 2024-12-21
 
 ### MARKINGS
 
@@ -24,6 +24,8 @@ If you have AWES on a different drive than C: then you need to go to the configu
     - The examples of Ascoos Framework 24.
     - phpBCL8 library examples
 - 🔧 Various problem fixes have been made.
+- 🔧 Fixed bug in the option to close services when AWES is closed. In particular, fixed the not closing memcached.
+- 🔧 Fixed the error in the configuration window by displaying an error message, when we press the "Validate" button several times. The error occurred in the AWES versions that followed the removal of the 5 MariaDB versions.
 
 ## WEB SERVERS
 

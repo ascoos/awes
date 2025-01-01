@@ -14,6 +14,7 @@ Any new person or element involved in the process of creating or upgrading the p
 
 ## Testers
 - The basic tests have been done by the creator of AWES
+- Georgios (Ch.) Kourtidis [ https://www.linkedin.com/in/dolcevii/ ]
 
 
 ## Libraries and Resources

@@ -14,6 +14,7 @@
 
 ## Δοκιμαστές
 - Οι βασικές δοκιμές έχουν γίνει από τον δημιουργό του AWES
+- Κουρτίδης Γιώργος [ https://www.linkedin.com/in/dolcevii/ ]
 
 ## Βιβλιοθήκες και Πόροι
 - `Original Apache Web Server`  [ https://www.apache.org ]   HTTP Διακομιστής ιστού.
