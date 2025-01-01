@@ -72,5 +72,4 @@ The PHP 8.x functionality support library on older 8 series versions (e.g. new P
 - ➕ `XDebug` : Xdebug is an extension for PHP, and provides a range of features to improve the PHP development experience.
 - ➕ `Memcached` : Memcached is an in-memory key-value store for small chunks of arbitrary data (strings, objects) from results of database calls, API calls, or page rendering.
 
-
  
