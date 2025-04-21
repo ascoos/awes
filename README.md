@@ -78,6 +78,52 @@
 
 ---
 
+## What is the `Ascoos Web Extended Studio`?
+
+
+![Ascoos Web Extended Studio](https://awes.ascoos.com/images/scr/scr-24.2.4.1782-800.png)
+
+
+A powerful and reliable web server that includes a combination of web technologies such as `PHP`,  `MariaDB`, and `Filezilla`, capable of helping with development.
+
+Ascoos Web Extended Studio is a rich package designed as a flexible web server for development purposes. It integrates third-party components such as PHP, MariaDB, pgSQL, MongoDB, Python, NodeJS and FileZilla and stands out through a compact installation and a well-designed admin panel.
+
+Ascoos Web Extended Studio allows you to work with multiple versions of PHP and MariaDB without having to reinstall the package. In other words, it is possible to host newer versions of components without removing the older ones. Needless to say, this provides a great advantage to developers who want to test their application on different versions of PHP and MariaDB.
+
+Ascoos Web Extended Studio wraps its feature set into a well-designed interface where elements are laid out in an inspired way. Web servers, databases and FTP servers can be controlled from separate sections.
+
+![Ascoos Web Extended Studio Web Servers](https://a.fsdn.com/con/app/proj/ascoos-web-extended-studio/screenshots/AWES-24.1.1-00000102b-800-3ff088ea.png)
+
+By default, all services are disabled and the choice of enabling them is up to the user, depending on the current needs.
+
+More advanced configurations are available in the Options window, where you can enable the program to stop all services on exit or start automatically on startup with your preferred PHP and MariaDB layout.
+
+Ascoos Web Extended Studio harnesses the power of the most popular web and database architectures, bringing them together in a package that requires no installation.
+
+![Ascoos Web Extended Studio](https://a.fsdn.com/con/app/proj/ascoos-web-extended-studio/screenshots/AWES-databases-24.1.1-00000001-6e4be888.png)
+
+---
+
+## Installation
+
+Unzip the awes.7z file to ROOT of the disk drive (C:, D:, E: F: ...) where you want to install AWES.
+
+The final working path would look something like this: c:\AWES
+
+Also, before running AWES, close and uninstall the service of other programs like AWS, Xampp, Wamp, etc.
+
+---
+
+## Supported Windows Versions 
+```
+This program runs on 64Bit Windows as administrator.
+
+Supported Windows Versions 
+    - Windows 10 64Bit
+    - Windows 11 64Bit
+```
+
+---
 
 ## Features
 
@@ -216,52 +262,7 @@ Click on each option to open the content.
 | **phpBCL8** <br> (`PHP8 Backwards Compatibility Library`) | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
 </details>
 
-# What is the `Ascoos Web Extended Studio` application?
-
-
-![Ascoos Web Extended Studio](https://awes.ascoos.com/images/scr/scr-24.2.4.1782-800.png)
-
-
-A powerful and reliable web server that includes a combination of web technologies such as `PHP`,  `MariaDB`, and `Filezilla`, capable of helping with development.
-
-Ascoos Web Extended Studio is a rich package designed as a flexible web server for development purposes. It integrates third-party components such as PHP, MariaDB, pgSQL, MongoDB, Python, NodeJS and FileZilla and stands out through a compact installation and a well-designed admin panel.
-
-Ascoos Web Extended Studio allows you to work with multiple versions of PHP and MariaDB without having to reinstall the package. In other words, it is possible to host newer versions of components without removing the older ones. Needless to say, this provides a great advantage to developers who want to test their application on different versions of PHP and MariaDB.
-
-Ascoos Web Extended Studio wraps its feature set into a well-designed interface where elements are laid out in an inspired way. Web servers, databases and FTP servers can be controlled from separate sections.
-
-![Ascoos Web Extended Studio Web Servers](https://a.fsdn.com/con/app/proj/ascoos-web-extended-studio/screenshots/AWES-24.1.1-00000102b-800-3ff088ea.png)
-
-By default, all services are disabled and the choice of enabling them is up to the user, depending on the current needs.
-
-More advanced configurations are available in the Options window, where you can enable the program to stop all services on exit or start automatically on startup with your preferred PHP and MariaDB layout.
-
-
-
-Ascoos Web Extended Studio harnesses the power of the most popular web and database architectures, bringing them together in a package that requires no installation.
-
-![Ascoos Web Extended Studio](https://a.fsdn.com/con/app/proj/ascoos-web-extended-studio/screenshots/AWES-databases-24.1.1-00000001-6e4be888.png)
-
-
-
-# Installation
-
-Unzip the awes.7z file to ROOT of the disk drive (C:, D:, E: F: ...) where you want to install AWES.
-
-The final working path would look something like this: c:\AWES
-
-Also, before running AWES, close and uninstall the service of other programs like AWS, Xampp, Wamp, etc.
-
-
-## Supported Windows Versions 
-```
-This program runs on 64Bit Windows as administrator.
-
-Supported Windows Versions 
-    - Windows 10 64Bit
-    - Windows 11 64Bit
-```
-
+---
 
 ## Copyright
 
@@ -276,7 +277,7 @@ Supported Windows Versions
 
 
 
-# Links
+## Links
 
 ### Ascoos Web Extended Studio - Official Websites
   - [Official Website](https://awes.ascoos.com)  
