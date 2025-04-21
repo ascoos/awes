@@ -219,7 +219,7 @@ Click on each option to open the content.
 # What is the `Ascoos Web Extended Studio` application?
 
 
-![Ascoos Web Extended Studio](help/AWES-readme-00000010-800.png)
+![Ascoos Web Extended Studio](https://awes.ascoos.com/images/scr/scr-24.2.4.1782-800.png)
 
 
 A powerful and reliable web server that includes a combination of web technologies such as `PHP`,  `MariaDB`, and `Filezilla`, capable of helping with development.
