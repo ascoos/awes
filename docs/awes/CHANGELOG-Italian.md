@@ -1,16 +1,18 @@
-# 24.2.4 [1782]
+# 24.2.5 [1832]
 
-⏰ 2025-04-17
+⏰ 2025-05-10  
 
-## AWES
-- ✔️ `GUI` -> `Menu Strumenti` -> `Componenti aggiuntivi` : Corrette le traduzioni mancanti per lingue diverse dall'inglese.  
-- ➕ `GUI` -> `Menu Strumenti` -> `Componenti aggiuntivi` : Aggiunte descrizioni per le scorciatoie dei componenti aggiuntivi nella barra degli strumenti rapida. Ora, quando si seleziona una scorciatoia, vengono visualizzate informazioni sul componente aggiuntivo (SOLO in inglese).  
-- ➕ `GUI` -> `Barra degli strumenti rapida` : Aggiunte 50+ scorciatoie. Ulteriori scorciatoie saranno disponibili tramite il `AWES Store`, dove potrai scaricare e installare quelle che ti interessano dalle centinaia disponibili.
+## NOTA  
+Questa versione è l'ultima per quanto riguarda gli aggiornamenti delle applicazioni incluse. Gli utenti devono ora scaricare gli aggiornamenti dalla pagina ufficiale di ciascuna applicazione ed estrarre manualmente i file di aggiornamento compressi nella cartella corrispondente all'interno di `[DRIVE]:\AWES\apps\`. Il motivo è che gli aggiornamenti sono diventati di grandi dimensioni, rendendo impratico mantenerli sul server.  
 
-## SERVER
-- 🔄 `PHP`    : Aggiornato alle versioni 8.3.20 e 8.4.6.
+## AWES  
+- ➕ `GUI` -> `Quick Toolbar`: Aggiunti 5+ collegamenti rapidi.  
 
-## APPLICAZIONI
-- 🔄 `Norepad++` : Aggiornato alla versione 8.7.9.
-- 🔄 `Firefox Developer Edition` : Aggiornato alla versione 138.0b8.
-- 🔄 `Visual Studio Code` : Aggiornato alla versione 1.99.3.
+## SERVER  
+- 🔄 `PHP`: Aggiornato alle versioni 8.3.21 e 8.4.7.  
+- 🔄 `NodeJS`: Aggiornato alla versione 22.15.0.  
+
+## APPLICAZIONI  
+- 🔄 `Filezilla`: Aggiornato alla versione 3.69.1 (Ultimo aggiornamento automatico). D'ora in avanti, gli utenti devono scaricare l'aggiornamento dalla pagina ufficiale dell'applicazione ed estrarre manualmente i file compressi di aggiornamento in `[DRIVE]:\AWES\apps\ftp\filezilla`.  
+
+- 🔄 `Visual Studio Code`: Aggiornato alla versione 1.100.0 (Ultimo aggiornamento automatico). D'ora in avanti, gli utenti devono scaricare l'aggiornamento dalla pagina ufficiale dell'applicazione ed estrarre manualmente i file compressi di aggiornamento in `[DRIVE]:\AWES\apps\editors\vscode`.  

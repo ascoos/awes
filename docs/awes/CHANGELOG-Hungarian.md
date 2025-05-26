@@ -1,16 +1,18 @@
-# 24.2.4 [1782]
+# 24.2.5 [1832]
 
-⏰ 2025-04-17
+⏰ 2025-05-10  
 
-## AWES
-- ✔️ `GUI` -> `Eszközök menü` -> `Kiegészítők` : Javítva lett a fordítás hiánya az angolon kívüli nyelvekhez.  
-- ➕ `GUI` -> `Eszközök menü` -> `Kiegészítők` : Leírások kerültek a gyors eszköztár kiegészítőinek gyorsbillentyűihez. Mostantól, amikor egy gyorsbillentyűt választasz, megjelennek a kiegészítő adatai (CSAK angol nyelven).  
-- ➕ `GUI` -> `Gyors eszköztár` : Több mint 50 gyorsbillentyű került hozzáadásra. További gyorsbillentyűk lesznek elérhetők az `AWES Store`-on keresztül, ahol letöltheted és telepítheted a számodra érdekes gyorsbillentyűket a boltban elérhető több száz közül.
+## MEGJEGYZÉS  
+Ez a verzió az utolsó a benne foglalt alkalmazások frissítéseit illetően. Mostantól a felhasználóknak le kell tölteniük a frissítéseket az egyes alkalmazások hivatalos oldaláról, és kézzel ki kell bontaniuk a tömörített frissítési fájlokat a megfelelő mappába `[DRIVE]:\AWES\apps\`. Ennek az az oka, hogy a frissítések mérete megnőtt, így nem praktikus őket a szerveren tárolni.  
 
-## SZERVEREK
-- 🔄 `PHP`    : Frissítve a 8.3.20 és 8.4.6 verziókra.
+## AWES  
+- ➕ `GUI` -> `Quick Toolbar`: 5+ új parancsikon hozzáadva.  
 
-## ALKALMAZÁSOK
-- 🔄 `Norepad++` : Frissítve a 8.7.9 verzióra.
-- 🔄 `Firefox Developer Edition` : Frissítve a 138.0b8 verzióra.
-- 🔄 `Visual Studio Code` : Frissítve az 1.99.3 verzióra.
+## SZERVEREK  
+- 🔄 `PHP`: Frissítve a 8.3.21 és 8.4.7 verzióra.  
+- 🔄 `NodeJS`: Frissítve a 22.15.0 verzióra.  
+
+## ALKALMAZÁSOK  
+- 🔄 `Filezilla`: Frissítve a 3.69.1 verzióra (Utolsó automatikus frissítés). Mostantól a felhasználóknak le kell tölteniük az alkalmazás hivatalos oldaláról, és kézzel ki kell bontaniuk a tömörített frissítési fájlokat a `[DRIVE]:\AWES\apps\ftp\filezilla` mappába.  
+
+- 🔄 `Visual Studio Code`: Frissítve az 1.100.0 verzióra (Utolsó automatikus frissítés). Mostantól a felhasználóknak le kell tölteniük az alkalmazás hivatalos oldaláról, és kézzel ki kell bontaniuk a tömörített frissítési fájlokat a `[DRIVE]:\AWES\apps\editors\vscode` mappába.  

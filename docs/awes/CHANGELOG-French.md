@@ -1,16 +1,18 @@
-# 24.2.4 [1782]
+# 24.2.5 [1832]
 
-⏰ 2025-04-17
+⏰ 2025-05-10  
 
-## AWES
-- ✔️ `GUI` -> `Menu Outils` -> `Extensions` : Les traductions pour les langues autres que l'anglais ont été corrigées.  
-- ➕ `GUI` -> `Menu Outils` -> `Extensions` : Des descriptions pour les raccourcis des extensions de la barre d'outils rapide ont été ajoutées. Désormais, lorsque vous sélectionnez un raccourci, des informations sur l'extension apparaissent (UNIQUEMENT en anglais).  
-- ➕ `GUI` -> `Barre d'outils rapide` : Ajout de plus de 50 raccourcis. D'autres raccourcis seront disponibles via le `AWES Store`, où vous pourrez télécharger et installer ceux qui vous intéressent parmi les centaines disponibles.
+## REMARQUE  
+Cette version est la dernière concernant les mises à jour des applications incluses. Les utilisateurs doivent désormais télécharger les mises à jour depuis la page officielle de chaque application et extraire manuellement les fichiers compressés de mise à jour dans le dossier correspondant à l'intérieur de `[DRIVE]:\AWES\apps\`. La raison est que les mises à jour sont devenues trop volumineuses, rendant leur stockage sur le serveur impraticable.  
 
-## SERVEURS
-- 🔄 `PHP`    : Mise à niveau vers les versions 8.3.20 et 8.4.6.
+## AWES  
+- ➕ `GUI` -> `Quick Toolbar` : Ajout de 5+ raccourcis.  
 
-## APPLICATIONS
-- 🔄 `Norepad++` : Mise à niveau vers la version 8.7.9.
-- 🔄 `Firefox Developer Edition` : Mise à niveau vers la version 138.0b8.
-- 🔄 `Visual Studio Code` : Mise à niveau vers la version 1.99.3.
+## SERVEURS  
+- 🔄 `PHP` : Mis à niveau vers les versions 8.3.21 et 8.4.7.  
+- 🔄 `NodeJS` : Mis à niveau vers la version 22.15.0.  
+
+## APPLICATIONS  
+- 🔄 `Filezilla` : Mis à niveau vers la version 3.69.1 (Dernière mise à jour automatique). Désormais, les utilisateurs doivent télécharger depuis la page officielle de l'application et extraire manuellement les fichiers compressés de mise à jour dans `[DRIVE]:\AWES\apps\ftp\filezilla`.  
+
+- 🔄 `Visual Studio Code` : Mis à niveau vers la version 1.100.0 (Dernière mise à jour automatique). Désormais, les utilisateurs doivent télécharger depuis la page officielle de l'application et extraire manuellement les fichiers compressés de mise à jour dans `[DRIVE]:\AWES\apps\editors\vscode`.  

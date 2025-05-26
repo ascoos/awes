@@ -1,16 +1,18 @@
-# 24.2.4 [1782]
+# 24.2.5 [1832]
 
-⏰ 2025-04-17
+⏰ 2025-05-10  
 
-## AWES
-- ✔️ `GUI` -> `Verktygsmeny` -> `Tillägg` : Saknade översättningar för andra språk än engelska har åtgärdats.  
-- ➕ `GUI` -> `Verktygsmeny` -> `Tillägg` : Beskrivningar för genvägar till tillägg i snabbverktygsfältet har lagts till. Nu visas information om tillägget (ENDAST på engelska) när du väljer en genväg.  
-- ➕ `GUI` -> `Snabbverktygsfält` : Fler än 50 genvägar har lagts till. Fler genvägar kommer att finnas tillgängliga via `AWES Store`, där du kan ladda ner och installera de genvägar som intresserar dig bland de hundratals tillgängliga alternativen.
+## ANMÄRKNING  
+Den här versionen är den sista när det gäller uppdateringar av inkluderade applikationer. Användare måste nu ladda ner uppdateringar från den officiella sidan för varje applikation och manuellt extrahera de komprimerade uppdateringsfilerna till motsvarande mapp inom `[DRIVE]:\AWES\apps\`. Anledningen är att uppdateringarna har blivit för stora för att vara praktiska att lagra på servern.  
 
-## SERVRAR
-- 🔄 `PHP`    : Uppdaterad till versionerna 8.3.20 och 8.4.6.
+## AWES  
+- ➕ `GUI` -> `Quick Toolbar`: Lagt till 5+ genvägar.  
 
-## PROGRAM
-- 🔄 `Norepad++` : Uppdaterad till version 8.7.9.
-- 🔄 `Firefox Developer Edition` : Uppdaterad till version 138.0b8.
-- 🔄 `Visual Studio Code` : Uppdaterad till version 1.99.3.
+## SERVER  
+- 🔄 `PHP`: Uppgraderat till versionerna 8.3.21 och 8.4.7.  
+- 🔄 `NodeJS`: Uppgraderat till version 22.15.0.  
+
+## APPLIKATIONER  
+- 🔄 `Filezilla`: Uppgraderat till version 3.69.1 (Sista automatiska uppdateringen). Från och med nu måste användare ladda ner från den officiella applikationssidan och manuellt extrahera de komprimerade uppdateringsfilerna till `[DRIVE]:\AWES\apps\ftp\filezilla`.  
+
+- 🔄 `Visual Studio Code`: Uppgraderat till version 1.100.0 (Sista automatiska uppdateringen). Från och med nu måste användare ladda ner från den officiella applikationssidan och manuellt extrahera de komprimerade uppdateringsfilerna till `[DRIVE]:\AWES\apps\editors\vscode`.  

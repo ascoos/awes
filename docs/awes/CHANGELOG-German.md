@@ -1,16 +1,18 @@
-# 24.2.4 [1782]
+# 24.2.5 [1832]
 
-⏰ 2025-04-17
+⏰ 2025-05-10  
 
-## AWES
-- ✔️ `GUI` -> `Werkzeugmenü` -> `Add-ons` : Fehlende Übersetzungen für andere Sprachen als Englisch wurden behoben.  
-- ➕ `GUI` -> `Werkzeugmenü` -> `Add-ons` : Beschreibungen für die Abkürzungen der Add-ons in der Schnellwerkzeugleiste wurden hinzugefügt. Jetzt werden Informationen über das Add-on angezeigt (NUR auf Englisch), wenn eine Abkürzung ausgewählt wird.  
-- ➕ `GUI` -> `Schnellwerkzeugleiste` : Über 50 Abkürzungen wurden hinzugefügt. Weitere Abkürzungen werden über den `AWES Store` verfügbar sein, wo Sie die Abkürzungen, die Sie interessieren, aus den Hunderten im Store verfügbaren Optionen herunterladen und installieren können.
+## HINWEIS  
+Diese Version ist die letzte in Bezug auf Updates der enthaltenen Anwendungen. Benutzer müssen nun Updates von der offiziellen Seite jeder Anwendung herunterladen und die komprimierten Update-Dateien manuell in den entsprechenden Ordner innerhalb von `[DRIVE]:\AWES\apps\` extrahieren. Der Grund dafür ist, dass die Updates inzwischen zu groß geworden sind, um sie auf dem Server zu speichern.  
 
-## SERVER
-- 🔄 `PHP`    : Aktualisiert auf die Versionen 8.3.20 und 8.4.6.
+## AWES  
+- ➕ `GUI` -> `Quick Toolbar`: 5+ neue Shortcuts hinzugefügt.  
 
-## ANWENDUNGEN
-- 🔄 `Norepad++` : Aktualisiert auf Version 8.7.9.
-- 🔄 `Firefox Developer Edition` : Aktualisiert auf Version 138.0b8.
-- 🔄 `Visual Studio Code` : Aktualisiert auf Version 1.99.3.
+## SERVER  
+- 🔄 `PHP`: Aktualisiert auf Versionen 8.3.21 und 8.4.7.  
+- 🔄 `NodeJS`: Aktualisiert auf Version 22.15.0.  
+
+## ANWENDUNGEN  
+- 🔄 `Filezilla`: Aktualisiert auf Version 3.69.1 (Letztes automatisches Update). Ab jetzt müssen Benutzer die Updates von der offiziellen Seite der Anwendung herunterladen und die komprimierten Update-Dateien manuell in `[DRIVE]:\AWES\apps\ftp\filezilla` extrahieren.  
+
+- 🔄 `Visual Studio Code`: Aktualisiert auf Version 1.100.0 (Letztes automatisches Update). Ab jetzt müssen Benutzer die Updates von der offiziellen Seite der Anwendung herunterladen und die komprimierten Update-Dateien manuell in `[DRIVE]:\AWES\apps\editors\vscode` extrahieren.  

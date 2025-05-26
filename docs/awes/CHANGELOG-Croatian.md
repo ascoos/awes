@@ -1,16 +1,18 @@
-# 24.2.4 [1782]
+# 24.2.5 [1832]
 
-⏰ 2025-04-17
+⏰ 2025-05-10
+
+## NAPOMENA
+Ovo je posljednja verzija što se tiče ažuriranja uključenih aplikacija. Korisnici sada moraju preuzeti ažuriranja sa službene stranice svake aplikacije i ručno izdvojiti komprimirane datoteke ažuriranja u odgovarajuću mapu unutar `[DRIVE]:\AWES\apps\`. Razlog za to je što su ažuriranja postala prevelika i nepraktično ih je držati na serveru.
 
 ## AWES
-- ✔️ `GUI` -> `Izbornik Alati` -> `Dodaci` : Ispravljeno je nedostatak prijevoda za jezike osim engleskog.  
-- ➕ `GUI` -> `Izbornik Alati` -> `Dodaci` : Dodani su opisi za prečace dodataka u brzoj alatnoj traci. Sada se prikazuju informacije o dodatku (SAMO na engleskom) kada se odabere prečac.  
-- ➕ `GUI` -> `Brza alatna traka` : Dodano je 50+ prečaca. Više prečaca bit će dostupno putem `AWES trgovine`, gdje možete preuzeti i instalirati prečace koji vas zanimaju iz stotina dostupnih opcija.
+- ➕ `GUI` -> `Quick Toolbar`: Dodano 5+ prečaca.
 
 ## POSLUŽITELJI
-- 🔄 `PHP`    : Ažuriran na verzije 8.3.20 i 8.4.6.
+- 🔄 `PHP`: Ažurirano na verzije 8.3.21 i 8.4.7.
+- 🔄 `NodeJS`: Ažurirano na verziju 22.15.0.
 
 ## APLIKACIJE
-- 🔄 `Norepad++` : Ažuriran na verziju 8.7.9.
-- 🔄 `Firefox Developer Edition` : Ažuriran na verziju 138.0b8.
-- 🔄 `Visual Studio Code` : Ažuriran na verziju 1.99.3.
+- 🔄 `Filezilla`: Ažurirano na verziju 3.69.1 (Posljednje automatsko ažuriranje). Od sada korisnici moraju preuzeti ažuriranje sa službene stranice aplikacije i ručno izdvojiti komprimirane datoteke ažuriranja u `[DRIVE]:\AWES\apps\ftp\filezilla`.
+
+- 🔄 `Visual Studio Code`: Ažurirano na verziju 1.100.0 (Posljednje automatsko ažuriranje). Od sada korisnici moraju preuzeti ažuriranje sa službene stranice aplikacije i ručno izdvojiti komprimirane datoteke ažuriranja u `[DRIVE]:\AWES\apps\editors\vscode`.

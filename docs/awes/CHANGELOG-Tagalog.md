@@ -1,16 +1,18 @@
-# 24.2.4 [1782]
+# 24.2.5 [1832]
 
-⏰ 2025-04-17
+⏰ 2025-05-10  
 
-## AWES
-- ✔️ `GUI` -> `Menu ng mga Tools` -> `Add-ons` : Naayos na ang nawawalang mga pagsasalin para sa ibang mga wika bukod sa Ingles.  
-- ➕ `GUI` -> `Menu ng mga Tools` -> `Add-ons` : Nagdagdag ng mga paglalarawan para sa mga shortcut ng add-ons sa mabilisang toolbar. Ngayon, kapag pumili ng shortcut, lilitaw ang impormasyon tungkol sa add-on (SA INGLES LAMANG).  
-- ➕ `GUI` -> `Mabilisang Toolbar` : Mahigit 50 shortcut ang idinagdag. Karagdagang mga shortcut ang magiging available sa pamamagitan ng `AWES Store`, kung saan maaari mong i-download at i-install ang mga shortcut na interesado ka mula sa daan-daang opsyon.
+## PAALALA  
+Ito ang huling bersyon na may kasamang mga update para sa mga naka-bundle na aplikasyon. Mula ngayon, kailangang i-download ng mga user ang mga update mula sa opisyal na pahina ng bawat aplikasyon at manu-manong i-extract ang mga naka-compress na update files sa tamang folder sa loob ng `[DRIVE]:\AWES\apps\`. Ang dahilan nito ay lumaki na ang sukat ng mga update, kaya hindi na praktikal ang pag-iimbak ng mga ito sa server.  
 
-## MGA SERVER
-- 🔄 `PHP`    : Na-upgrade sa mga bersyong 8.3.20 at 8.4.6.
+## AWES  
+- ➕ `GUI` -> `Quick Toolbar`: Nadagdagang 5+ shortcuts.  
 
-## MGA APLIKASYON
-- 🔄 `Norepad++` : Na-upgrade sa bersyong 8.7.9.
-- 🔄 `Firefox Developer Edition` : Na-upgrade sa bersyong 138.0b8.
-- 🔄 `Visual Studio Code` : Na-upgrade sa bersyong 1.99.3.
+## SERVER  
+- 🔄 `PHP`: Na-upgrade sa bersyon 8.3.21 at 8.4.7.  
+- 🔄 `NodeJS`: Na-upgrade sa bersyon 22.15.0.  
+
+## MGA APLIKASYON  
+- 🔄 `Filezilla`: Na-upgrade sa bersyon 3.69.1 (Huling awtomatikong update). Mula ngayon, kailangang i-download ng mga user ang update mula sa opisyal na pahina ng aplikasyon at manu-manong i-extract ang mga naka-compress na update files sa `[DRIVE]:\AWES\apps\ftp\filezilla`.  
+
+- 🔄 `Visual Studio Code`: Na-upgrade sa bersyon 1.100.0 (Huling awtomatikong update). Mula ngayon, kailangang i-download ng mga user ang update mula sa opisyal na pahina ng aplikasyon at manu-manong i-extract ang mga naka-compress na update files sa `[DRIVE]:\AWES\apps\editors\vscode`.  

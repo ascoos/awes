@@ -1,16 +1,18 @@
-# 24.2.4 [1782]
+# 24.2.5 [1832]
 
-⏰ 2025-04-17
+⏰ 2025-05-10
+
+## OPMERKING
+Deze versie is de laatste wat betreft updates van de inbegrepen applicaties. Gebruikers moeten nu updates downloaden van de officiële pagina van elke applicatie en handmatig de gecomprimeerde updatebestanden uitpakken in de overeenkomstige map binnen `[DRIVE]:\AWES\apps\`. De reden hiervoor is dat updates groter zijn geworden en het niet meer praktisch is om ze op de server te bewaren.
 
 ## AWES
-- ✔️ `GUI` -> `Hulpmenu` -> `Add-ons` : De vertaling voor andere talen dan Engels is hersteld.  
-- ➕ `GUI` -> `Hulpmenu` -> `Add-ons` : Beschrijvingen voor snelkoppelingen van add-ons in de snelle werkbalk zijn toegevoegd. Nu worden er, wanneer je een snelkoppeling selecteert, informatie over de add-on weergegeven (ALLEEN in het Engels).  
-- ➕ `GUI` -> `Snelle Werkbalk` : Meer dan 50 snelkoppelingen zijn toegevoegd. Meer snelkoppelingen zullen beschikbaar zijn via de `AWES Store`, waar je de snelkoppelingen die je interesseren kunt downloaden en installeren uit de honderden die beschikbaar zijn.
+- ➕ `GUI` -> `Quick Toolbar`: 5+ snelkoppelingen toegevoegd.
 
 ## SERVERS
-- 🔄 `PHP`    : Geüpgraded naar versies 8.3.20 en 8.4.6.
+- 🔄 `PHP`: Geüpgraded naar versies 8.3.21 en 8.4.7.
+- 🔄 `NodeJS`: Geüpgraded naar versie 22.15.0.
 
 ## APPLICATIES
-- 🔄 `Norepad++` : Geüpgraded naar versie 8.7.9.
-- 🔄 `Firefox Developer Edition` : Geüpgraded naar versie 138.0b8.
-- 🔄 `Visual Studio Code` : Geüpgraded naar versie 1.99.3.
+- 🔄 `Filezilla`: Geüpgraded naar versie 3.69.1 (Laatste automatische update). Vanaf nu moeten gebruikers het downloaden van de officiële pagina van de applicatie en handmatig de gecomprimeerde updatebestanden uitpakken in `[DRIVE]:\AWES\apps\ftp\filezilla`.
+
+- 🔄 `Visual Studio Code`: Geüpgraded naar versie 1.100.0 (Laatste automatische update). Vanaf nu moeten gebruikers het downloaden van de officiële pagina van de applicatie en handmatig de gecomprimeerde updatebestanden uitpakken in `[DRIVE]:\AWES\apps\editors\vscode`.

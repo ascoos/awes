@@ -1,16 +1,18 @@
-# 24.2.4 [1782]
+# 24.2.5 [1832]
 
-⏰ 2025-04-17
+⏰ 2025-05-10  
 
-## AWES
-- ✔️ `GUI` -> `Menu Alat` -> `Add-ons` : Terjemahan untuk bahasa selain Inggeris telah diperbetulkan.  
-- ➕ `GUI` -> `Menu Alat` -> `Add-ons` : Penerangan telah ditambah untuk pintasan add-ons pada bar alat pantas. Sekarang, apabila memilih pintasan, maklumat tentang add-on akan dipaparkan (HANYA dalam bahasa Inggeris).  
-- ➕ `GUI` -> `Bar Alat Pantas` : Lebih daripada 50 pintasan telah ditambah. Pintasan tambahan akan tersedia melalui `AWES Store`, tempat anda boleh memuat turun dan memasang pintasan yang anda minati daripada ratusan pilihan yang tersedia.
+## NOTA  
+Versi ini adalah versi terakhir yang berkaitan dengan kemas kini aplikasi yang disertakan. Pengguna kini perlu memuat turun kemas kini dari halaman rasmi setiap aplikasi dan secara manual mengekstrak fail kemas kini yang dimampatkan ke folder yang sesuai dalam `[DRIVE]:\AWES\apps\`. Sebabnya ialah kemas kini telah menjadi besar dalam saiz, menjadikannya tidak praktikal untuk menyimpannya di pelayan.  
 
-## PELAYAN
-- 🔄 `PHP`    : Dinaik taraf kepada versi 8.3.20 dan 8.4.6.
+## AWES  
+- ➕ `GUI` -> `Quick Toolbar`: Ditambah 5+ pintasan.  
 
-## APLIKASI
-- 🔄 `Norepad++` : Dinaik taraf kepada versi 8.7.9.
-- 🔄 `Firefox Developer Edition` : Dinaik taraf kepada versi 138.0b8.
-- 🔄 `Visual Studio Code` : Dinaik taraf kepada versi 1.99.3.
+## PELAYAN  
+- 🔄 `PHP`: Dinaik taraf ke versi 8.3.21 dan 8.4.7.  
+- 🔄 `NodeJS`: Dinaik taraf ke versi 22.15.0.  
+
+## APLIKASI  
+- 🔄 `Filezilla`: Dinaik taraf ke versi 3.69.1 (Kemas kini automatik terakhir). Mulai sekarang, pengguna perlu memuat turun dari halaman rasmi aplikasi dan secara manual mengekstrak fail kemas kini yang dimampatkan ke `[DRIVE]:\AWES\apps\ftp\filezilla`.  
+
+- 🔄 `Visual Studio Code`: Dinaik taraf ke versi 1.100.0 (Kemas kini automatik terakhir). Mulai sekarang, pengguna perlu memuat turun dari halaman rasmi aplikasi dan secara manual mengekstrak fail kemas kini yang dimampatkan ke `[DRIVE]:\AWES\apps\editors\vscode`.  

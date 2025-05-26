@@ -1,16 +1,18 @@
-# 24.2.4 [1782]
+# 24.2.5 [1832]
 
-⏰ 2025-04-17
+⏰ 2025-05-10  
 
-## AWES
-- ✔️ `GUI` -> `Menu Công cụ` -> `Add-ons` : Đã sửa lỗi thiếu bản dịch cho các ngôn ngữ khác ngoài tiếng Anh.  
-- ➕ `GUI` -> `Menu Công cụ` -> `Add-ons` : Đã thêm mô tả cho các phím tắt của add-ons trong thanh công cụ nhanh. Giờ đây, khi chọn một phím tắt, thông tin về add-on sẽ được hiển thị (CHỈ bằng tiếng Anh).  
-- ➕ `GUI` -> `Thanh công cụ nhanh` : Đã thêm hơn 50 phím tắt. Các phím tắt khác sẽ có sẵn thông qua `AWES Store`, nơi bạn có thể tải xuống và cài đặt các phím tắt mà bạn quan tâm từ hàng trăm tùy chọn có sẵn.
+## LƯU Ý  
+Phiên bản này là phiên bản cuối cùng liên quan đến cập nhật của các ứng dụng đi kèm. Giờ đây, người dùng cần tải xuống các bản cập nhật từ trang chính thức của từng ứng dụng và tự giải nén các tệp cập nhật đã nén vào thư mục tương ứng bên trong `[DRIVE]:\AWES\apps\`. Lý do là vì các bản cập nhật đã trở nên quá lớn, khiến việc lưu trữ chúng trên máy chủ không còn khả thi.  
 
-## MÁY CHỦ
-- 🔄 `PHP`    : Đã nâng cấp lên các phiên bản 8.3.20 và 8.4.6.
+## AWES  
+- ➕ `GUI` -> `Quick Toolbar`: Đã thêm hơn 5 phím tắt.  
 
-## ỨNG DỤNG
-- 🔄 `Norepad++` : Đã nâng cấp lên phiên bản 8.7.9.
-- 🔄 `Firefox Developer Edition` : Đã nâng cấp lên phiên bản 138.0b8.
-- 🔄 `Visual Studio Code` : Đã nâng cấp lên phiên bản 1.99.3.
+## MÁY CHỦ  
+- 🔄 `PHP`: Đã cập nhật lên phiên bản 8.3.21 và 8.4.7.  
+- 🔄 `NodeJS`: Đã cập nhật lên phiên bản 22.15.0.  
+
+## ỨNG DỤNG  
+- 🔄 `Filezilla`: Đã cập nhật lên phiên bản 3.69.1 (Bản cập nhật tự động cuối cùng). Từ nay, người dùng cần tải xuống từ trang chính thức của ứng dụng và tự giải nén các tệp cập nhật đã nén vào `[DRIVE]:\AWES\apps\ftp\filezilla`.  
+
+- 🔄 `Visual Studio Code`: Đã cập nhật lên phiên bản 1.100.0 (Bản cập nhật tự động cuối cùng). Từ nay, người dùng cần tải xuống từ trang chính thức của ứng dụng và tự giải nén các tệp cập nhật đã nén vào `[DRIVE]:\AWES\apps\editors\vscode`.  

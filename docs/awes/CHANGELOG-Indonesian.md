@@ -1,16 +1,18 @@
-# 24.2.4 [1782]
+# 24.2.5 [1832]
 
-⏰ 2025-04-17
+⏰ 2025-05-10  
 
-## AWES
-- ✔️ `GUI` -> `Menu Alat` -> `Add-ons` : Koreksi telah dilakukan untuk terjemahan bahasa selain Inggris.  
-- ➕ `GUI` -> `Menu Alat` -> `Add-ons` : Deskripsi telah ditambahkan untuk pintasan add-ons pada bilah alat cepat. Sekarang, saat memilih pintasan, informasi tentang add-on akan ditampilkan (HANYA dalam bahasa Inggris).  
-- ➕ `GUI` -> `Quick Toolbar` : Lebih dari 50 pintasan telah ditambahkan. Pintasan tambahan akan tersedia melalui `AWES Store`, tempat Anda dapat mengunduh dan menginstal pintasan yang Anda minati dari ratusan opsi yang tersedia.
+## CATATAN  
+Versi ini adalah versi terakhir yang berkaitan dengan pembaruan aplikasi yang disertakan. Sekarang, pengguna harus mengunduh pembaruan dari halaman resmi setiap aplikasi dan secara manual mengekstrak file pembaruan terkompresi ke folder yang sesuai di dalam `[DRIVE]:\AWES\apps\`. Alasannya adalah karena ukuran pembaruan telah menjadi besar, sehingga tidak praktis untuk menyimpannya di server.  
 
-## SERVER
-- 🔄 `PHP`    : Ditingkatkan ke versi 8.3.20 dan 8.4.6.
+## AWES  
+- ➕ `GUI` -> `Quick Toolbar`: Menambahkan 5+ pintasan.  
 
-## APLIKASI
-- 🔄 `Norepad++` : Ditingkatkan ke versi 8.7.9.
-- 🔄 `Firefox Developer Edition` : Ditingkatkan ke versi 138.0b8.
-- 🔄 `Visual Studio Code` : Ditingkatkan ke versi 1.99.3.
+## SERVER  
+- 🔄 `PHP`: Ditingkatkan ke versi 8.3.21 dan 8.4.7.  
+- 🔄 `NodeJS`: Ditingkatkan ke versi 22.15.0.  
+
+## APLIKASI  
+- 🔄 `Filezilla`: Ditingkatkan ke versi 3.69.1 (Pembaruan otomatis terakhir). Mulai sekarang, pengguna harus mengunduh dari halaman resmi aplikasi dan secara manual mengekstrak file pembaruan terkompresi ke `[DRIVE]:\AWES\apps\ftp\filezilla`.  
+
+- 🔄 `Visual Studio Code`: Ditingkatkan ke versi 1.100.0 (Pembaruan otomatis terakhir). Mulai sekarang, pengguna harus mengunduh dari halaman resmi aplikasi dan secara manual mengekstrak file pembaruan terkompresi ke `[DRIVE]:\AWES\apps\editors\vscode`.  

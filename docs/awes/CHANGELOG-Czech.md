@@ -1,16 +1,18 @@
-# 24.2.4 [1782]
+# 24.2.5 [1832]
 
-⏰ 2025-04-17
+⏰ 2025-05-10
+
+## POZNÁMKA
+Tato verze je poslední, co se týče aktualizací zahrnutých aplikací. Uživatelé nyní musí stahovat aktualizace z oficiální stránky každé aplikace a ručně rozbalit komprimované soubory aktualizace do odpovídající složky uvnitř `[DRIVE]:\AWES\apps\`. Důvodem je, že aktualizace se staly objemnými a není praktické je uchovávat na serveru.
 
 ## AWES
-- ✔️ `GUI` -> `Nabídka Nástroje` -> `Doplňky` : Opraveny chybějící překlady pro jazyky jiné než angličtina.  
-- ➕ `GUI` -> `Nabídka Nástroje` -> `Doplňky` : Přidány popisy zkratek doplňků v rychlé nástrojové liště. Nyní se při výběru zkratky zobrazí informace o doplňku (POUZE v angličtině).  
-- ➕ `GUI` -> `Rychlá nástrojová lišta` : Přidáno 50+ zkratek. Další zkratky budou k dispozici prostřednictvím `AWES Store`, kde si můžete stáhnout a nainstalovat zkratky, které vás zajímají, z několika set dostupných v obchodě.
+- ➕ `GUI` -> `Quick Toolbar`: Přidáno 5+ zkratek.
 
 ## SERVERY
-- 🔄 `PHP`    : Aktualizováno na verze 8.3.20 a 8.4.6.
+- 🔄 `PHP`: Aktualizováno na verze 8.3.21 a 8.4.7.
+- 🔄 `NodeJS`: Aktualizováno na verzi 22.15.0.
 
 ## APLIKACE
-- 🔄 `Norepad++` : Aktualizováno na verzi 8.7.9.
-- 🔄 `Firefox Developer Edition` : Aktualizováno na verzi 138.0b8.
-- 🔄 `Visual Studio Code` : Aktualizováno na verzi 1.99.3.
+- 🔄 `Filezilla`: Aktualizováno na verzi 3.69.1 (Poslední automatická aktualizace). Od nynějška musí uživatelé stahovat aktualizaci z oficiální stránky aplikace a ručně rozbalit komprimované soubory aktualizace do `[DRIVE]:\AWES\apps\ftp\filezilla`.
+
+- 🔄 `Visual Studio Code`: Aktualizováno na verzi 1.100.0 (Poslední automatická aktualizace). Od nynějška musí uživatelé stahovat aktualizaci z oficiální stránky aplikace a ručně rozbalit komprimované soubory aktualizace do `[DRIVE]:\AWES\apps\editors\vscode`.

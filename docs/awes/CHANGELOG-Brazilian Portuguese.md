@@ -1,16 +1,18 @@
-# 24.2.4 [1782]
+# 24.2.5 [1832]
 
-⏰ 2025-04-17
+⏰ 2025-05-10
+
+## NOTA
+Esta versão é a última no que diz respeito às atualizações dos aplicativos incluídos. Agora, os usuários devem baixar as atualizações na página oficial de cada aplicativo e extrair manualmente os arquivos compactados de atualização para a pasta correspondente dentro de `[DRIVE]:\AWES\apps\`. O motivo é que as atualizações se tornaram grandes em tamanho, tornando inviável mantê-las no servidor.
 
 ## AWES
-- ✔️ `GUI` -> `Menu Ferramentas` -> `Complementos` : Correção feita para as traduções de idiomas que não sejam o inglês.  
-- ➕ `GUI` -> `Menu Ferramentas` -> `Complementos` : Adicionada descrição para os atalhos dos complementos na barra de ferramentas rápida. Agora, ao selecionar um atalho, são exibidas informações sobre o complemento (APENAS em inglês).  
-- ➕ `GUI` -> `Barra de Ferramentas Rápida` : Adicionados mais de 50 atalhos. Mais atalhos estarão disponíveis através da `AWES Store`, onde você poderá baixar e instalar os atalhos de seu interesse entre os centenas disponíveis na loja.
+- ➕ `GUI` -> `Quick Toolbar`: Adicionados 5+ atalhos.
 
 ## SERVIDORES
-- 🔄 `PHP`    : Atualizado para as versões 8.3.20 e 8.4.6.
+- 🔄 `PHP`: Atualizado para as versões 8.3.21 e 8.4.7.
+- 🔄 `NodeJS`: Atualizado para a versão 22.15.0.
 
 ## APLICATIVOS
-- 🔄 `Norepad++` : Atualizado para a versão 8.7.9.
-- 🔄 `Firefox Developer Edition` : Atualizado para a versão 138.0b8.
-- 🔄 `Visual Studio Code` : Atualizado para a versão 1.99.3.
+- 🔄 `Filezilla`: Atualizado para a versão 3.69.1 (Última atualização automática). A partir de agora, os usuários devem baixar da página oficial do aplicativo e extrair manualmente os arquivos compactados de atualização para `[DRIVE]:\AWES\apps\ftp\filezilla`.
+
+- 🔄 `Visual Studio Code`: Atualizado para a versão 1.100.0 (Última atualização automática). A partir de agora, os usuários devem baixar da página oficial do aplicativo e extrair manualmente os arquivos compactados de atualização para `[DRIVE]:\AWES\apps\editors\vscode`.

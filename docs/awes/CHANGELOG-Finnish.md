@@ -1,16 +1,18 @@
-# 24.2.4 [1782]
+# 24.2.5 [1832]
 
-⏰ 2025-04-17
+⏰ 2025-05-10
+
+## HUOMAUTUS
+Tämä versio on viimeinen, joka koskee mukana olevien sovellusten päivityksiä. Käyttäjien on nyt ladattava päivitykset kunkin sovelluksen viralliselta sivulta ja purettava pakatut päivitystiedostot manuaalisesti oikeaan kansioon sisällä `[DRIVE]:\AWES\apps\`. Syynä on se, että päivitykset ovat kasvaneet kooltaan niin suuriksi, ettei niitä ole enää käytännöllistä säilyttää palvelimella.
 
 ## AWES
-- ✔️ `GUI` -> `Työkalut-valikko` -> `Lisäosat` : Korjattu käännökset muille kielille kuin englannille.  
-- ➕ `GUI` -> `Työkalut-valikko` -> `Lisäosat` : Lisätty kuvaukset pikatyökalupalkin lisäosien pikavalinnoille. Nyt, kun valitaan pikavalinta, näytetään lisäosan tiedot (VAIN englanniksi).  
-- ➕ `GUI` -> `Pikatyökalupalkki` : Lisätty yli 50 pikavalintaa. Lisää pikavalintoja tulee saataville `AWES Store` -kaupan kautta, josta voit ladata ja asentaa haluamasi pikavalinnat sadoista kaupan tarjoamista vaihtoehdoista.
+- ➕ `GUI` -> `Quick Toolbar`: Lisätty 5+ pikanäppäintä.
 
 ## PALVELIMET
-- 🔄 `PHP`    : Päivitetty versioihin 8.3.20 ja 8.4.6.
+- 🔄 `PHP`: Päivitetty versioihin 8.3.21 ja 8.4.7.
+- 🔄 `NodeJS`: Päivitetty versioon 22.15.0.
 
 ## SOVELLUKSET
-- 🔄 `Norepad++` : Päivitetty versioon 8.7.9.
-- 🔄 `Firefox Developer Edition` : Päivitetty versioon 138.0b8.
-- 🔄 `Visual Studio Code` : Päivitetty versioon 1.99.3.
+- 🔄 `Filezilla`: Päivitetty versioon 3.69.1 (Viimeinen automaattinen päivitys). Tästä lähtien käyttäjien on ladattava se sovelluksen viralliselta sivulta ja purettava pakatut päivitystiedostot manuaalisesti kansioon `[DRIVE]:\AWES\apps\ftp\filezilla`.
+
+- 🔄 `Visual Studio Code`: Päivitetty versioon 1.100.0 (Viimeinen automaattinen päivitys). Tästä lähtien käyttäjien on ladattava se sovelluksen viralliselta sivulta ja purettava pakatut päivitystiedostot manuaalisesti kansioon `[DRIVE]:\AWES\apps\editors\vscode`.

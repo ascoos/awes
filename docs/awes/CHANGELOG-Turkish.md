@@ -1,16 +1,18 @@
-# 24.2.4 [1782]
+# 24.2.5 [1832]
 
-⏰ 2025-04-17
+⏰ 2025-05-10  
 
-## AWES
-- ✔️ `GUI` -> `Araçlar Menüsü` -> `Eklentiler` : İngilizce dışındaki diller için eksik olan çeviriler düzeltildi.  
-- ➕ `GUI` -> `Araçlar Menüsü` -> `Eklentiler` : Hızlı araç çubuğundaki eklentilerin kısayolları için açıklamalar eklendi. Artık bir kısayol seçildiğinde, eklenti hakkında bilgiler gösteriliyor (SADECE İngilizce olarak).  
-- ➕ `GUI` -> `Hızlı Araç Çubuğu` : 50'den fazla kısayol eklendi. Daha fazla kısayol, `AWES Store` aracılığıyla erişilebilir olacak. Burada, mağazada mevcut yüzlerce seçenek arasından ilginizi çeken kısayolları indirip yükleyebilirsiniz.
+## NOT  
+Bu sürüm, dahil edilen uygulamaların güncellemeleriyle ilgili son sürümdür. Kullanıcılar artık her uygulamanın resmi sayfasından güncellemeleri indirmeli ve sıkıştırılmış güncelleme dosyalarını `[DRIVE]:\AWES\apps\` içindeki ilgili klasöre manuel olarak çıkarmalıdır. Bunun nedeni, güncellemelerin artık çok büyük olması ve sunucuda saklanmasının pratik olmamasıdır.  
 
-## SUNUCULAR
-- 🔄 `PHP`    : 8.3.20 ve 8.4.6 sürümlerine güncellendi.
+## AWES  
+- ➕ `GUI` -> `Quick Toolbar`: 5+ kısayol eklendi.  
 
-## UYGULAMALAR
-- 🔄 `Norepad++` : 8.7.9 sürümüne güncellendi.
-- 🔄 `Firefox Developer Edition` : 138.0b8 sürümüne güncellendi.
-- 🔄 `Visual Studio Code` : 1.99.3 sürümüne güncellendi.
+## SUNUCULAR  
+- 🔄 `PHP`: 8.3.21 ve 8.4.7 sürümlerine yükseltildi.  
+- 🔄 `NodeJS`: 22.15.0 sürümüne yükseltildi.  
+
+## UYGULAMALAR  
+- 🔄 `Filezilla`: 3.69.1 sürümüne yükseltildi (Son otomatik güncelleme). Bundan sonra, kullanıcıların güncellemeyi uygulamanın resmi sayfasından indirmesi ve sıkıştırılmış dosyaları `[DRIVE]:\AWES\apps\ftp\filezilla` içine manuel olarak çıkarması gerekiyor.  
+
+- 🔄 `Visual Studio Code`: 1.100.0 sürümüne yükseltildi (Son otomatik güncelleme). Bundan sonra, kullanıcıların güncellemeyi uygulamanın resmi sayfasından indirmesi ve sıkıştırılmış dosyaları `[DRIVE]:\AWES\apps\editors\vscode` içine manuel olarak çıkarması gerekiyor.  

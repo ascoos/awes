@@ -1,16 +1,18 @@
-# 24.2.4 [1782]
+# 24.2.5 [1832]
 
-⏰ 2025-04-17
+⏰ 2025-05-10  
 
-## AWES
-- ✔️ `GUI` -> `Verktøymeny` -> `Tillegg` : Manglende oversettelser for språk som ikke er engelsk har blitt rettet.  
-- ➕ `GUI` -> `Verktøymeny` -> `Tillegg` : Beskrivelser for snarveier til tillegg i den raske verktøylinjen har blitt lagt til. Nå vises informasjon om tillegget (BARE på engelsk) når du velger en snarvei.  
-- ➕ `GUI` -> `Rask verktøylinje` : Mer enn 50 snarveier har blitt lagt til. Flere snarveier vil bli tilgjengelig gjennom `AWES Store`, hvor du kan laste ned og installere de snarveiene du er interessert i fra hundrevis av alternativer i butikken.
+## MERKNAD  
+Denne versjonen er den siste når det gjelder oppdateringer av inkluderte applikasjoner. Brukere må nå laste ned oppdateringer fra den offisielle siden for hver applikasjon og manuelt pakke ut de komprimerte oppdateringsfilene til den tilsvarende mappen innen `[DRIVE]:\AWES\apps\`. Årsaken er at oppdateringene har blitt for store til at det er praktisk å lagre dem på serveren.  
 
-## SERVER
-- 🔄 `PHP`    : Oppgradert til versjonene 8.3.20 og 8.4.6.
+## AWES  
+- ➕ `GUI` -> `Quick Toolbar`: Lagt til 5+ snarveier.  
 
-## PROGRAMMER
-- 🔄 `Norepad++` : Oppgradert til versjon 8.7.9.
-- 🔄 `Firefox Developer Edition` : Oppgradert til versjon 138.0b8.
-- 🔄 `Visual Studio Code` : Oppgradert til versjon 1.99.3.
+## SERVER  
+- 🔄 `PHP`: Oppgradert til versjonene 8.3.21 og 8.4.7.  
+- 🔄 `NodeJS`: Oppgradert til versjon 22.15.0.  
+
+## APPLIKASJONER  
+- 🔄 `Filezilla`: Oppgradert til versjon 3.69.1 (Siste automatiske oppdatering). Fra nå av må brukere laste ned fra den offisielle applikasjonssiden og manuelt pakke ut de komprimerte oppdateringsfilene til `[DRIVE]:\AWES\apps\ftp\filezilla`.  
+
+- 🔄 `Visual Studio Code`: Oppgradert til versjon 1.100.0 (Siste automatiske oppdatering). Fra nå av må brukere laste ned fra den offisielle applikasjonssiden og manuelt pakke ut de komprimerte oppdateringsfilene til `[DRIVE]:\AWES\apps\editors\vscode`.  
