@@ -1,7 +1,8 @@
-# Ascoos Web Extended Studio (AWES)
+# Ascoos Web Extended Studio 24.x (AWES)
 
-[![Ascoos Web Extended Studio  - state of Official Website](https://img.shields.io/website?url=https://awes.ascoos.com)](https://awes.ascoos.com) 
-![SourceForge Platform](https://img.shields.io/sourceforge/platform/ascoos-web-extended-studio?labelColor=white&color=blue)
+[![Website](https://img.shields.io/website?url=https://www.ascoos.com&style=for-the-badge&label=Ascoos%20Official%20Website)](https://www.ascoos.com) 
+[![Ascoos Web Extended Studio  - state of Official Website](https://img.shields.io/website?url=https://awes.ascoos.com&style=for-the-badge&label=Ascoos%20Web%20Extended%20Studio)](https://awes.ascoos.com) 
+![SourceForge Platform](https://img.shields.io/sourceforge/platform/ascoos-web-extended-studio?labelColor=white&color=blue&style=for-the-badge)
 
 ***
 
@@ -135,14 +136,14 @@ Click on each option to open the content.
 </summary>
 <br>
 
-|Name | ✅ 24.2.4 | 24.2.5 | 24.2.6 | 24.2.7 | 24.2.8 | 24.2.9 | 25.x | 26.x |
+|Name | ✅ 24.2.5 | 24.2.6 | 24.2.7 | 24.2.8 | 24.2.9 | 24.2.10 | 25.x | 26.x |
 |---|---|---|---|---|---|---|---|---|
 | **AWES Desktop Control**<br>(`Portable`) | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
-| **WCI**<br>(`Web-based Control Information`) |  |  |  |  |  |  | ✅ | ✅ |
-| **WCP**<br>(`Web-based Control Panel`) |  |  |  |  |  |  |  | ✅ |
+| **Ascoos Web Host Panel (WHP)** <br> (`Free Edition based Ascoos OS`) |  |  |  |  |  |  |  | ✅ |
 | **Multilingual**<br>(`40 Languages`) | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
 | **Themes**<br>(`Multiple skins`) | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
 | **Windows DNS Hosts**<br>(`Native AWES Editor`) | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
+| **Mikrotik DNS Hosts** <br> (`communication with RouterOS`) |  |  |  |  |  |  |  | ✅ |
 | **Quick Toolbar**<br>(`600+ shortcuts`) | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
 </details>
 
@@ -152,12 +153,13 @@ Click on each option to open the content.
 </summary>
  <br>
 
-|Name | ✅ 24.2.4 | 24.2.5 | 24.2.6 | 24.2.7 | 24.2.8 | 24.2.9 | 25.x | 26.x |
+|Name | ✅ 24.2.5 | 24.2.6 | 24.2.7 | 24.2.8 | 24.2.9 | 24.2.10 | 25.x | 26.x |
 |---|---|---|---|---|---|---|---|---|
 | **Apache**<br>(`Web Server`) | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
 | **NGNIX**<br>(`Web Server`) |  |  |  |  |  |  |  | ✅ |
 | **Filezilla**<br>(`FTP Server`) | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
 | **Subversion SVN** <br> (`Code Repositories`) | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
+| **GIT**<br>(`Code Repositories`) |  |  |  |  |  |  |  | ✅ |
 | **Memcached**<br>(`Accelerator`) | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
 </details>
 
@@ -167,7 +169,7 @@ Click on each option to open the content.
 </summary>
  <br>
 
-|Name | ✅ 24.2.4 | 24.2.5 | 24.2.6 | 24.2.7 | 24.2.8 | 24.2.9 | 25.x | 26.x |
+|Name | ✅ 24.2.5 | 24.2.6 | 24.2.7 | 24.2.8 | 24.2.9 | 24.2.10 | 25.x | 26.x |
 |---|---|---|---|---|---|---|---|---|
 | **PHP** <br> (`Multiple PHP Versions`) | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
 | **Python** <br> (`Run as Apache CGI`) | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
@@ -180,11 +182,12 @@ Click on each option to open the content.
 </summary>
  <br> 
 
-|Name | ✅ 24.2.4 | 24.2.5 | 24.2.6 | 24.2.7 | 24.2.8 | 24.2.9 | 25.x | 26.x |
+|Name | ✅ 24.2.5 | 24.2.6 | 24.2.7 | 24.2.8 | 24.2.9 | 24.2.10 | 25.x | 26.x |
 |---|---|---|---|---|---|---|---|---|
+| **JSQLDB** <br> (`PHP-native Json SQL Database`) |  |  |  |  |  |  |  | ✅ |
 | **MariaDB** <br> (`Multiple DB Versions`) | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
-| **PostgreSQL** |  |  |  |  |  |  |  | ✅ |
 | **MongoDB** | ✅ | ✅ |✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
+| **PostgreSQL** |  |  |  |  |  |  |  | ✅ |
 </details>
 
 <details>
@@ -193,9 +196,9 @@ Click on each option to open the content.
 </summary>
  <br> 
 
-|Name | ✅ 24.2.4 | 24.2.5 | 24.2.6 | 24.2.7 | 24.2.8 | 24.2.9 | 25.x | 26.x |
+|Name | ✅ 24.2.5 | 24.2.6 | 24.2.7 | 24.2.8 | 24.2.9 | 24.2.10 | 25.x | 26.x |
 |---|---|---|---|---|---|---|---|---|
-| **Ascoos File Manager**<br>(`Web File Manager`) |  |  |  |  |  |  | ✅ | ✅ |
+| **Ascoos File Manager**<br>(`Web File Manager based Ascoos OS`) |  |  |  |  |  |  |  | ✅ |
 | **phpMyAdmin**<br>(`Web Interface for MariaDB`) | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
 | **phpPgAdmin**<br>(`Web Interface for PostfreSQL`) |  |  |  |  |  |  |  | ✅ |
 | **Tiny File Manager**<br>(`Web File Manager`) | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ |
@@ -210,13 +213,12 @@ Click on each option to open the content.
 </summary>
  <br>
 
-|Name | ✅ 24.2.4 | 24.2.5 | 24.2.6 | 24.2.7 | 24.2.8 | 24.2.9 | 25.x | 26.x |
+|Name | ✅ 24.2.5 | 24.2.6 | 24.2.7 | 24.2.8 | 24.2.9 | 24.2.10 | 25.x | 26.x |
 |---|---|---|---|---|---|---|---|---|
-| **Ascoos LibIn** <br> (`Installer PHP Libraries`) |  |  |  |  |  |  |  | ✅ |
+| **Ascoos LibIn** <br> (`Installer PHP Libraries for Ascoos OS`) |  |  |  |  |  |  |  | ✅ |
 | **OpenSSL** <br> (`SSL Supports`) | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
 | **IonCube** <br> (`encoder loaders for PHP`) | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
 | **Browscap** <br> (`Browser informations`) | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
-| **Composer** <br> (`Installer PHP Packages`) |  |  |  |  |  |  |  | ✅ |
 </details>
 
 <details>
@@ -225,7 +227,7 @@ Click on each option to open the content.
 </summary>
  <br>
 
-|Name | ✅ 24.2.4 | 24.2.5 | 24.2.6 | 24.2.7 | 24.2.8 | 24.2.9 | 25.x | 26.x |
+|Name | ✅ 24.2.5 | 24.2.6 | 24.2.7 | 24.2.8 | 24.2.9 | 24.2.10 | 25.x | 26.x |
 |---|---|---|---|---|---|---|---|---|
 | **Firefox** <br> (`Portable Developer Edition`) | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
 | **Visual Studio Code** <br> (`Portable Code Editor`) | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
@@ -241,10 +243,13 @@ Click on each option to open the content.
 </summary>
  <br>
 
-|Pre-Installed Web Apps | ✅ 24.2.4 | 24.2.5 | 24.2.6 | 24.2.7 | 24.2.8 | 24.2.9 | 25.x | 26.x |
+|Pre-Installed Web Apps | ✅ 24.2.5 | 24.2.6 | 24.2.7 | 24.2.8 | 24.2.9 | 24.2.10 | 25.x | 26.x |
 |---|---|---|---|---|---|---|---|---|
-| **Ascoos CMS 25'** <br> (`Free Edition`) |  |  |  |  |  |  |  | ✅ |
-| **Ascoos Documentor** <br> (`Free Edition`) |  |  |  |  |  |  |  | ✅ |
+| **Ascoos CMS Oxyzen** <br> (`Free Edition based Ascoos OS`) |  |  |  |  |  |  |  | ✅ |
+| **Ascoos Documentor** <br> (`Free Edition based Ascoos OS`) |  |  |  |  |  |  |  | ✅ |
+| **Ascoos Bug Manager** <br> (`Free Edition based Ascoos OS`) |  |  |  |  |  |  |  | ✅ |
+| **Ascoos Torrent Client** <br> (`Free Edition based Ascoos OS`) |  |  |  |  |  |  |  | ✅ |
+| **Ascoos TV Streaming** <br> (`Free Edition based Ascoos OS`) |  |  |  |  |  |  |  | ✅ |
 | **Joomla!** <br> (`PHP - CMS. 4.x and 5.x`) | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
 | **Wordpress!** <br> (`PHP - CMS. 5.x and 6.x`) | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
 
@@ -256,9 +261,11 @@ Click on each option to open the content.
 </summary>
  <br>
 
-|Pre-Installed Web Libraries | ✅ 24.2.4 | 24.2.5 | 24.2.6 | 24.2.7 | 24.2.8 | 24.2.9 | 25.x | 26.x |
+|Pre-Installed Web Libraries | ✅ 24.2.5 | 24.2.6 | 24.2.7 | 24.2.8 | 24.2.9 | 24.2.10 | 25.x | 26.x |
 |---|---|---|---|---|---|---|---|---|
-| **Ascoos Framework** (Free Edition)<br> (`PHP Framework`) | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
+| **Ascoos OS** (Free Edition)<br> (`PHP Web 5 Kernel`) |  |  |  |  |  |  |  | ✅ |
+| **Ascoos Framework 26** (Free Edition)<br> (`PHP Framework based Ascoos OS`) |  |  |  |  |  |  |  | ✅ |
+| **Ascoos Framework 25** (Free Edition)<br> (`PHP Framework`) | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ |
 | **phpBCL8** <br> (`PHP8 Backwards Compatibility Library`) | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
 </details>
 
@@ -271,8 +278,8 @@ Click on each option to open the content.
 
 
 ## Licenses
-    a) ASCOOS CMS General License (AGL)
-    b) ASCOOS Free License        (AGL-F)
+    a) ASCOOS General License (AGL)
+    b) ASCOOS Free License (AGL-F)
     c) GNU General Public License (GPL)
 
 
