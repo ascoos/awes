@@ -29,9 +29,9 @@
 </summary>
 <br>
 
-![Ascoos Web Extended Studio - Forks](https://img.shields.io/github/forks/alexsoft-software/awes)
-![Ascoos Web Extended Studio - Stars](https://img.shields.io/github/stars/alexsoft-software/awes)
-![Ascoos Web Extended Studio - Watchers](https://img.shields.io/github/watchers/alexsoft-software/awes)
+![Ascoos Web Extended Studio - Forks](https://img.shields.io/github/forks/ascoos/awes)
+![Ascoos Web Extended Studio - Stars](https://img.shields.io/github/stars/ascoos/awes)
+![Ascoos Web Extended Studio - Watchers](https://img.shields.io/github/watchers/ascoos/awes)
 </details>
 
 <details>
@@ -40,15 +40,15 @@
 </summary>
 <br>
 
-[![Ascoos Web Extended Studio - Έκδοση](https://img.shields.io/github/v/release/alexsoft-software/awes)](https://github.com/alexsoft-software/awes/releases)
-![Ascoos Web Extended Studio - Ημερομηνία Έκδοσης](https://img.shields.io/github/release-date/alexsoft-software/awes?color=%230E80C0)
-![Ascoos Web Extended Studio - Λήψεις (όλα τα στοιχεία, όλες οι εκδόσεις)](https://img.shields.io/github/downloads/alexsoft-software/awes/total?color=%230E80C0) 
-[![Ascoos Web Extended Studio - Ετικέτα τελευταίας έκδοσης](https://img.shields.io/github/tag/alexsoft-software/awes.svg)](https://github.com/alexsoft-software/awes/tags)
+[![Ascoos Web Extended Studio - Έκδοση](https://img.shields.io/github/v/release/ascoos/awes)](https://github.com/ascoos/awes/releases)
+![Ascoos Web Extended Studio - Ημερομηνία Έκδοσης](https://img.shields.io/github/release-date/ascoos/awes?color=%230E80C0)
+![Ascoos Web Extended Studio - Λήψεις (όλα τα στοιχεία, όλες οι εκδόσεις)](https://img.shields.io/github/downloads/ascoos/awes/total?color=%230E80C0) 
+[![Ascoos Web Extended Studio - Ετικέτα τελευταίας έκδοσης](https://img.shields.io/github/tag/ascoos/awes.svg)](https://github.com/ascoos/awes/tags)
 
-![Ascoos Web Extended Studio - Μέγεθος αποθετηρίου](https://img.shields.io/github/repo-size/alexsoft-software/awes)
-[![Ascoos Web Extended Studio - Συνολικές γραμμές](https://tokei.rs/b1/github/alexsoft-software/awes?category=lines)](https://github.com/alexsoft-software/awes)
-[![Ascoos Web Extended Studio - Γραμμές πηγαίου κώδικα](https://tokei.rs/b1/github/alexsoft-software/awes?category=code)](https://github.com/alexsoft-software/awes) 
-[![Ascoos Web Extended Studio - Αρχεία στο αποθετήριο](https://tokei.rs/b1/github/alexsoft-software/awes?category=files)](https://github.com/alexsoft-software/awes)
+![Ascoos Web Extended Studio - Μέγεθος αποθετηρίου](https://img.shields.io/github/repo-size/ascoos/awes)
+[![Ascoos Web Extended Studio - Συνολικές γραμμές](https://tokei.rs/b1/github/ascoos/awes?category=lines)](https://github.com/ascoos/awes)
+[![Ascoos Web Extended Studio - Γραμμές πηγαίου κώδικα](https://tokei.rs/b1/github/ascoos/awes?category=code)](https://github.com/ascoos/awes) 
+[![Ascoos Web Extended Studio - Αρχεία στο αποθετήριο](https://tokei.rs/b1/github/ascoos/awes?category=files)](https://github.com/ascoos/awes)
 </details>
 
 <details>
@@ -57,11 +57,11 @@
 </summary>
 <br>
 
-[![Ascoos Web Extended Studio - Ανοιχτά Θέματα](https://img.shields.io/github/issues/alexsoft-software/awes)](https://github.com/alexsoft-software/awes/issues)
-[![Ascoos Web Extended Studio - Κλειστά Θέματα](https://img.shields.io/github/issues-closed/alexsoft-software/awes)](https://github.com/alexsoft-software/awes/issues)
-[![Ascoos Web Extended Studio - Ανοιχτά Pull Requests](https://img.shields.io/github/issues-pr/alexsoft-software/awes)](https://github.com/alexsoft-software/awes/pulls)
-[![Ascoos Web Extended Studio - Κλειστά Pull Requests](https://img.shields.io/github/issues-pr-closed/alexsoft-software/awes)](https://github.com/alexsoft-software/awes/pulls)
-![Ascoos Web Extended Studio - Τελευταία Υποβολή](https://img.shields.io/github/last-commit/alexsoft-software/awes)
+[![Ascoos Web Extended Studio - Ανοιχτά Θέματα](https://img.shields.io/github/issues/ascoos/awes)](https://github.com/ascoos/awes/issues)
+[![Ascoos Web Extended Studio - Κλειστά Θέματα](https://img.shields.io/github/issues-closed/ascoos/awes)](https://github.com/ascoos/awes/issues)
+[![Ascoos Web Extended Studio - Ανοιχτά Pull Requests](https://img.shields.io/github/issues-pr/ascoos/awes)](https://github.com/ascoos/awes/pulls)
+[![Ascoos Web Extended Studio - Κλειστά Pull Requests](https://img.shields.io/github/issues-pr-closed/ascoos/awes)](https://github.com/ascoos/awes/pulls)
+![Ascoos Web Extended Studio - Τελευταία Υποβολή](https://img.shields.io/github/last-commit/ascoos/awes)
 </details>
 
 <details>
