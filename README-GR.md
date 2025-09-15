@@ -4,9 +4,24 @@
 [![Ascoos Web Extended Studio - Κατάσταση Επίσημης Ιστοσελίδας](https://img.shields.io/website?url=https://awes.ascoos.com&style=for-the-badge&label=Ascoos%20Web%20Extended%20Studio)](https://awes.ascoos.com) 
 ![Πλατφόρμα SourceForge](https://img.shields.io/sourceforge/platform/ascoos-web-extended-studio?labelColor=white&color=blue&style=for-the-badge)
 
-***
 
 [![Λήψη Ascoos Web Extended Studio](https://a.fsdn.com/con/app/sf-download-button)](https://sourceforge.net/projects/ascoos-web-extended-studio/files/latest/download)
+
+---
+
+## Πίνακας Περιεχομένων
+- [Γενικές Πληροφορίες Αποθετηρίου](#γενικές-πληροφορίες-αποθετηρίου)
+- [Τι είναι το Ascoos Web Extended Studio](#τι-είναι-το-ascoos-web-extended-studio)
+- [Εγκατάσταση](#εγκατάσταση)
+- [Υποστηριζόμενες Εκδόσεις Windows](#υποστηριζόμενες-εκδόσεις-windows)
+- [Χαρακτηριστικά](#χαρακτηριστικά)
+- [Πνευματικά Δικαιώματα](#πνευματικά-δικαιώματα)
+- [Άδειες](#άδειες)
+- [Σύνδεσμοι](#σύνδεσμοι)
+
+---
+
+### Γενικές Πληροφορίες Αποθετηρίου
 
 <details>
 <summary>
