@@ -1,9 +1,12 @@
-# 24.2.5 [1856]
+# 24.2.5 [1867]
 
-⏰ 2025-08-13
+⏰ 2025-09-21
 
 ## AWES
-- ➕ `GUI` -> `Quick Toolbar` : 20개 이상의 바로 가기 추가됨.
+- 🛠️ `GUI` -> `Menu -> Logs -> PHP` : 일부 언어에서 버전 참조 오류가 수정되었으며, 향후 PHP 8.5 지원을 위해 버전 8.5가 추가되었습니다.
+- 🛠️ `GUI` -> `Languages` : 일부 언어의 로그 버전 참조가 수정되었습니다.
+- ➕ `GUI` -> `Quick Toolbar` : 30개 이상의 바로 가기가 추가되었습니다.
+    - `CodeSandbox`, `CodeTriage`, `Emmet Documentation`, `Pluralsight`, `The Odin Project`, `Toptal Engineering Blog`, `Open Source Guides`, `Pexels`, `Unsplash`, `Font Awesome`, `Shields.io`, `JSONPlaceholder`, `Regex101`, `Canva`, `Color Hunt`, `CodeChef`, `TopCoder`, `Rosetta Code`, `Programming Hub`, `Code.org`, `SoloLearn`, `Codecademy`, `Khan Academy`, `Coursera`, `Edabit`, `Replit`, `Bitbucket`, `GitLab`, `Figma`, `Zeplin`, `Dribbble`, `Behance`, `Material Design`.
 
 ## 서버
-- 🔄 `PHP` : 버전 8.1.33, 8.2.29, 8.3.24, 8.4.11로 업데이트됨
+- 🔄 `PHP` : 8.3.25 및 8.4.12 버전으로 업그레이드됨
