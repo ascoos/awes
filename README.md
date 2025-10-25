@@ -2,7 +2,7 @@
 
 [![Website](https://img.shields.io/website?url=https://www.ascoos.com&style=for-the-badge&label=Ascoos%20Official%20Website)](https://www.ascoos.com) 
 [![Ascoos Web Extended Studio  - state of Official Website](https://img.shields.io/website?url=https://awes.ascoos.com&style=for-the-badge&label=Ascoos%20Web%20Extended%20Studio)](https://awes.ascoos.com) 
-![SourceForge Platform](https://img.shields.io/sourceforge/platform/ascoos-web-extended-studio?labelColor=white&color=blue&style=for-the-badge)
+![SourceForge Platform](https://img.shields.io/sourceforge/platform/ascoos-web-extended-studio?labelColor=034f84&color=blue&style=for-the-badge)
 
 [![Download Ascoos Web Extended Studio](https://a.fsdn.com/con/app/sf-download-button)](https://sourceforge.net/projects/ascoos-web-extended-studio/files/latest/download)
 
@@ -96,26 +96,26 @@
 ## What is the `Ascoos Web Extended Studio`?
 
 
-![Ascoos Web Extended Studio](https://awes.ascoos.com/images/scr/scr-24.2.4.1782-800.png)
+![Ascoos Web Extended Studio](https://cdn.ascoos.com/awes/images/scr/awes-260206.webp)
 
 
-A powerful and reliable web server that includes a combination of web technologies such as `PHP`,  `MariaDB`, and `Filezilla`, capable of helping with development.
+A powerful and reliable web server that includes a combination of web technologies such as **PHP**,  **MariaDB**, and **FileZilla**, capable of helping with development.
 
-Ascoos Web Extended Studio is a rich package designed as a flexible web server for development purposes. It integrates third-party components such as PHP, MariaDB, pgSQL, MongoDB, Python, NodeJS and FileZilla and stands out through a compact installation and a well-designed admin panel.
+Ascoos Web Extended Studio is a rich package designed as a flexible web server for development purposes. It integrates third-party components such as **PHP**, **MariaDB**, **MongoDB**, **Python**, **NodeJS** and **FileZilla** and stands out through a compact installation and a well-designed admin panel.
 
-Ascoos Web Extended Studio allows you to work with multiple versions of PHP and MariaDB without having to reinstall the package. In other words, it is possible to host newer versions of components without removing the older ones. Needless to say, this provides a great advantage to developers who want to test their application on different versions of PHP and MariaDB.
+Ascoos Web Extended Studio allows you to work with multiple versions of **PHP** and **MariaDB** without having to reinstall the package. In other words, it is possible to host newer versions of components without removing the older ones. Needless to say, this provides a great advantage to developers who want to test their application on different versions of **PHP** and **MariaDB**.
 
 Ascoos Web Extended Studio wraps its feature set into a well-designed interface where elements are laid out in an inspired way. Web servers, databases and FTP servers can be controlled from separate sections.
 
-![Ascoos Web Extended Studio Web Servers](https://a.fsdn.com/con/app/proj/ascoos-web-extended-studio/screenshots/AWES-24.1.1-00000102b-800-3ff088ea.png)
+![Ascoos Web Extended Studio Web Servers](https://cdn.ascoos.com/awes/images/scr/awes-run-apache-php85-002.webp)
 
 By default, all services are disabled and the choice of enabling them is up to the user, depending on the current needs.
 
-More advanced configurations are available in the Options window, where you can enable the program to stop all services on exit or start automatically on startup with your preferred PHP and MariaDB layout.
+More advanced configurations are available in the Options window, where you can enable the program to stop all services on exit or start automatically on startup with your preferred **PHP** and **MariaDB** layout.
 
 Ascoos Web Extended Studio harnesses the power of the most popular web and database architectures, bringing them together in a package that requires no installation.
 
-![Ascoos Web Extended Studio](https://a.fsdn.com/con/app/proj/ascoos-web-extended-studio/screenshots/AWES-databases-24.1.1-00000001-6e4be888.png)
+![Ascoos Web Extended Studio](https://cdn.ascoos.com/awes/images/scr/awes-mariadb12-002.webp)
 
 ---
 
@@ -126,6 +126,17 @@ Unzip the awes.7z file to ROOT of the disk drive (C:, D:, E: F: ...) where you w
 The final working path would look something like this: c:\AWES
 
 Also, before running AWES, close and uninstall the service of other programs like AWS, Xampp, Wamp, etc.
+
+---
+
+## Configuration
+
+Before using AWES, configure it to reflect your specific needs.
+For example, you can define the folder where AWES itself will run, as well as the folder where user/domain files will be located.
+
+In general, it's a good idea to explore AWES's configuration options before using it, so you can achieve a setup that meets your requirements.
+
+![Ascoos Web Extended Studio - Drive Setup](https://cdn.ascoos.com/awes/images/scr/awes-settings-drives.webp)
 
 ---
 
@@ -150,15 +161,15 @@ Click on each option to open the content.
 </summary>
 <br>
 
-|Name | ✅ 24.2.5 | 24.2.6 | 24.2.7 | 24.2.8 | 24.2.9 | 24.2.10 | 25.x | 26.x |
+|Name | ✅ 24.2.6 | 24.3 | 24.4 | 24.5 | 24.6 | 25.x | 26.x | 26.x Pro |
 |---|---|---|---|---|---|---|---|---|
 | **AWES Desktop Control**<br>(`Portable`) | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
-| **Ascoos Web Host Panel (WHP)** <br> (`Free Edition based Ascoos OS`) |  |  |  |  |  |  |  | ✅ |
+| **Ascoos Web Host Panel (WHP)** <br> (`Commercial Edition based Ascoos OS`) |  |  |  |  |  |  |  | ✅ |
 | **Multilingual**<br>(`40 Languages`) | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
 | **Themes**<br>(`Multiple skins`) | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
 | **Windows DNS Hosts**<br>(`Native AWES Editor`) | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
 | **Mikrotik DNS Hosts** <br> (`communication with RouterOS`) |  |  |  |  |  |  |  | ✅ |
-| **Quick Toolbar**<br>(`600+ shortcuts`) | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
+| **Quick Toolbar**<br>(`2000+ shortcuts in Pro Edition`) | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
 </details>
 
 <details>
@@ -167,7 +178,7 @@ Click on each option to open the content.
 </summary>
  <br>
 
-|Name | ✅ 24.2.5 | 24.2.6 | 24.2.7 | 24.2.8 | 24.2.9 | 24.2.10 | 25.x | 26.x |
+|Name | ✅ 24.2.6 | 24.3 | 24.4 | 24.5 | 24.6 | 25.x | 26.x | 26.x Pro |
 |---|---|---|---|---|---|---|---|---|
 | **Apache**<br>(`Web Server`) | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
 | **NGNIX**<br>(`Web Server`) |  |  |  |  |  |  |  | ✅ |
@@ -183,7 +194,7 @@ Click on each option to open the content.
 </summary>
  <br>
 
-|Name | ✅ 24.2.5 | 24.2.6 | 24.2.7 | 24.2.8 | 24.2.9 | 24.2.10 | 25.x | 26.x |
+|Name | ✅ 24.2.6 | 24.3 | 24.4 | 24.5 | 24.6 | 25.x | 26.x | 26.x Pro |
 |---|---|---|---|---|---|---|---|---|
 | **PHP** <br> (`Multiple PHP Versions`) | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
 | **Python** <br> (`Run as Apache CGI`) | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
@@ -196,7 +207,7 @@ Click on each option to open the content.
 </summary>
  <br> 
 
-|Name | ✅ 24.2.5 | 24.2.6 | 24.2.7 | 24.2.8 | 24.2.9 | 24.2.10 | 25.x | 26.x |
+|Name | ✅ 24.2.6 | 24.3 | 24.4 | 24.5 | 24.6 | 25.x | 26.x | 26.x Pro |
 |---|---|---|---|---|---|---|---|---|
 | **JSQLDB** <br> (`PHP-native Json SQL Database`) |  |  |  |  |  |  |  | ✅ |
 | **MariaDB** <br> (`Multiple DB Versions`) | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
@@ -210,12 +221,12 @@ Click on each option to open the content.
 </summary>
  <br> 
 
-|Name | ✅ 24.2.5 | 24.2.6 | 24.2.7 | 24.2.8 | 24.2.9 | 24.2.10 | 25.x | 26.x |
+|Name | ✅ 24.2.6 | 24.3 | 24.4 | 24.5 | 24.6 | 25.x | 26.x | 26.x Pro |
 |---|---|---|---|---|---|---|---|---|
 | **Ascoos File Manager**<br>(`Web File Manager based Ascoos OS`) |  |  |  |  |  |  |  | ✅ |
 | **phpMyAdmin**<br>(`Web Interface for MariaDB`) | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
 | **phpPgAdmin**<br>(`Web Interface for PostfreSQL`) |  |  |  |  |  |  |  | ✅ |
-| **Tiny File Manager**<br>(`Web File Manager`) | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ |
+| **Tiny File Manager**<br>(`Web File Manager`) | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ |
 | **WebSVN**<br>(`Web SVN Repository Client`) | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
 | **phpMemcachedAdmin**<br>(`MemCached Admin`) | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
 | **Memcache**<br>(`MemCached Informations`) | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
@@ -227,7 +238,7 @@ Click on each option to open the content.
 </summary>
  <br>
 
-|Name | ✅ 24.2.5 | 24.2.6 | 24.2.7 | 24.2.8 | 24.2.9 | 24.2.10 | 25.x | 26.x |
+|Name | ✅ 24.2.6 | 24.3 | 24.4 | 24.5 | 24.6 | 25.x | 26.x | 26.x Pro |
 |---|---|---|---|---|---|---|---|---|
 | **Ascoos LibIn** <br> (`Installer PHP Libraries for Ascoos OS`) |  |  |  |  |  |  |  | ✅ |
 | **OpenSSL** <br> (`SSL Supports`) | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
@@ -241,9 +252,10 @@ Click on each option to open the content.
 </summary>
  <br>
 
-|Name | ✅ 24.2.5 | 24.2.6 | 24.2.7 | 24.2.8 | 24.2.9 | 24.2.10 | 25.x | 26.x |
+|Name | ✅ 24.2.6 | 24.3 | 24.4 | 24.5 | 24.6 | 25.x | 26.x | 26.x Pro |
 |---|---|---|---|---|---|---|---|---|
 | **Firefox** <br> (`Portable Developer Edition`) | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
+| **Chromium** <br> (`Portable Ungoogled Edition`) | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
 | **Visual Studio Code** <br> (`Portable Code Editor`) | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
 | **Notepad++** <br> (`Portable Code Editor`) | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
 | **Filezilla** <br> (`Portable FTP Client`) | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
@@ -257,15 +269,15 @@ Click on each option to open the content.
 </summary>
  <br>
 
-|Pre-Installed Web Apps | ✅ 24.2.5 | 24.2.6 | 24.2.7 | 24.2.8 | 24.2.9 | 24.2.10 | 25.x | 26.x |
+|Pre-Installed Web Apps | ✅ 24.2.6 | 24.3 | 24.4 | 24.5 | 24.6 | 25.x | 26.x | 26.x Pro |
 |---|---|---|---|---|---|---|---|---|
-| **Ascoos CMS Oxyzen** <br> (`Free Edition based Ascoos OS`) |  |  |  |  |  |  |  | ✅ |
-| **Ascoos Documentor** <br> (`Free Edition based Ascoos OS`) |  |  |  |  |  |  |  | ✅ |
-| **Ascoos Bug Manager** <br> (`Free Edition based Ascoos OS`) |  |  |  |  |  |  |  | ✅ |
-| **Ascoos Torrent Client** <br> (`Free Edition based Ascoos OS`) |  |  |  |  |  |  |  | ✅ |
-| **Ascoos TV Streaming** <br> (`Free Edition based Ascoos OS`) |  |  |  |  |  |  |  | ✅ |
-| **Joomla!** <br> (`PHP - CMS. 4.x and 5.x`) | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
-| **Wordpress!** <br> (`PHP - CMS. 5.x and 6.x`) | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
+| **Ascoos CMS Oxyzen** <br> (`Commercial Edition based Ascoos OS`) |  |  |  |  |  |  |  | ✅ |
+| **Ascoos Documentor** <br> (`Commercial Edition based Ascoos OS`) |  |  |  |  |  |  |  | ✅ |
+| **Ascoos Bug Manager** <br> (`Commercial Edition based Ascoos OS`) |  |  |  |  |  |  |  | ✅ |
+| **Ascoos Torrent Client** <br> (`Commercial Edition based Ascoos OS`) |  |  |  |  |  |  |  | ✅ |
+| **Ascoos TV Streaming** <br> (`Commercial Edition based Ascoos OS`) |  |  |  |  |  |  |  | ✅ |
+| **Joomla!** <br> (`PHP - CMS. 4.x and 5.x`) | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
+| **Wordpress!** <br> (`PHP - CMS. 5.x and 6.x`) | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
 
 </details>
 
@@ -275,12 +287,14 @@ Click on each option to open the content.
 </summary>
  <br>
 
-|Pre-Installed Web Libraries | ✅ 24.2.5 | 24.2.6 | 24.2.7 | 24.2.8 | 24.2.9 | 24.2.10 | 25.x | 26.x |
+|Pre-Installed Web Libraries | ✅ 24.2.6 | 24.3 | 24.4 | 24.5 | 24.6 | 25.x | 26.x | 26.x Pro |
 |---|---|---|---|---|---|---|---|---|
-| **Ascoos OS** (Free Edition)<br> (`PHP Web 5 Kernel`) |  |  |  |  |  |  |  | ✅ |
-| **Ascoos Framework 26** (Free Edition)<br> (`PHP Framework based Ascoos OS`) |  |  |  |  |  |  |  | ✅ |
-| **Ascoos Framework 25** (Free Edition)<br> (`PHP Framework`) | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ |
-| **phpBCL8** <br> (`PHP8 Backwards Compatibility Library`) | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
+| **Ascoos OS** (Commercial Edition)<br> (`PHP Web 5 Kernel`) |  |  |  |  |  |  |  | ✅ |
+| **Ascoos Framework Pro** (Commercial Edition)<br> (`PHP Framework based Ascoos OS`) |  |  |  |  |  |  |  | ✅ |
+| **Ascoos Framework 25** (Free Edition)<br> (`PHP Framework`) | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
+| **phpBCL8** <br> (`PHP8 Backwards Compatibility Library`) | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
+| **Ascoos BootLib** <br> (`CSS UI Frramework`) |  |  |  |  |  | ✅ | ✅ | ✅ |
+| **jAscoos** <br> (`Javascript Framework`) |  |  |  |  |  | ✅ | ✅ | ✅ |
 </details>
 
 ---
@@ -305,9 +319,9 @@ Click on each option to open the content.
   - [For download](https://sourceforge.net/projects/ascoos-web-extended-studio)
 
 
-### ASCOOS CMS - Official Websites
-  - [Ascoos Cms](http://www.ascoos.com)
-  - [Ascoos Cms (Greek Site)](http://www.ascoos.gr)
+### ASCOOS - Official Websites
+  - [Ascoos](http://www.ascoos.com)
+  - [Ascoos (Greek Site)](http://www.ascoos.gr)
 
 
 ###  Official Video Tutorials
