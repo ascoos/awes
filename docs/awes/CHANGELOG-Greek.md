@@ -1,12 +1,24 @@
-# 24.2.5 [1867]
+# 24.2.6
 
-⏰ 2025-09-21
+⏰ 2025-10-25
 
 ## AWES
-- 🛠️ `GUI` -> `Menu -> Logs -> PHP` : Διορθώθηκαν λάθη στην αναφορά έκδοσης σε ορισμένες γλώσσες και προστέθηκε η έκδοση 8.5 για την προσεχή προσθήκη της PHP 8.5.
-- 🛠️ `GUI` -> `Languages` : Διορθώθηκαν αναφορές έκδοσης σε ορισμένες γλώσσες για τα logs.
-- ➕ `GUI` -> `Quick Toolbar` : Προστέθηκαν 30+ shortcuts.
-    - `CodeSandbox`, `CodeTriage`, `Emmet Documentation`, `Pluralsight`, `The Odin Project`, `Toptal Engineering Blog`, `Open Source Guides`, `Pexels`, `Unsplash`, `Font Awesome`, `Shields.io`, `JSONPlaceholder`, `Regex101`, `Canva`, `Color Hunt`, `CodeChef`, `TopCoder`, `Rosetta Code`, `Programming Hub`, `Code.org`, `SoloLearn`, `Codecademy`, `Khan Academy`, `Coursera`, `Edabit`, `Replit`, `Bitbucket`, `GitLab`, `Figma`, `Zeplin`, `Dribbble`, `Behance`, `Material Design`.
+- 🛠️ `Shortcut Toolbar Manager` : Διορθώθηκαν τα πεδία `Executable Path`, `Parameters` και `Working Executable Path` στην επεξεργασία ενός shortcut. Τώρα μπορείτε να αλλάξετε το περιεχόμενο των πεδίων αυτών. Μετά την αλλαγή πατάτε την `Αποθήκευση` αλλά και το `Apply` ώστε να εφαρμοστούν άμεσα οι αλλαγές.
+
+- ➕ `Shortcuts` : Προστέθηκαν νέα shortcuts
+Από τις νέες συντομεύσεις, ξεχωρίζει αυτό για την εκτέλεση του `chromium` στο οποίο, εάν έχετε εγκατεστημένο το AWES σε διαφορετικό drive από τον "C:\", τότε θα πρέπει πριν το χρησιμοποιήσετε να κάνετε επεξεργασία το shortcut και να αλλάξετε το οδηγό δίσκου στις παραμέτρους εκτέλεσης ώστε να αποθηκεύει σωστά και portable `το default profile`.
 
 ## ΔΙΑΚΟΜΙΣΤΕΣ
-- 🔄 `PHP`    : Αναβαθμίστηκε στις εκδόσεις 8.3.25 και 8.4.12
+- 🔄 `Apache`    : Αναβαθμίστηκε στην έκδοση 2.4.65
+- 🔄 `Node.js`   : Αναβαθμίστηκε στην έκδοση 22.20
+- 🔄 `PHP`       : Αναβαθμίστηκε στις εκδόσεις 8.3.27 και 8.4.14 και προστέθηκε η έκδοση 8.5 RC3
+- 🔄 `Python`    : Αναβαθμίστηκε στην έκδοση 3.13.9
+
+## ΒΑΣΕΙΣ ΔΕΔΟΜΕΝΩΝ
+- 🔄 `MariaDB`    : 
+    - 🔄 Αναβαθμίστηκε στις εκδόσεις 10.11.14 και 11.4.8
+    - ➖ Αφαιρέθηκαν οι εκδόσεις 11.6.x, 11.7.x
+    - ➕ Προστέθηκαν οι εκδόσεις 11.8.3 και 12.0.2
+
+## ΕΦΑΡΜΟΓΕΣ
+- ➕ `Ungoogled Chromium Browser` : Προστέθηκε η έκδοση 141.0.7390.76-1 της συγκεκριμένης διανομής του Chromium.

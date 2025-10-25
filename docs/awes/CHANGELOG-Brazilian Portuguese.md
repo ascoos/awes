@@ -1,12 +1,24 @@
-# 24.2.5 [1867]
+# 24.2.6
 
-⏰ 2025-09-21
+⏰ 2025-10-25
 
 ## AWES
-- 🛠️ `GUI` -> `Menu -> Logs -> PHP` : Corrigidos erros nas referências de versão em alguns idiomas e adicionada a versão 8.5 para a futura inclusão do PHP 8.5.
-- 🛠️ `GUI` -> `Languages` : Corrigidas referências de versão em alguns idiomas para os logs.
-- ➕ `GUI` -> `Quick Toolbar` : Adicionados mais de 30 atalhos.
-    - `CodeSandbox`, `CodeTriage`, `Emmet Documentation`, `Pluralsight`, `The Odin Project`, `Toptal Engineering Blog`, `Open Source Guides`, `Pexels`, `Unsplash`, `Font Awesome`, `Shields.io`, `JSONPlaceholder`, `Regex101`, `Canva`, `Color Hunt`, `CodeChef`, `TopCoder`, `Rosetta Code`, `Programming Hub`, `Code.org`, `SoloLearn`, `Codecademy`, `Khan Academy`, `Coursera`, `Edabit`, `Replit`, `Bitbucket`, `GitLab`, `Figma`, `Zeplin`, `Dribbble`, `Behance`, `Material Design`.
+- 🛠️ `Shortcut Toolbar Manager`: Os campos `Executable Path`, `Parameters` e `Working Executable Path` foram corrigidos na edição de um atalho. Agora você pode alterar o conteúdo desses campos. Após a alteração, clique em `Salvar` e também em `Aplicar` para que as mudanças sejam aplicadas imediatamente.
+
+- ➕ `Shortcuts`: Novos atalhos foram adicionados.
+Entre os novos atalhos, destaca-se o de execução do `chromium`, no qual, se o AWES estiver instalado em um drive diferente de "C:\", será necessário editar o atalho e alterar a letra do drive nos parâmetros de execução para que o `perfil padrão` seja salvo corretamente e de forma portátil.
 
 ## SERVIDORES
-- 🔄 `PHP` : Atualizado para as versões 8.3.25 e 8.4.12
+- 🔄 `Apache`: Atualizado para a versão 2.4.65  
+- 🔄 `Node.js`: Atualizado para a versão 22.20  
+- 🔄 `PHP`: Atualizado para as versões 8.3.27 e 8.4.14, e adicionada a versão 8.5 RC3  
+- 🔄 `Python`: Atualizado para a versão 3.13.9  
+
+## BANCOS DE DADOS
+- 🔄 `MariaDB`:  
+    - 🔄 Atualizado para as versões 10.11.14 e 11.4.8  
+    - ➖ Removidas as versões 11.6.x e 11.7.x  
+    - ➕ Adicionadas as versões 11.8.3 e 12.0.2  
+
+## APLICATIVOS
+- ➕ `Ungoogled Chromium Browser`: Adicionada a versão 141.0.7390.76-1 desta distribuição do Chromium.

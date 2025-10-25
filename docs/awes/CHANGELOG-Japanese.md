@@ -1,12 +1,24 @@
-# 24.2.5 [1867]
+# 24.2.6
 
-⏰ 2025-09-21
+⏰ 2025-10-25
 
 ## AWES
-- 🛠️ `GUI` -> `Menu -> Logs -> PHP` : 一部の言語におけるバージョン参照のエラーを修正し、PHP 8.5 の今後の追加に向けてバージョン 8.5 を追加しました。
-- 🛠️ `GUI` -> `Languages` : ログ用の一部言語におけるバージョン参照を修正しました。
-- ➕ `GUI` -> `Quick Toolbar` : 30 以上のショートカットを追加しました。
-    - `CodeSandbox`, `CodeTriage`, `Emmet Documentation`, `Pluralsight`, `The Odin Project`, `Toptal Engineering Blog`, `Open Source Guides`, `Pexels`, `Unsplash`, `Font Awesome`, `Shields.io`, `JSONPlaceholder`, `Regex101`, `Canva`, `Color Hunt`, `CodeChef`, `TopCoder`, `Rosetta Code`, `Programming Hub`, `Code.org`, `SoloLearn`, `Codecademy`, `Khan Academy`, `Coursera`, `Edabit`, `Replit`, `Bitbucket`, `GitLab`, `Figma`, `Zeplin`, `Dribbble`, `Behance`, `Material Design`.
+- 🛠️ `ショートカットツールバー マネージャー`: ショートカット編集時に `実行ファイルのパス`、`パラメーター`、`作業ディレクトリのパス` のフィールドに関する問題が修正されました。これらのフィールドの内容を変更できるようになりました。変更後は `保存` をクリックし、さらに `適用` をクリックして変更を即座に反映させてください。
+
+- ➕ `ショートカット`: 新しいショートカットが追加されました。
+新しいショートカットの中でも、`chromium` を起動するショートカットが特に注目されます。AWES が "C:\" 以外のドライブにインストールされている場合は、使用前にショートカットを編集し、実行パラメーター内のドライブ文字を変更する必要があります。これにより、`デフォルトプロファイル` が正しく、かつポータブルに保存されます。
 
 ## サーバー
-- 🔄 `PHP` : バージョン 8.3.25 および 8.4.12 にアップグレードされました
+- 🔄 `Apache`: バージョン 2.4.65 に更新  
+- 🔄 `Node.js`: バージョン 22.20 に更新  
+- 🔄 `PHP`: バージョン 8.3.27 および 8.4.14 に更新、さらに 8.5 RC3 を追加  
+- 🔄 `Python`: バージョン 3.13.9 に更新  
+
+## データベース
+- 🔄 `MariaDB`:  
+    - 🔄 バージョン 10.11.14 および 11.4.8 に更新  
+    - ➖ バージョン 11.6.x および 11.7.x を削除  
+    - ➕ バージョン 11.8.3 および 12.0.2 を追加  
+
+## アプリケーション
+- ➕ `Ungoogled Chromium ブラウザー`: Chromium のこのディストリビューションのバージョン 141.0.7390.76-1 を追加。

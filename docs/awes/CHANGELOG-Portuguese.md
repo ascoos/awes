@@ -1,12 +1,24 @@
-# 24.2.5 [1867]
+# 24.2.6
 
-⏰ 2025-09-21
+⏰ 2025-10-25
 
 ## AWES
-- 🛠️ `GUI` -> `Menu -> Logs -> PHP` : Corrigidos erros nas referências de versão em alguns idiomas e adicionada a versão 8.5 para futura inclusão do PHP 8.5.
-- 🛠️ `GUI` -> `Languages` : Corrigidas referências de versão em alguns idiomas para os registos.
-- ➕ `GUI` -> `Quick Toolbar` : Foram adicionados mais de 30 atalhos.
-    - `CodeSandbox`, `CodeTriage`, `Emmet Documentation`, `Pluralsight`, `The Odin Project`, `Toptal Engineering Blog`, `Open Source Guides`, `Pexels`, `Unsplash`, `Font Awesome`, `Shields.io`, `JSONPlaceholder`, `Regex101`, `Canva`, `Color Hunt`, `CodeChef`, `TopCoder`, `Rosetta Code`, `Programming Hub`, `Code.org`, `SoloLearn`, `Codecademy`, `Khan Academy`, `Coursera`, `Edabit`, `Replit`, `Bitbucket`, `GitLab`, `Figma`, `Zeplin`, `Dribbble`, `Behance`, `Material Design`.
+- 🛠️ `Gestor da Barra de Atalhos`: Os campos `Caminho Executável`, `Parâmetros` e `Caminho de Trabalho Executável` foram corrigidos durante a edição de um atalho. Agora é possível alterar o conteúdo destes campos. Após a alteração, clique em `Guardar` e depois em `Aplicar` para que as mudanças tenham efeito imediato.
+
+- ➕ `Atalhos`: Foram adicionados novos atalhos.
+Entre os novos atalhos, destaca-se o que permite executar o `chromium`. Se o AWES estiver instalado numa unidade diferente de "C:\", será necessário editar o atalho e alterar a letra da unidade nos parâmetros de execução para que o `perfil predefinido` seja guardado corretamente e de forma portátil.
 
 ## SERVIDORES
-- 🔄 `PHP` : Atualizado para as versões 8.3.25 e 8.4.12
+- 🔄 `Apache`: Atualizado para a versão 2.4.65  
+- 🔄 `Node.js`: Atualizado para a versão 22.20  
+- 🔄 `PHP`: Atualizado para as versões 8.3.27 e 8.4.14, e adicionada a versão 8.5 RC3  
+- 🔄 `Python`: Atualizado para a versão 3.13.9  
+
+## BASES DE DADOS
+- 🔄 `MariaDB`:  
+    - 🔄 Atualizado para as versões 10.11.14 e 11.4.8  
+    - ➖ Removidas as versões 11.6.x e 11.7.x  
+    - ➕ Adicionadas as versões 11.8.3 e 12.0.2  
+
+## APLICAÇÕES
+- ➕ `Navegador Ungoogled Chromium`: Adicionada a versão 141.0.7390.76-1 desta distribuição do Chromium.

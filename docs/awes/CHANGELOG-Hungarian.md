@@ -1,12 +1,24 @@
-# 24.2.5 [1867]
+# 24.2.6
 
-⏰ 2025-09-21
+⏰ 2025-10-25
 
 ## AWES
-- 🛠️ `GUI` -> `Menu -> Logs -> PHP` : Kijavítottuk a verzióhivatkozási hibákat néhány nyelvben, és hozzáadtuk a 8.5-ös verziót a közelgő PHP 8.5 támogatásához.
-- 🛠️ `GUI` -> `Languages` : Kijavítottuk a verzióhivatkozásokat néhány nyelvben a naplókhoz.
-- ➕ `GUI` -> `Quick Toolbar` : Több mint 30 gyorsbillentyű került hozzáadásra.
-    - `CodeSandbox`, `CodeTriage`, `Emmet Documentation`, `Pluralsight`, `The Odin Project`, `Toptal Engineering Blog`, `Open Source Guides`, `Pexels`, `Unsplash`, `Font Awesome`, `Shields.io`, `JSONPlaceholder`, `Regex101`, `Canva`, `Color Hunt`, `CodeChef`, `TopCoder`, `Rosetta Code`, `Programming Hub`, `Code.org`, `SoloLearn`, `Codecademy`, `Khan Academy`, `Coursera`, `Edabit`, `Replit`, `Bitbucket`, `GitLab`, `Figma`, `Zeplin`, `Dribbble`, `Behance`, `Material Design`.
+- 🛠️ `Gyorselérési eszköztár kezelő`: A `Végrehajtható fájl elérési útja`, `Paraméterek` és `Munkakönyvtár` mezők hibái javítva lettek a gyorselérési hivatkozások szerkesztésekor. Mostantól módosíthatja ezeknek a mezőknek a tartalmát. A módosítás után kattintson a `Mentés` és az `Alkalmaz` gombra, hogy a változások azonnal érvénybe lépjenek.
 
-## SZERVER
-- 🔄 `PHP` : Frissítve a 8.3.25 és 8.4.12 verziókra
+- ➕ `Gyorselérési hivatkozások`: Új hivatkozások kerültek hozzáadásra.
+Az új hivatkozások közül kiemelkedik a `chromium` indítására szolgáló. Ha az AWES nem a "C:\" meghajtóra van telepítve, akkor a használat előtt szerkeszteni kell a hivatkozást, és módosítani kell a meghajtó betűjelét a végrehajtási paraméterekben, hogy az `alapértelmezett profil` megfelelően és hordozható módon legyen elmentve.
+
+## SZERVEREK
+- 🔄 `Apache`: Frissítve a 2.4.65 verzióra  
+- 🔄 `Node.js`: Frissítve a 22.20 verzióra  
+- 🔄 `PHP`: Frissítve a 8.3.27 és 8.4.14 verziókra, valamint hozzáadva a 8.5 RC3 verzió  
+- 🔄 `Python`: Frissítve a 3.13.9 verzióra  
+
+## ADATBÁZISOK
+- 🔄 `MariaDB`:  
+    - 🔄 Frissítve a 10.11.14 és 11.4.8 verziókra  
+    - ➖ A 11.6.x és 11.7.x verziók eltávolítva  
+    - ➕ A 11.8.3 és 12.0.2 verziók hozzáadva  
+
+## ALKALMAZÁSOK
+- ➕ `Ungoogled Chromium böngésző`: Hozzáadva a Chromium ezen kiadásának 141.0.7390.76-1 verziója.

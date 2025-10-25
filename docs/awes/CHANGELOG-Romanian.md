@@ -1,12 +1,24 @@
-# 24.2.5 [1867]
+# 24.2.6
 
-⏰ 2025-09-21
+⏰ 2025-10-25
 
 ## AWES
-- 🛠️ `GUI` -> `Menu -> Logs -> PHP` : Au fost corectate erorile de referință a versiunii în unele limbi și a fost adăugată versiunea 8.5 pentru viitoarea integrare a PHP 8.5.
-- 🛠️ `GUI` -> `Languages` : Au fost corectate referințele de versiune în unele limbi pentru jurnale.
-- ➕ `GUI` -> `Quick Toolbar` : Au fost adăugate peste 30 de scurtături.
-    - `CodeSandbox`, `CodeTriage`, `Emmet Documentation`, `Pluralsight`, `The Odin Project`, `Toptal Engineering Blog`, `Open Source Guides`, `Pexels`, `Unsplash`, `Font Awesome`, `Shields.io`, `JSONPlaceholder`, `Regex101`, `Canva`, `Color Hunt`, `CodeChef`, `TopCoder`, `Rosetta Code`, `Programming Hub`, `Code.org`, `SoloLearn`, `Codecademy`, `Khan Academy`, `Coursera`, `Edabit`, `Replit`, `Bitbucket`, `GitLab`, `Figma`, `Zeplin`, `Dribbble`, `Behance`, `Material Design`.
+- 🛠️ `Managerul barei de scurtături`: Câmpurile `Cale executabil`, `Parametri` și `Cale de lucru executabilă` au fost corectate în timpul editării unei scurtături. Acum poți modifica conținutul acestor câmpuri. După modificare, apasă pe `Salvează` și apoi pe `Aplică` pentru ca schimbările să se aplice imediat.
 
-## SERVER-E
-- 🔄 `PHP` : Actualizat la versiunile 8.3.25 și 8.4.12
+- ➕ `Scurtături`: Au fost adăugate scurtături noi.
+Dintre acestea, se remarcă scurtătura pentru lansarea `chromium`. Dacă AWES este instalat pe o unitate diferită de "C:\", trebuie să editezi scurtătura și să modifici litera unității în parametrii de execuție pentru ca `profilul implicit` să fie salvat corect și portabil.
+
+## SERVERE
+- 🔄 `Apache`: Actualizat la versiunea 2.4.65  
+- 🔄 `Node.js`: Actualizat la versiunea 22.20  
+- 🔄 `PHP`: Actualizat la versiunile 8.3.27 și 8.4.14, adăugată versiunea 8.5 RC3  
+- 🔄 `Python`: Actualizat la versiunea 3.13.9  
+
+## BAZE DE DATE
+- 🔄 `MariaDB`:  
+    - 🔄 Actualizat la versiunile 10.11.14 și 11.4.8  
+    - ➖ Versiunile 11.6.x și 11.7.x au fost eliminate  
+    - ➕ Versiunile 11.8.3 și 12.0.2 au fost adăugate  
+
+## APLICAȚII
+- ➕ `Browser Ungoogled Chromium`: A fost adăugată versiunea 141.0.7390.76-1 a acestei distribuții Chromium.

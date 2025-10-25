@@ -1,12 +1,24 @@
-# 24.2.5 [1867]
+# 24.2.6
 
-⏰ 2025-09-21
+⏰ 2025-10-25
 
 ## AWES
-- 🛠️ `GUI` -> `Menu -> Logs -> PHP` : Opravené chyby v odkazoch na verzie v niektorých jazykoch a pridaná verzia 8.5 pre budúcu podporu PHP 8.5.
-- 🛠️ `GUI` -> `Languages` : Opravené odkazy na verzie v niektorých jazykoch pre logy.
-- ➕ `GUI` -> `Quick Toolbar` : Pridaných viac ako 30 skratiek.
-    - `CodeSandbox`, `CodeTriage`, `Emmet Documentation`, `Pluralsight`, `The Odin Project`, `Toptal Engineering Blog`, `Open Source Guides`, `Pexels`, `Unsplash`, `Font Awesome`, `Shields.io`, `JSONPlaceholder`, `Regex101`, `Canva`, `Color Hunt`, `CodeChef`, `TopCoder`, `Rosetta Code`, `Programming Hub`, `Code.org`, `SoloLearn`, `Codecademy`, `Khan Academy`, `Coursera`, `Edabit`, `Replit`, `Bitbucket`, `GitLab`, `Figma`, `Zeplin`, `Dribbble`, `Behance`, `Material Design`.
+- 🛠️ `Správca panelu skratiek`: Polia `Cesta k spustiteľnému súboru`, `Parametre` a `Pracovná cesta` boli opravené pri úprave skratky. Teraz môžete upraviť obsah týchto polí. Po zmene kliknite na `Uložiť` a potom na `Použiť`, aby sa zmeny okamžite prejavili.
+
+- ➕ `Skratky`: Boli pridané nové skratky.
+Medzi novými skratkami vyniká tá, ktorá spúšťa `chromium`. Ak je AWES nainštalovaný na inom disku ako "C:\", je potrebné upraviť skratku a zmeniť písmeno disku v parametroch spustenia, aby sa `predvolený profil` uložil správne a prenosne.
 
 ## SERVERY
-- 🔄 `PHP` : Aktualizované na verzie 8.3.25 a 8.4.12
+- 🔄 `Apache`: Aktualizovaný na verziu 2.4.65  
+- 🔄 `Node.js`: Aktualizovaný na verziu 22.20  
+- 🔄 `PHP`: Aktualizovaný na verzie 8.3.27 a 8.4.14, pridaná verzia 8.5 RC3  
+- 🔄 `Python`: Aktualizovaný na verziu 3.13.9  
+
+## DATABÁZY
+- 🔄 `MariaDB`:  
+    - 🔄 Aktualizované na verzie 10.11.14 a 11.4.8  
+    - ➖ Odstránené verzie 11.6.x a 11.7.x  
+    - ➕ Pridané verzie 11.8.3 a 12.0.2  
+
+## APLIKÁCIE
+- ➕ `Prehliadač Ungoogled Chromium`: Pridaná verzia 141.0.7390.76-1 tejto distribúcie Chromium.

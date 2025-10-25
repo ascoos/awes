@@ -1,12 +1,24 @@
-# 24.2.5 [1867]
+# 24.2.6
 
-⏰ 2025-09-21
+⏰ 2025-10-25
 
 ## AWES
-- 🛠️ `GUI` -> `Menu -> Logs -> PHP` : 일부 언어에서 버전 참조 오류가 수정되었으며, 향후 PHP 8.5 지원을 위해 버전 8.5가 추가되었습니다.
-- 🛠️ `GUI` -> `Languages` : 일부 언어의 로그 버전 참조가 수정되었습니다.
-- ➕ `GUI` -> `Quick Toolbar` : 30개 이상의 바로 가기가 추가되었습니다.
-    - `CodeSandbox`, `CodeTriage`, `Emmet Documentation`, `Pluralsight`, `The Odin Project`, `Toptal Engineering Blog`, `Open Source Guides`, `Pexels`, `Unsplash`, `Font Awesome`, `Shields.io`, `JSONPlaceholder`, `Regex101`, `Canva`, `Color Hunt`, `CodeChef`, `TopCoder`, `Rosetta Code`, `Programming Hub`, `Code.org`, `SoloLearn`, `Codecademy`, `Khan Academy`, `Coursera`, `Edabit`, `Replit`, `Bitbucket`, `GitLab`, `Figma`, `Zeplin`, `Dribbble`, `Behance`, `Material Design`.
+- 🛠️ `바로가기 도구 모음 관리자`: 바로가기를 편집할 때 `실행 파일 경로`, `매개변수`, `작업 실행 경로` 필드의 문제가 수정되었습니다. 이제 이 필드들의 내용을 변경할 수 있습니다. 변경 후에는 `저장`을 클릭하고 `적용`을 눌러 변경 사항을 즉시 적용하세요.
+
+- ➕ `바로가기`: 새로운 바로가기가 추가되었습니다.
+새 바로가기 중에서는 `chromium` 실행용 바로가기가 특히 눈에 띕니다. AWES가 "C:\"가 아닌 다른 드라이브에 설치되어 있다면, 사용 전에 바로가기를 편집하고 실행 매개변수에서 드라이브 문자를 변경해야 `기본 프로필`이 올바르게 저장되고 휴대 가능하게 됩니다.
 
 ## 서버
-- 🔄 `PHP` : 8.3.25 및 8.4.12 버전으로 업그레이드됨
+- 🔄 `Apache`: 버전 2.4.65로 업데이트됨  
+- 🔄 `Node.js`: 버전 22.20으로 업데이트됨  
+- 🔄 `PHP`: 버전 8.3.27 및 8.4.14로 업데이트됨, 8.5 RC3 버전 추가됨  
+- 🔄 `Python`: 버전 3.13.9로 업데이트됨  
+
+## 데이터베이스
+- 🔄 `MariaDB`:  
+    - 🔄 버전 10.11.14 및 11.4.8로 업데이트됨  
+    - ➖ 버전 11.6.x 및 11.7.x 제거됨  
+    - ➕ 버전 11.8.3 및 12.0.2 추가됨  
+
+## 애플리케이션
+- ➕ `Ungoogled Chromium 브라우저`: Chromium 배포판 버전 141.0.7390.76-1이 추가되었습니다.

@@ -1,12 +1,24 @@
-# 24.2.5 [1867]
+# 24.2.6
 
-⏰ 2025-09-21
+⏰ 2025-10-25
 
 ## AWES
-- 🛠️ `GUI` -> `Menu -> Logs -> PHP` : Feil i versjonsreferanser i enkelte språk er rettet, og versjon 8.5 er lagt til for kommende støtte for PHP 8.5.
-- 🛠️ `GUI` -> `Languages` : Versjonsreferanser i enkelte språk for loggene er rettet.
-- ➕ `GUI` -> `Quick Toolbar` : Mer enn 30 snarveier er lagt til.
-    - `CodeSandbox`, `CodeTriage`, `Emmet Documentation`, `Pluralsight`, `The Odin Project`, `Toptal Engineering Blog`, `Open Source Guides`, `Pexels`, `Unsplash`, `Font Awesome`, `Shields.io`, `JSONPlaceholder`, `Regex101`, `Canva`, `Color Hunt`, `CodeChef`, `TopCoder`, `Rosetta Code`, `Programming Hub`, `Code.org`, `SoloLearn`, `Codecademy`, `Khan Academy`, `Coursera`, `Edabit`, `Replit`, `Bitbucket`, `GitLab`, `Figma`, `Zeplin`, `Dribbble`, `Behance`, `Material Design`.
+- 🛠️ `Snarvei-verktøylinjeadministrator`: Feltene `Kjørbar bane`, `Parametere` og `Arbeidskatalog` er nå fikset ved redigering av snarveier. Du kan nå endre innholdet i disse feltene. Etter endring, klikk på `Lagre` og deretter `Bruk` for at endringene skal tre i kraft umiddelbart.
+
+- ➕ `Snarveier`: Nye snarveier er lagt til.
+Blant de nye snarveiene er en for å starte `chromium` spesielt verdt å merke seg. Hvis AWES er installert på en annen stasjon enn "C:\", må du redigere snarveien og endre stasjonsbokstaven i kjøreparametrene før bruk, slik at `standardprofilen` lagres riktig og portabelt.
 
 ## TJENERE
-- 🔄 `PHP` : Oppdatert til versjonene 8.3.25 og 8.4.12
+- 🔄 `Apache`: Oppdatert til versjon 2.4.65  
+- 🔄 `Node.js`: Oppdatert til versjon 22.20  
+- 🔄 `PHP`: Oppdatert til versjonene 8.3.27 og 8.4.14, og versjon 8.5 RC3 er lagt til  
+- 🔄 `Python`: Oppdatert til versjon 3.13.9  
+
+## DATABASER
+- 🔄 `MariaDB`:  
+    - 🔄 Oppdatert til versjonene 10.11.14 og 11.4.8  
+    - ➖ Versjonene 11.6.x og 11.7.x er fjernet  
+    - ➕ Versjonene 11.8.3 og 12.0.2 er lagt til  
+
+## PROGRAMMER
+- ➕ `Ungoogled Chromium-nettleser`: Versjon 141.0.7390.76-1 av denne Chromium-distribusjonen er lagt til.
