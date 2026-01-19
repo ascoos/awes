@@ -1,24 +1,14 @@
-# 24.2.6
+# 24.3.2
 
-⏰ 2025-10-25
+⏰ 2026-01-19
 
 ## AWES
-- 🛠️ `Gestionnaire de barre d’outils des raccourcis` : Les champs `Chemin exécutable`, `Paramètres` et `Chemin de travail exécutable` ont été corrigés lors de l’édition d’un raccourci. Vous pouvez désormais modifier le contenu de ces champs. Après modification, cliquez sur `Enregistrer` puis sur `Appliquer` pour que les changements soient immédiatement pris en compte.
+- 🛠️ `Menu` et `Logs` : Les erreurs dans les menus et les journaux ont été corrigées.
 
-- ➕ `Raccourcis` : De nouveaux raccourcis ont été ajoutés.
-Parmi les nouveaux raccourcis, celui pour exécuter `chromium` se distingue. Si AWES est installé sur un lecteur différent de "C:\", vous devez modifier le raccourci avant de l’utiliser et changer la lettre du lecteur dans les paramètres d’exécution afin que le `profil par défaut` soit correctement enregistré et portable.
+## SERVERS
+- 🔄 `Node.js`         : Mis à jour vers la version 24.13.0
+- 🔄 `PHP`             : Mis à jour vers les versions 8.3.30, 8.4.17 et 8.5.2
+- 🔄 `IonCube Loaders` : Mis à jour vers la version 15.0.0
 
-## SERVEURS
-- 🔄 `Apache` : Mis à jour vers la version 2.4.65  
-- 🔄 `Node.js` : Mis à jour vers la version 22.20  
-- 🔄 `PHP` : Mis à jour vers les versions 8.3.27 et 8.4.14, et ajout de la version 8.5 RC3  
-- 🔄 `Python` : Mis à jour vers la version 3.13.9  
-
-## BASES DE DONNÉES
-- 🔄 `MariaDB` :  
-    - 🔄 Mis à jour vers les versions 10.11.14 et 11.4.8  
-    - ➖ Suppression des versions 11.6.x et 11.7.x  
-    - ➕ Ajout des versions 11.8.3 et 12.0.2  
-
-## APPLICATIONS
-- ➕ `Navigateur Ungoogled Chromium` : Ajout de la version 141.0.7390.76-1 de cette distribution de Chromium.
+## DATABASES
+- 🔄 `MongoDB`         : Mis à jour vers la version 8.2.3
