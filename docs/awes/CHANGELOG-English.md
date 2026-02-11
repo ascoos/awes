@@ -1,14 +1,12 @@
-# 24.3.2
+# 24.3.3
 
-⏰ 2026-01-19
+⏰ 2026-02-11
 
-## AWES
-- 🛠️ `Menu` and `Logs` : Errors in the menus and logs have been fixed.
+## ΔΙΑΚΟΜΙΣΤΕΣ
+- 🔄 `Node.js`  : Upgraded to version 24.13.1
+- 🔄 `PHP`      : Upgraded to versions 8.4.18 and 8.5.3
 
-## SERVERS
-- 🔄 `Node.js`         : Upgraded to version 24.13.0
-- 🔄 `PHP`             : Upgraded to versions 8.3.30, 8.4.17 and 8.5.2
-- 🔄 `IonCube Loaders` : Upgraded to version 15.0.0
 
-## DATABASES
-- 🔄 `MongoDB`         : Upgraded to version 8.2.3
+## ΒΑΣΕΙΣ ΔΕΔΟΜΕΝΩΝ
+- 🔄 `MariaDB`    : Upgraded to versions  10.11.16, 11.4.10, 11.8.6
+- 🔄 `MongoDB`   : Upgraded to version 8.2.5

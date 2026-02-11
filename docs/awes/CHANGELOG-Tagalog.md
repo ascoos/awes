@@ -1,14 +1,12 @@
-# 24.3.2
+# 24.3.3
 
-⏰ 2026-01-19
+⏰ 2026-02-11
 
-## AWES
-- 🛠️ `Menu` at `Logs` : Naayos na ang mga error sa mga menu at log.
+## SERVER
+- 🔄 `Node.js`  : Na-upgrade sa bersyon 24.13.1
+- 🔄 `PHP`      : Na-upgrade sa mga bersyong 8.4.18 at 8.5.3
 
-## SERVERS
-- 🔄 `Node.js`         : Na-update sa bersyon 24.13.0
-- 🔄 `PHP`             : Na-update sa mga bersyong 8.3.30, 8.4.17 at 8.5.2
-- 🔄 `IonCube Loaders` : Na-update sa bersyon 15.0.0
 
-## DATABASES
-- 🔄 `MongoDB`         : Na-update sa bersyon 8.2.3
+## DATABASE
+- 🔄 `MariaDB`  : Na-upgrade sa mga bersyong 10.11.16, 11.4.10, 11.8.6
+- 🔄 `MongoDB`  : Na-upgrade sa bersyon 8.2.5

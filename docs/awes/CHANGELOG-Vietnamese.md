@@ -1,14 +1,12 @@
-# 24.3.2
+# 24.3.3
 
-⏰ 2026-01-19
+⏰ 2026-02-11
 
-## AWES
-- 🛠️ `Menu` và `Logs` : Các lỗi trong menu và nhật ký đã được sửa.
+## MÁY CHỦ
+- 🔄 `Node.js`  : Đã nâng cấp lên phiên bản 24.13.1
+- 🔄 `PHP`      : Đã nâng cấp lên các phiên bản 8.4.18 và 8.5.3
 
-## SERVERS
-- 🔄 `Node.js`         : Đã cập nhật lên phiên bản 24.13.0
-- 🔄 `PHP`             : Đã cập nhật lên các phiên bản 8.3.30, 8.4.17 và 8.5.2
-- 🔄 `IonCube Loaders` : Đã cập nhật lên phiên bản 15.0.0
 
-## DATABASES
-- 🔄 `MongoDB`         : Đã cập nhật lên phiên bản 8.2.3
+## CƠ SỞ DỮ LIỆU
+- 🔄 `MariaDB`  : Đã nâng cấp lên các phiên bản 10.11.16, 11.4.10, 11.8.6
+- 🔄 `MongoDB`  : Đã nâng cấp lên phiên bản 8.2.5

@@ -1,14 +1,12 @@
-# 24.3.2
+# 24.3.3
 
-⏰ 2026-01-19
+⏰ 2026-02-11
 
-## AWES
-- 🛠️ `Menu` i `Logs` : Pogreške u izbornicima i zapisnicima su ispravljene.
+## POSLUŽITELJI
+- 🔄 `Node.js`  : Nadograđen na verziju 24.13.1
+- 🔄 `PHP`      : Nadograđen na verzije 8.4.18 i 8.5.3
 
-## SERVERS
-- 🔄 `Node.js`         : Nadograđen na verziju 24.13.0
-- 🔄 `PHP`             : Nadograđen na verzije 8.3.30, 8.4.17 i 8.5.2
-- 🔄 `IonCube Loaders` : Nadograđen na verziju 15.0.0
 
-## DATABASES
-- 🔄 `MongoDB`         : Nadograđen na verziju 8.2.3
+## BAZE PODATAKA
+- 🔄 `MariaDB`  : Nadograđena na verzije 10.11.16, 11.4.10, 11.8.6
+- 🔄 `MongoDB`  : Nadograđen na verziju 8.2.5

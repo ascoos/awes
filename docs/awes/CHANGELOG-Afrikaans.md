@@ -1,14 +1,12 @@
-# 24.3.2
+# 24.3.3
 
-⏰ 2026-01-19
+⏰ 2026-02-11
 
-## AWES
-- 🛠️ `Menu` en `Logs` : Foute in die kieslyste en logs is reggestel.
+## BEDIENERS
+- 🔄 `Node.js`  : Opgradeer na weergawe 24.13.1
+- 🔄 `PHP`      : Opgradeer na weergawes 8.4.18 en 8.5.3
 
-## SERVERS
-- 🔄 `Node.js`         : Opgradeer na weergawe 24.13.0
-- 🔄 `PHP`             : Opgradeer na weergawes 8.3.30, 8.4.17 en 8.5.2
-- 🔄 `IonCube Loaders` : Opgradeer na weergawe 15.0.0
 
-## DATABASES
-- 🔄 `MongoDB`         : Opgradeer na weergawe 8.2.3
+## DATABASISSE
+- 🔄 `MariaDB`  : Opgradeer na weergawes 10.11.16, 11.4.10, 11.8.6
+- 🔄 `MongoDB`  : Opgradeer na weergawe 8.2.5

@@ -1,14 +1,12 @@
-# 24.3.2
+# 24.3.3
 
-⏰ 2026-01-19
+⏰ 2026-02-11
 
-## AWES
-- 🛠️ `Menu` na `Logs` : Makosa kwenye menyu na rekodi yamerekebishwa.
+## SEVA
+- 🔄 `Node.js`  : Imeboreshwa hadi toleo 24.13.1
+- 🔄 `PHP`      : Imeboreshwa hadi matoleo 8.4.18 na 8.5.3
 
-## SERVERS
-- 🔄 `Node.js`         : Imeboreshwa hadi toleo 24.13.0
-- 🔄 `PHP`             : Imeboreshwa hadi matoleo 8.3.30, 8.4.17 na 8.5.2
-- 🔄 `IonCube Loaders` : Imeboreshwa hadi toleo 15.0.0
 
-## DATABASES
-- 🔄 `MongoDB`         : Imeboreshwa hadi toleo 8.2.3
+## HIFADHI ZA DATA
+- 🔄 `MariaDB`  : Imeboreshwa hadi matoleo 10.11.16, 11.4.10, 11.8.6
+- 🔄 `MongoDB`  : Imeboreshwa hadi toleo 8.2.5

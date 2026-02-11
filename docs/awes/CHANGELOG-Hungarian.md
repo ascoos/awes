@@ -1,14 +1,12 @@
-# 24.3.2
+# 24.3.3
 
-⏰ 2026-01-19
+⏰ 2026-02-11
 
-## AWES
-- 🛠️ `Menu` és `Logs` : A menükben és naplókban található hibák javítva lettek.
+## SZERVERek
+- 🔄 `Node.js`  : Frissítve a 24.13.1 verzióra
+- 🔄 `PHP`      : Frissítve a 8.4.18 és 8.5.3 verziókra
 
-## SERVERS
-- 🔄 `Node.js`         : Frissítve a 24.13.0 verzióra
-- 🔄 `PHP`             : Frissítve a 8.3.30, 8.4.17 és 8.5.2 verziókra
-- 🔄 `IonCube Loaders` : Frissítve a 15.0.0 verzióra
 
-## DATABASES
-- 🔄 `MongoDB`         : Frissítve a 8.2.3 verzióra
+## ADATBÁZISOK
+- 🔄 `MariaDB`  : Frissítve a 10.11.16, 11.4.10, 11.8.6 verziókra
+- 🔄 `MongoDB`  : Frissítve a 8.2.5 verzióra
