@@ -1,4 +1,4 @@
-# Ascoos Web Extended Studio 24.x (AWES)
+# Ascoos Web Extended Studio (AWES)
 
 [![Ιστοσελίδα](https://img.shields.io/website?url=https://www.ascoos.com&style=for-the-badge&label=Επίσημη%20Ιστοσελίδα%20Ascoos)](https://www.ascoos.com) 
 [![Ascoos Web Extended Studio - Κατάσταση Επίσημης Ιστοσελίδας](https://img.shields.io/website?url=https://awes.ascoos.com&style=for-the-badge&label=Ascoos%20Web%20Extended%20Studio)](https://awes.ascoos.com) 
@@ -44,11 +44,7 @@
 ![Ascoos Web Extended Studio - Ημερομηνία Έκδοσης](https://img.shields.io/github/release-date/ascoos/awes?color=%230E80C0)
 ![Ascoos Web Extended Studio - Λήψεις (όλα τα στοιχεία, όλες οι εκδόσεις)](https://img.shields.io/github/downloads/ascoos/awes/total?color=%230E80C0) 
 [![Ascoos Web Extended Studio - Ετικέτα τελευταίας έκδοσης](https://img.shields.io/github/tag/ascoos/awes.svg)](https://github.com/ascoos/awes/tags)
-
 ![Ascoos Web Extended Studio - Μέγεθος αποθετηρίου](https://img.shields.io/github/repo-size/ascoos/awes)
-[![Ascoos Web Extended Studio - Συνολικές γραμμές](https://tokei.rs/b1/github/ascoos/awes?category=lines)](https://github.com/ascoos/awes)
-[![Ascoos Web Extended Studio - Γραμμές πηγαίου κώδικα](https://tokei.rs/b1/github/ascoos/awes?category=code)](https://github.com/ascoos/awes) 
-[![Ascoos Web Extended Studio - Αρχεία στο αποθετήριο](https://tokei.rs/b1/github/ascoos/awes?category=files)](https://github.com/ascoos/awes)
 </details>
 
 <details>
@@ -156,7 +152,7 @@
 </summary>
 <br>
 
-|Όνομα | ✅ 24.2.6 | 24.3 | 24.4 | 24.5 | 24.6 | 25.x | 26.x | 26.x Pro |
+|Όνομα | ✅ 24.3.3 | 24.4 | 24.5 | 24.6 | 24.7 | 25.x | 26.x | 26.x Pro |
 |---|---|---|---|---|---|---|---|---|
 | **AWES Desktop Control**<br>(`Φορητό`) | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
 | **Ascoos Web Host Panel (WHP)** <br> (`Εμπορική Έκδοση βασισμένη στο Ascoos OS`) |  |  |  |  |  |  |  | ✅ |
@@ -173,13 +169,12 @@
 </summary>
  <br>
 
-|Όνομα | ✅ 24.2.6 | 24.3 | 24.4 | 24.5 | 24.6 | 25.x | 26.x | 26.x Pro |
+|Όνομα | ✅ 24.3.3 | 24.4 | 24.5 | 24.6 | 24.7 | 25.x | 26.x | 26.x Pro |
 |---|---|---|---|---|---|---|---|---|
 | **Apache**<br>(`Διακομιστής Ιστοσελίδων`) | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
 | **NGNIX**<br>(`Διακομιστής Ιστοσελίδων`) |  |  |  |  |  |  |  | ✅ |
 | **Filezilla**<br>(`Διακομιστής FTP`) | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
 | **Subversion SVN** <br> (`Αποθετήρια Κώδικα`) | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
-| **GIT**<br>(`Αποθετήρια Κώδικα`) |  |  |  |  |  |  |  | ✅ |
 | **Memcached**<br>(`Επιταχυντής`) | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
 </details>
 
@@ -189,7 +184,7 @@
 </summary>
  <br>
 
-|Όνομα | ✅ 24.2.6 | 24.3 | 24.4 | 24.5 | 24.6 | 25.x | 26.x | 26.x Pro |
+|Όνομα | ✅ 24.3.3 | 24.4 | 24.5 | 24.6 | 24.7 | 25.x | 26.x | 26.x Pro |
 |---|---|---|---|---|---|---|---|---|
 | **PHP** <br> (`Πολλαπλές Εκδόσεις PHP`) | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
 | **Python** <br> (`Εκτέλεση ως Apache CGI`) | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
@@ -202,7 +197,7 @@
 </summary>
  <br> 
 
-|Όνομα | ✅ 24.2.6 | 24.3 | 24.4 | 24.5 | 24.6 | 25.x | 26.x | 26.x Pro |
+|Όνομα | ✅ 24.3.3 | 24.4 | 24.5 | 24.6 | 24.7 | 25.x | 26.x | 26.x Pro |
 |---|---|---|---|---|---|---|---|---|
 | **JSQLDB** <br> (`PHP-native Json SQL Βάση Δεδομένων`) |  |  |  |  |  |  |  | ✅ |
 | **MariaDB** <br> (`Πολλαπλές Εκδόσεις Βάσεων Δεδομένων`) | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
@@ -216,7 +211,7 @@
 </summary>
  <br> 
 
-|Όνομα | ✅ 24.2.6 | 24.3 | 24.4 | 24.5 | 24.6 | 25.x | 26.x | 26.x Pro |
+|Όνομα | ✅ 24.3.3 | 24.4 | 24.5 | 24.6 | 24.7 | 25.x | 26.x | 26.x Pro |
 |---|---|---|---|---|---|---|---|---|
 | **Ascoos File Manager**<br>(`Διαχειριστής Αρχείων Ιστοσελίδων βασισμένος στο Ascoos OS`) |  |  |  |  |  |  |  | ✅ |
 | **phpMyAdmin**<br>(`Διεπαφή Ιστοσελίδων για MariaDB`) | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
@@ -233,7 +228,7 @@
 </summary>
  <br>
 
-|Όνομα | ✅ 24.2.6 | 24.3 | 24.4 | 24.5 | 24.6 | 25.x | 26.x | 26.x Pro |
+|Όνομα | ✅ 24.3.3 | 24.4 | 24.5 | 24.6 | 24.7 | 25.x | 26.x | 26.x Pro |
 |---|---|---|---|---|---|---|---|---|
 | **Ascoos LibIn** <br> (`Εγκαταστάτης Βιβλιοθηκών PHP για Ascoos OS`) |  |  |  |  |  |  |  | ✅ |
 | **OpenSSL** <br> (`Υποστήριξη SSL`) | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
@@ -247,7 +242,7 @@
 </summary>
  <br>
 
-|Όνομα | ✅ 24.2.6 | 24.3 | 24.4 | 24.5 | 24.6 | 25.x | 26.x | 26.x Pro |
+|Όνομα | ✅ 24.3.3 | 24.4 | 24.5 | 24.6 | 24.7 | 25.x | 26.x | 26.x Pro |
 |---|---|---|---|---|---|---|---|---|
 | **Firefox** <br> (`Φορητή Έκδοση για Προγραμματιστές`) | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
 | **Chromium** <br> (`Φορητή ungoogled Έκδοση`) | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
@@ -264,16 +259,13 @@
 </summary>
  <br>
 
-|Προ-εγκατεστημένες Εφαρμογές Ιστοσελίδων | ✅ 24.2.6 | 24.3 | 24.4 | 24.5 | 24.6 | 25.x | 26.x | 26.x Pro |
+| Προ-εγκατεστημένες Εφαρμογές Ιστοσελίδων | ✅ 24.3.3 | 24.4 | 24.5 | 24.6 | 24.7 | 25.x | 26.x | 26.x Pro |
 |---|---|---|---|---|---|---|---|---|
 | **Ascoos CMS Oxyzen** <br> (`Εμπορική Έκδοση βασισμένη στο Ascoos OS`) |  |  |  |  |  |  |  | ✅ |
-| **Ascoos Documentor** <br> (`Εμπορική Έκδοση βασισμένη στο Ascoos OS`) |  |  |  |  |  |  |  | ✅ |
+| **Ascoos Documentor (DoBu)** <br> (`Εμπορική Έκδοση βασισμένη στο Ascoos OS`) |  |  |  |  |  |  |  | ✅ |
 | **Ascoos Bug Manager** <br> (`Εμπορική Έκδοση βασισμένη στο Ascoos OS`) |  |  |  |  |  |  |  | ✅ |
 | **Ascoos Torrent Client** <br> (`Εμπορική Έκδοση βασισμένη στο Ascoos OS`) |  |  |  |  |  |  |  | ✅ |
 | **Ascoos TV Streaming** <br> (`Εμπορική Έκδοση βασισμένη στο Ascoos OS`) |  |  |  |  |  |  |  | ✅ |
-| **Joomla!** <br> (`PHP - CMS. 4.x και 5.x`) | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
-| **Wordpress!** <br> (`PHP - CMS. 5.x και 6.x`) | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
-
 </details>
 
 <details>
@@ -282,11 +274,10 @@
 </summary>
  <br>
 
-|Προ-εγκατεστημένες Βιβλιοθήκες Ιστοσελίδων | ✅ 24.2.6 | 24.3 | 24.4 | 24.5 | 24.6 | 25.x | 26.x | 26.x Pro |
+| Προ-εγκατεστημένες Βιβλιοθήκες Ιστοσελίδων | ✅ 24.3.3 | 24.4 | 24.5 | 24.6 | 24.7 | 25.x | 26.x | 26.x Pro |
 |---|---|---|---|---|---|---|---|---|
-| **Ascoos OS** <br> (`Πυρήνας PHP Web 5`) |  |  |  |  |  |  |  | ✅ |
-| **Ascoos Framework Pro** <br> (`Πλαίσιο PHP βασισμένο στο Ascoos OS`) |  |  |  |  |  |  |  | ✅ |
-| **Ascoos Framework 25** (Δωρεάν Έκδοση)<br> (`Πλαίσιο PHP`) | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
+| **Ascoos OS** <br> (`Εμπορικός Πυρήνας PHP Web5/WebAI`) |  |  |  |  |  |  |  | ✅ |
+| **Ascoos Framework Pro** <br> (`Εμπορικό Πλαίσιο PHP βασισμένο στο Ascoos OS`) |  |  |  |  |  |  |  | ✅ |
 | **phpBCL8** <br> (`Βιβλιοθήκη Συμβατότητας PHP8 προς τα Πίσω`) | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
 | **Ascoos BootLib** <br> (`Πλαίσιο διεπαφής Χρηστών`) |  |  |  | ✅ | ✅ | ✅ | ✅ | ✅ |
 | **jAscoos** <br> (`Πλαίσιο Javascript`) |  |  |  | ✅ | ✅ | ✅ | ✅ | ✅ |
@@ -296,7 +287,7 @@
 
 ## Πνευματικά Δικαιώματα
 
-&#169; 2024-2025 από την [Alexsoft Software](https://www.alexsoft.gr)&#174;
+&#169; 2024-2026 από την [Alexsoft Software](https://www.alexsoft.gr)&#174;
 
 ## Άδειες
     a) Γενική Άδεια ASCOOS (AGL)
