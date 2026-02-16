@@ -1,12 +1,9 @@
-# 24.3.3
+# 24.3.4
 
-⏰ 2026-02-11
+⏰ 2026-02-16
 
-## TJENERE
-- 🔄 `Node.js`  : Oppgradert til versjon 24.13.1
-- 🔄 `PHP`      : Oppgradert til versjonene 8.4.18 og 8.5.3
+!!! OPPMERKSOMHET !!!
+Hvis du har AWES på en annen stasjon enn `C:`, må du konfigurere stiene på nytt via innstillingsvinduet.
 
-
-## DATABASER
-- 🔄 `MariaDB`  : Oppgradert til versjonene 10.11.16, 11.4.10, 11.8.6
-- 🔄 `MongoDB`  : Oppgradert til versjon 8.2.5
+## AWES
+- Diverse rettelser og feilsøking

@@ -1,12 +1,9 @@
-# 24.3.3
+# 24.3.4
 
-⏰ 2026-02-11
+⏰ 2026-02-16
 
-## MÁY CHỦ
-- 🔄 `Node.js`  : Đã nâng cấp lên phiên bản 24.13.1
-- 🔄 `PHP`      : Đã nâng cấp lên các phiên bản 8.4.18 và 8.5.3
+!!! CHÚ Ý !!!
+Nếu AWES nằm trên ổ đĩa khác ngoài `C:`, bạn cần đặt lại đường dẫn trong cửa sổ cài đặt.
 
-
-## CƠ SỞ DỮ LIỆU
-- 🔄 `MariaDB`  : Đã nâng cấp lên các phiên bản 10.11.16, 11.4.10, 11.8.6
-- 🔄 `MongoDB`  : Đã nâng cấp lên phiên bản 8.2.5
+## AWES
+- Nhiều bản sửa lỗi và gỡ lỗi

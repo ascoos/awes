@@ -1,12 +1,9 @@
-# 24.3.3
+# 24.3.4
 
-⏰ 2026-02-11
+⏰ 2026-02-16
 
-## SERVER
-- 🔄 `Node.js`  : Aggiornato alla versione 24.13.1
-- 🔄 `PHP`      : Aggiornato alle versioni 8.4.18 e 8.5.3
+!!! ATTENZIONE !!!
+Se AWES si trova in un’unità diversa da `C:`, sarà necessario reimpostare i percorsi tramite la finestra delle impostazioni.
 
-
-## DATABASE
-- 🔄 `MariaDB`  : Aggiornato alle versioni 10.11.16, 11.4.10, 11.8.6
-- 🔄 `MongoDB`  : Aggiornato alla versione 8.2.5
+## AWES
+- Varie correzioni e operazioni di debug

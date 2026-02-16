@@ -1,12 +1,9 @@
-# 24.3.3
+# 24.3.4
 
-⏰ 2026-02-11
+⏰ 2026-02-16
 
-## SERVRAR
-- 🔄 `Node.js`  : Uppdaterad till version 24.13.1
-- 🔄 `PHP`      : Uppdaterad till versionerna 8.4.18 och 8.5.3
+!!! OBS !!!
+Om du har AWES på en annan enhet än `C:`, måste du konfigurera sökvägarna igen via inställningsfönstret.
 
-
-## DATABASER
-- 🔄 `MariaDB`  : Uppdaterad till versionerna 10.11.16, 11.4.10, 11.8.6
-- 🔄 `MongoDB`  : Uppdaterad till version 8.2.5
+## AWES
+- Diverse korrigeringar och felsökning

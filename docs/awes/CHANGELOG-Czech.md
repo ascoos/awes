@@ -1,12 +1,9 @@
-# 24.3.3
+# 24.3.4
 
-⏰ 2026-02-11
+⏰ 2026-02-16
 
-## SERVERY
-- 🔄 `Node.js`  : Aktualizováno na verzi 24.13.1
-- 🔄 `PHP`      : Aktualizováno na verze 8.4.18 a 8.5.3
+!!! POZOR !!!
+Pokud máte AWES na jiném disku než `C:`, budete muset znovu nastavit cesty v okně nastavení.
 
-
-## DATABÁZE
-- 🔄 `MariaDB`  : Aktualizováno na verze 10.11.16, 11.4.10, 11.8.6
-- 🔄 `MongoDB`  : Aktualizováno na verzi 8.2.5
+## AWES
+- Různé opravy a ladění

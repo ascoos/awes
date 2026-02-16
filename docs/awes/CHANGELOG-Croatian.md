@@ -1,12 +1,9 @@
-# 24.3.3
+# 24.3.4
 
-⏰ 2026-02-11
+⏰ 2026-02-16
 
-## POSLUŽITELJI
-- 🔄 `Node.js`  : Nadograđen na verziju 24.13.1
-- 🔄 `PHP`      : Nadograđen na verzije 8.4.18 i 8.5.3
+!!! PAŽNJA !!!
+Ako imate AWES na drugom disku osim `C:`, morat ćete ponovno postaviti putanje kroz prozor postavki.
 
-
-## BAZE PODATAKA
-- 🔄 `MariaDB`  : Nadograđena na verzije 10.11.16, 11.4.10, 11.8.6
-- 🔄 `MongoDB`  : Nadograđen na verziju 8.2.5
+## AWES
+- Razne ispravke i otklanjanje pogrešaka

@@ -1,12 +1,9 @@
-# 24.3.3
+# 24.3.4
 
-⏰ 2026-02-11
+⏰ 2026-02-16
 
-## SZERVERek
-- 🔄 `Node.js`  : Frissítve a 24.13.1 verzióra
-- 🔄 `PHP`      : Frissítve a 8.4.18 és 8.5.3 verziókra
+!!! FIGYELEM !!!
+Ha az AWES nem a `C:` meghajtón található, akkor a beállítások ablakában újra kell konfigurálnia az elérési útvonalakat.
 
-
-## ADATBÁZISOK
-- 🔄 `MariaDB`  : Frissítve a 10.11.16, 11.4.10, 11.8.6 verziókra
-- 🔄 `MongoDB`  : Frissítve a 8.2.5 verzióra
+## AWES
+- Különféle javítások és hibakeresés

@@ -1,12 +1,9 @@
-# 24.3.3
+# 24.3.4
 
-⏰ 2026-02-11
+⏰ 2026-02-16
 
-## PELAYAN
-- 🔄 `Node.js`  : Dinaik taraf kepada versi 24.13.1
-- 🔄 `PHP`      : Dinaik taraf kepada versi 8.4.18 dan 8.5.3
+!!! PERHATIAN !!!
+Jika AWES berada pada pemacu selain `C:`, anda perlu menetapkan semula laluan melalui tetingkap tetapan.
 
-
-## PANGKALAN DATA
-- 🔄 `MariaDB`  : Dinaik taraf kepada versi 10.11.16, 11.4.10, 11.8.6
-- 🔄 `MongoDB`  : Dinaik taraf kepada versi 8.2.5
+## AWES
+- Pelbagai pembetulan dan penyahpepijatan

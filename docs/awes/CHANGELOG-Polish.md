@@ -1,12 +1,9 @@
-# 24.3.3
+# 24.3.4
 
-⏰ 2026-02-11
+⏰ 2026-02-16
 
-## SERWERY
-- 🔄 `Node.js`  : Zaktualizowano do wersji 24.13.1
-- 🔄 `PHP`      : Zaktualizowano do wersji 8.4.18 i 8.5.3
+!!! UWAGA !!!
+Jeśli AWES znajduje się na innym dysku niż `C:`, musisz ponownie ustawić ścieżki w oknie ustawień.
 
-
-## BAZY DANYCH
-- 🔄 `MariaDB`  : Zaktualizowano do wersji 10.11.16, 11.4.10, 11.8.6
-- 🔄 `MongoDB`  : Zaktualizowano do wersji 8.2.5
+## AWES
+- Różne poprawki i debugowanie

@@ -1,12 +1,9 @@
-# 24.3.3
+# 24.3.4
 
-⏰ 2026-02-11
+⏰ 2026-02-16
 
-## SERVIDORES
-- 🔄 `Node.js`  : Atualizado para a versão 24.13.1
-- 🔄 `PHP`      : Atualizado para as versões 8.4.18 e 8.5.3
+!!! ATENÇÃO !!!
+Se você tiver o AWES em um disco diferente de `C:`, será necessário configurar novamente os caminhos pela janela de configurações.
 
-
-## BANCOS DE DADOS
-- 🔄 `MariaDB`  : Atualizado para as versões 10.11.16, 11.4.10, 11.8.6
-- 🔄 `MongoDB`  : Atualizado para a versão 8.2.5
+## AWES
+- Várias correções e depuração

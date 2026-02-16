@@ -1,12 +1,9 @@
-# 24.3.3
+# 24.3.4
 
-⏰ 2026-02-11
+⏰ 2026-02-16
 
-## PALVELIMET
-- 🔄 `Node.js`  : Päivitetty versioon 24.13.1
-- 🔄 `PHP`      : Päivitetty versioihin 8.4.18 ja 8.5.3
+!!! HUOMIO !!!
+Jos AWES sijaitsee muulla asemalla kuin `C:`, sinun täytyy määrittää polut uudelleen asetusten ikkunasta.
 
-
-## TIETOKANNAT
-- 🔄 `MariaDB`  : Päivitetty versioihin 10.11.16, 11.4.10, 11.8.6
-- 🔄 `MongoDB`  : Päivitetty versioon 8.2.5
+## AWES
+- Erilaisia korjauksia ja virheenkorjauksia
