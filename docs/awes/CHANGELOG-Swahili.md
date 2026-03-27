@@ -1,9 +1,7 @@
-# 24.3.4
+# 24.3.5
 
-⏰ 2026-02-16
+⏰ 2026-03-27
 
-!!! TAHADHARI !!!
-Ikiwa AWES iko kwenye diski tofauti na `C:`, utahitaji kuweka upya njia kupitia dirisha la mipangilio.
-
-## AWES
-- Marekebisho mbalimbali na uondoaji hitilafu
+## SEVA
+- 🔄 `PHP` : Imeboreshwa hadi matoleo 8.4.19 na 8.5.4
+- 🔄 `IonCube Loaders` : Imeboreshwa hadi toleo 15.5.0

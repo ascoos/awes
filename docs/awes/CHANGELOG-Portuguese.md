@@ -1,9 +1,7 @@
-# 24.3.4
+# 24.3.5
 
-⏰ 2026-02-16
+⏰ 2026-03-27
 
-!!! ATENÇÃO !!!
-Se tiver o AWES numa unidade diferente de `C:`, terá de redefinir os caminhos através da janela de definições.
-
-## AWES
-- Várias correções e depuração
+## SERVIDORES
+- 🔄 `PHP` : Atualizado para as versões 8.4.19 e 8.5.4
+- 🔄 `IonCube Loaders` : Atualizado para a versão 15.5.0

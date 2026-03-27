@@ -1,9 +1,7 @@
-# 24.3.4
+# 24.3.5
 
-⏰ 2026-02-16
+⏰ 2026-03-27
 
-!!! OPPMERKSOMHET !!!
-Hvis du har AWES på en annen stasjon enn `C:`, må du konfigurere stiene på nytt via innstillingsvinduet.
-
-## AWES
-- Diverse rettelser og feilsøking
+## TJENERE
+- 🔄 `PHP` : Oppgradert til versjonene 8.4.19 og 8.5.4
+- 🔄 `IonCube Loaders` : Oppgradert til versjon 15.5.0

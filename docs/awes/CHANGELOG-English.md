@@ -1,9 +1,7 @@
-# 24.3.4
+# 24.3.5
 
-⏰ 2026-02-16
+⏰ 2026-03-27
 
-!!! ATTENTION !!!
-If you have AWES in a different drive than `C:`, you will need to set the paths again through the settings window.
-
-## AWES
-- Various fixes and debugging
+## SERVERS
+- 🔄 `PHP` :  Upgraded to versions 8.4.19 and 8.5.4
+- 🔄 `IonCube Loaders` : Upgraded to version 15.5.0

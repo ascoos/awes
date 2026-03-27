@@ -1,9 +1,7 @@
-# 24.3.4
+# 24.3.5
 
-⏰ 2026-02-16
+⏰ 2026-03-27
 
-!!! FIGYELEM !!!
-Ha az AWES nem a `C:` meghajtón található, akkor a beállítások ablakában újra kell konfigurálnia az elérési útvonalakat.
-
-## AWES
-- Különféle javítások és hibakeresés
+## SZERVERek
+- 🔄 `PHP` : Frissítve a 8.4.19 és 8.5.4 verziókra
+- 🔄 `IonCube Loaders` : Frissítve a 15.5.0 verzióra

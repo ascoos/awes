@@ -1,9 +1,7 @@
-# 24.3.4
+# 24.3.5
 
-⏰ 2026-02-16
+⏰ 2026-03-27
 
-!!! HUOMIO !!!
-Jos AWES sijaitsee muulla asemalla kuin `C:`, sinun täytyy määrittää polut uudelleen asetusten ikkunasta.
-
-## AWES
-- Erilaisia korjauksia ja virheenkorjauksia
+## PALVELIMET
+- 🔄 `PHP` : Päivitetty versioihin 8.4.19 ja 8.5.4
+- 🔄 `IonCube Loaders` : Päivitetty versioon 15.5.0

@@ -1,9 +1,7 @@
-# 24.3.4
+# 24.3.5
 
-⏰ 2026-02-16
+⏰ 2026-03-27
 
-!!! ATTENTION !!!
-Si AWES est installé sur un autre lecteur que `C:`, vous devrez reconfigurer les chemins via la fenêtre des paramètres.
-
-## AWES
-- Divers correctifs et débogages
+## SERVEURS
+- 🔄 `PHP` : Mis à jour vers les versions 8.4.19 et 8.5.4
+- 🔄 `IonCube Loaders` : Mis à jour vers la version 15.5.0

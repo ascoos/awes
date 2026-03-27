@@ -1,9 +1,7 @@
-# 24.3.4
+# 24.3.5
 
-⏰ 2026-02-16
+⏰ 2026-03-27
 
-!!! PERHATIAN !!!
-Jika AWES berada pada pemacu selain `C:`, anda perlu menetapkan semula laluan melalui tetingkap tetapan.
-
-## AWES
-- Pelbagai pembetulan dan penyahpepijatan
+## PELAYAN
+- 🔄 `PHP` : Dinaik taraf ke versi 8.4.19 dan 8.5.4
+- 🔄 `IonCube Loaders` : Dinaik taraf ke versi 15.5.0

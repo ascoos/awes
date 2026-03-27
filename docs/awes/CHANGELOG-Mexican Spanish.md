@@ -1,9 +1,7 @@
-# 24.3.4
+# 24.3.5
 
-⏰ 2026-02-16
+⏰ 2026-03-27
 
-!!! ATENCIÓN !!!
-Si tienes AWES en una unidad diferente a `C:`, deberás volver a configurar las rutas desde la ventana de configuración.
-
-## AWES
-- Varias correcciones y depuración
+## SERVIDORES
+- 🔄 `PHP` : Actualizado a las versiones 8.4.19 y 8.5.4
+- 🔄 `IonCube Loaders` : Actualizado a la versión 15.5.0

@@ -1,9 +1,7 @@
-# 24.3.4
+# 24.3.5
 
-⏰ 2026-02-16
+⏰ 2026-03-27
 
-!!! POZOR !!!
-Ak máte AWES na inom disku než `C:`, budete musieť znova nastaviť cesty v okne nastavení.
-
-## AWES
-- Rôzne opravy a ladenie
+## SERVERY
+- 🔄 `PHP` : Aktualizované na verzie 8.4.19 a 8.5.4
+- 🔄 `IonCube Loaders` : Aktualizované na verziu 15.5.0

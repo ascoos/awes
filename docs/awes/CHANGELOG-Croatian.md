@@ -1,9 +1,7 @@
-# 24.3.4
+# 24.3.5
 
-⏰ 2026-02-16
+⏰ 2026-03-27
 
-!!! PAŽNJA !!!
-Ako imate AWES na drugom disku osim `C:`, morat ćete ponovno postaviti putanje kroz prozor postavki.
-
-## AWES
-- Razne ispravke i otklanjanje pogrešaka
+## POSLUŽITELJI
+- 🔄 `PHP` : Nadograđeno na verzije 8.4.19 i 8.5.4
+- 🔄 `IonCube Loaders` : Nadograđeno na verziju 15.5.0

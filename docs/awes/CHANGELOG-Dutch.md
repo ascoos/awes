@@ -1,9 +1,7 @@
-# 24.3.4
+# 24.3.5
 
-⏰ 2026-02-16
+⏰ 2026-03-27
 
-!!! LET OP !!!
-Als je AWES op een andere schijf dan `C:` hebt staan, moet je de paden opnieuw instellen via het instellingenvenster.
-
-## AWES
-- Diverse fixes en foutoplossingen
+## SERVERS
+- 🔄 `PHP` : Geüpgraded naar versies 8.4.19 en 8.5.4
+- 🔄 `IonCube Loaders` : Geüpgraded naar versie 15.5.0

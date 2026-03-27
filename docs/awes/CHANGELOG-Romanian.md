@@ -1,9 +1,7 @@
-# 24.3.4
+# 24.3.5
 
-⏰ 2026-02-16
+⏰ 2026-03-27
 
-!!! ATENȚIE !!!
-Dacă aveți AWES pe un alt disc decât `C:`, va trebui să reconfigurați căile din fereastra de setări.
-
-## AWES
-- Diverse corecții și depanare
+## SERVERe
+- 🔄 `PHP` : Actualizat la versiunile 8.4.19 și 8.5.4
+- 🔄 `IonCube Loaders` : Actualizat la versiunea 15.5.0

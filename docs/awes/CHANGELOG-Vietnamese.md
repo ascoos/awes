@@ -1,9 +1,7 @@
-# 24.3.4
+# 24.3.5
 
-⏰ 2026-02-16
+⏰ 2026-03-27
 
-!!! CHÚ Ý !!!
-Nếu AWES nằm trên ổ đĩa khác ngoài `C:`, bạn cần đặt lại đường dẫn trong cửa sổ cài đặt.
-
-## AWES
-- Nhiều bản sửa lỗi và gỡ lỗi
+## MÁY CHỦ
+- 🔄 `PHP` : Được nâng cấp lên phiên bản 8.4.19 và 8.5.4
+- 🔄 `IonCube Loaders` : Được nâng cấp lên phiên bản 15.5.0

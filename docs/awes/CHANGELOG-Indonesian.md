@@ -1,9 +1,7 @@
-# 24.3.4
+# 24.3.5
 
-⏰ 2026-02-16
+⏰ 2026-03-27
 
-!!! PERHATIAN !!!
-Jika AWES berada di drive selain `C:`, Anda harus mengatur ulang path melalui jendela pengaturan.
-
-## AWES
-- Berbagai perbaikan dan debugging
+## SERVER
+- 🔄 `PHP` : Ditingkatkan ke versi 8.4.19 dan 8.5.4
+- 🔄 `IonCube Loaders` : Ditingkatkan ke versi 15.5.0

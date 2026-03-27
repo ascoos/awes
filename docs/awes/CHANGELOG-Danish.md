@@ -1,9 +1,7 @@
-# 24.3.4
+# 24.3.5
 
-⏰ 2026-02-16
+⏰ 2026-03-27
 
-!!! OPmærksomhed !!!
-Hvis du har AWES på et andet drev end `C:`, skal du konfigurere stierne igen via indstillingsvinduet.
-
-## AWES
-- Forskellige rettelser og fejlfinding
+## SERVERNE
+- 🔄 `PHP` : Opgraderet til versionerne 8.4.19 og 8.5.4
+- 🔄 `IonCube Loaders` : Opgraderet til version 15.5.0

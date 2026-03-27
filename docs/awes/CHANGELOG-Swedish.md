@@ -1,9 +1,7 @@
-# 24.3.4
+# 24.3.5
 
-⏰ 2026-02-16
+⏰ 2026-03-27
 
-!!! OBS !!!
-Om du har AWES på en annan enhet än `C:`, måste du konfigurera sökvägarna igen via inställningsfönstret.
-
-## AWES
-- Diverse korrigeringar och felsökning
+## SERVRAR
+- 🔄 `PHP` : Uppgraderat till versionerna 8.4.19 och 8.5.4
+- 🔄 `IonCube Loaders` : Uppgraderat till version 15.5.0

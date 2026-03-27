@@ -1,9 +1,7 @@
-# 24.3.4
+# 24.3.5
 
-⏰ 2026-02-16
+⏰ 2026-03-27
 
-!!! PAALALA !!!
-Kung nasa ibang drive ang AWES bukod sa `C:`, kailangan mong i-reset ang mga path sa pamamagitan ng settings window.
-
-## AWES
-- Iba’t ibang pag-aayos at debugging
+## MGA SERVER
+- 🔄 `PHP` : Na-upgrade sa bersyon 8.4.19 at 8.5.4
+- 🔄 `IonCube Loaders` : Na-upgrade sa bersyon 15.5.0

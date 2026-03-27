@@ -1,9 +1,7 @@
-# 24.3.4
+# 24.3.5
 
-⏰ 2026-02-16
+⏰ 2026-03-27
 
-!!! DİKKAT !!!
-AWES `C:` dışında başka bir sürücüde yüklüyse, yolları ayarlar penceresinden yeniden yapılandırmanız gerekir.
-
-## AWES
-- Çeşitli düzeltmeler ve hata ayıklama
+## SUNUCULAR
+- 🔄 `PHP` : 8.4.19 ve 8.5.4 sürümlerine yükseltildi
+- 🔄 `IonCube Loaders` : 15.5.0 sürümüne yükseltildi

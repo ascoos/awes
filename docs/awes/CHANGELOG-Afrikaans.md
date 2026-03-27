@@ -1,9 +1,7 @@
-# 24.3.4
+# 24.3.5
 
-⏰ 2026-02-16
+⏰ 2026-03-27
 
-!!! AANDAG !!!
-As jy AWES op ’n ander skyf as `C:` het, moet jy die paaie weer instel via die instellingsvenster.
-
-## AWES
-- Verskeie regstellings en ontfouting
+## BEDIENERS
+- 🔄 `PHP` :  Opgradeer na weergawes 8.4.19 en 8.5.4
+- 🔄 `IonCube Loaders` : Opgradeer na weergawe 15.5.0

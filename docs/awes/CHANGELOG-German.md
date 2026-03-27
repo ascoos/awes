@@ -1,9 +1,7 @@
-# 24.3.4
+# 24.3.5
 
-⏰ 2026-02-16
+⏰ 2026-03-27
 
-!!! ACHTUNG !!!
-Wenn sich AWES auf einem anderen Laufwerk als `C:` befindet, müssen die Pfade im Einstellungsfenster erneut festgelegt werden.
-
-## AWES
-- Verschiedene Fehlerbehebungen und Debugging
+## SERVER
+- 🔄 `PHP` : Aktualisiert auf die Versionen 8.4.19 und 8.5.4
+- 🔄 `IonCube Loaders` : Aktualisiert auf Version 15.5.0
