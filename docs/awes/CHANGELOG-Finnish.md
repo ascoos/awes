@@ -1,7 +1,6 @@
-# 24.3.5
+# 24.3.6
 
-⏰ 2026-03-27
+⏰ 2026-04-14
 
 ## PALVELIMET
-- 🔄 `PHP` : Päivitetty versioihin 8.4.19 ja 8.5.4
-- 🔄 `IonCube Loaders` : Päivitetty versioon 15.5.0
+- 🔄 `PHP` : Päivitetty versioihin 8.4.20 ja 8.5.5

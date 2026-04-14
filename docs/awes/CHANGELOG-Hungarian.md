@@ -1,7 +1,6 @@
-# 24.3.5
+# 24.3.6
 
-⏰ 2026-03-27
+⏰ 2026-04-14
 
 ## SZERVERek
-- 🔄 `PHP` : Frissítve a 8.4.19 és 8.5.4 verziókra
-- 🔄 `IonCube Loaders` : Frissítve a 15.5.0 verzióra
+- 🔄 `PHP` : Frissítve a 8.4.20 és 8.5.5 verziókra

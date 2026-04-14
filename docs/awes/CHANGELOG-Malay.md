@@ -1,7 +1,6 @@
-# 24.3.5
+# 24.3.6
 
-⏰ 2026-03-27
+⏰ 2026-04-14
 
 ## PELAYAN
-- 🔄 `PHP` : Dinaik taraf ke versi 8.4.19 dan 8.5.4
-- 🔄 `IonCube Loaders` : Dinaik taraf ke versi 15.5.0
+- 🔄 `PHP` : Dinaik taraf ke versi 8.4.20 dan 8.5.5

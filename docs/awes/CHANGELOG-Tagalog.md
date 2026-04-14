@@ -1,7 +1,6 @@
-# 24.3.5
+# 24.3.6
 
-⏰ 2026-03-27
+⏰ 2026-04-14
 
 ## MGA SERVER
-- 🔄 `PHP` : Na-upgrade sa bersyon 8.4.19 at 8.5.4
-- 🔄 `IonCube Loaders` : Na-upgrade sa bersyon 15.5.0
+- 🔄 `PHP` : Na-upgrade sa bersyon 8.4.20 at 8.5.5

@@ -1,7 +1,6 @@
-# 24.3.5
+# 24.3.6
 
-⏰ 2026-03-27
+⏰ 2026-04-14
 
 ## SERVEURS
-- 🔄 `PHP` : Mis à jour vers les versions 8.4.19 et 8.5.4
-- 🔄 `IonCube Loaders` : Mis à jour vers la version 15.5.0
+- 🔄 `PHP` : Mis à jour vers les versions 8.4.20 et 8.5.5

@@ -1,7 +1,6 @@
-# 24.3.5
+# 24.3.6
 
-⏰ 2026-03-27
+⏰ 2026-04-14
 
 ## POSLUŽITELJI
-- 🔄 `PHP` : Nadograđeno na verzije 8.4.19 i 8.5.4
-- 🔄 `IonCube Loaders` : Nadograđeno na verziju 15.5.0
+- 🔄 `PHP` : Nadograđeno na verzije 8.4.20 i 8.5.5

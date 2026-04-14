@@ -1,7 +1,6 @@
-# 24.3.5
+# 24.3.6
 
-⏰ 2026-03-27
+⏰ 2026-04-14
 
 ## SEVA
-- 🔄 `PHP` : Imeboreshwa hadi matoleo 8.4.19 na 8.5.4
-- 🔄 `IonCube Loaders` : Imeboreshwa hadi toleo 15.5.0
+- 🔄 `PHP` : Imeboreshwa hadi matoleo 8.4.20 na 8.5.5
