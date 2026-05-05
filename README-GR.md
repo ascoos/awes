@@ -73,7 +73,8 @@
 [![Λήψη Ascoos Web Extended Studio](https://img.shields.io/sourceforge/dw/ascoos-web-extended-studio.svg)](https://sourceforge.net/projects/ascoos-web-extended-studio/files/latest/download)
 [![Λήψη Ascoos Web Extended Studio](https://img.shields.io/sourceforge/dd/ascoos-web-extended-studio.svg)](https://sourceforge.net/projects/ascoos-web-extended-studio/files/latest/download)
 
-<img alt="Ascoos Web Extended Studio Κριτικές" src="https://sourceforge.net/cdn/syndication/badge_img/3805424/oss-users-love-us-white?achievement=oss-users-love-us-white&amp;r=https://sourceforge.net/projects/ascoos-web-extended-studio/" width="128px">
+<img alt="Ascoos Web Extended Studio Κριτικές" src="https://b.sf-syn.com/badge_img/3805424/oss-rising-star-white?achievement=oss-rising-star&r=https://www.test.loc/aos/" width="128px">
+
 
 ### Ascoos Web Server (Για PHP 5.2.x - 5.4.x) [ΤΕΛΟΣ 2015]
   
